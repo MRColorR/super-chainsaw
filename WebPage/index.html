@@ -13,9 +13,9 @@
     const elem = document.getElementById('3d-graph');
 
     const Graph = ForceGraph3D()(elem)
-      .jsonUrl('graph.json')
+      .jsonUrl('./graph.json')
       .nodeAutoColorBy('name')
       .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-      .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));
+      .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'));
   </script>
 </body>
