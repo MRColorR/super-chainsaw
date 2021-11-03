@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-let data = fs.readFileSync('./input/math-graph.txt', 'utf-8');
+let data = fs.readFileSync('./Input/math-graph.txt', 'utf-8');
 const lines = data.split(/\r?\n/);
 let graph = {
     'nodes': [],
@@ -10,8 +10,10 @@ let archi = false
 lines.forEach((row) => {
     if (row == '2277')
         return
-    if (row == '2554') 
+    if (row == '2554') {
         archi = true
+        return
+    }
     if (!archi) {
         let [id, discendenti, ...nome] = row.split(' ')
         nome.join(' ');
