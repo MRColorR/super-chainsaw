@@ -1,8 +1,15 @@
+/**
+ * Script per convertire il dataset da TXT con separatore new line in JSON
+ */
 const fs = require('fs');
 
 let data = fs.readFileSync('./Input/math-graph.txt', 'utf-8');
 const lines = data.split(/\r?\n/);
-let graph = {
+/**
+ * Il grafo deve essere formato da nodi e link con alcuni attributi essenziali come ID , source e target. 
+ * Procediamo con la creazione struttura JSON
+ */
+let graph = {    
     'nodes': [],
     'links': []
 }
