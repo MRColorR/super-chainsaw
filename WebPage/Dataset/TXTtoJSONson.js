@@ -8,6 +8,8 @@ let graph = {
 }
 let archi = false
 lines.forEach((row) => {
+    if (row.length == 0)
+        return
     if (row == '2277')
         return
     if (row == '2554') {
@@ -16,7 +18,6 @@ lines.forEach((row) => {
     }
     if (!archi) {
         let [id, discendenti, ...nome] = row.split(' ')
-        nome.join(' ');
         const nodo = {
             'id': id,
             'discendenti': discendenti,
