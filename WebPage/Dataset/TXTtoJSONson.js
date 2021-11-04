@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs');
 
 let data = fs.readFileSync('./Input/math-graph.txt', 'utf-8');
 const lines = data.split(/\r?\n/);
@@ -6,15 +6,15 @@ let graph = {
     'nodes': [],
     'links': []
 }
-let archi = false
+let archi = false;
 lines.forEach((row) => {
     if (row.length == 0)
-        return
+        return;
     if (row == '2277')
-        return
+        return;
     if (row == '2554') {
-        archi = true
-        return
+        archi = true;
+        return;
     }
     if (!archi) {
         let [id, discendenti, ...nome] = row.split(' ')
@@ -24,7 +24,7 @@ lines.forEach((row) => {
             'name': nome.join(' ')
 
         }
-        graph.nodes.push(nodo)
+        graph.nodes.push(nodo);
     }else {
         let [source, target, year, country] = row.split(' ')
 
@@ -34,7 +34,7 @@ lines.forEach((row) => {
             'year': year,
             'country': country
         }
-        graph.links.push(arco)
+        graph.links.push(arco);
     }
 })
 
