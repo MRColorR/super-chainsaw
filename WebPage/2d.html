@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Per visualizazione resposive della pagina-->
+    <title>Visualizazione 2D</title>
+    <link href="mystile.css" rel="stylesheet" type="text/css">
+
+    <script src="//unpkg.com/force-graph"></script>
+</head>
+
+<body>
+    <h1>This is a Heading</h1>
+    <div>
+        <span><a href='index.html'>HOME</a></span>
+        <span><a href="#3d-graph">VISTA</a></span>
+        <span><a href="2d.html">2D</a></span>
+        <span><a href="circle.html">CIRCLE</a></span>
+    </div>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <p>This is a paragraph.</p>
+    <p>This is another paragraph.</p>
+
+    <div id="graph"></div>
+
+    <script>
+        fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
+            const Graph = ForceGraph()
+                (document.getElementById('graph'))
+                .graphData(data)
+                .nodeId('id')
+                .nodeLabel('name')
+                .nodeAutoColorBy('name')
+                .linkSource('source')
+                .linkTarget('target')
+        });
+    </script>
+</body>
+</html>

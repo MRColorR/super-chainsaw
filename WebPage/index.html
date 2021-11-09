@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="it-it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Per visualizazione resposive della pagina-->
@@ -10,18 +10,30 @@
     <!--  <script src="../../dist/3d-force-graph.js"></script>-->
 </head>
 
-    <body>
+<body>
+    <h1>This is a Heading</h1>
+    <div>
+        <span><a href='#'>HOME</a></span>
+        <span><a href="#3d-graph">VISTA</a></span>
+        <span><a href="2d.html">2D</a></span>
+        <span><a href="circle.html">CIRCLE</a></span>
+    </div>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <p>This is a paragraph.</p>
+    <p>This is another paragraph.</p>
 
-        <div id="3d-graph"></div>
+    <div id="3d-graph"></div>
 
-        <script>
-            const elem = document.getElementById('3d-graph');
+    <script>
+        const elem = document.getElementById('3d-graph');
 
-            const Graph = ForceGraph3D()(elem)
-                .jsonUrl('./Dataset/Output/graph.json')
-                .nodeAutoColorBy('name')
-                .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-                .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'));
-        </script>
-    </body>
+        const Graph = ForceGraph3D()(elem)
+            .jsonUrl('./Dataset/Output/graph.json')
+            .nodeAutoColorBy('name')
+            .nodeLabel(node => `${node.name}: ${node.discendenti}`)
+            .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+            .nodeVal(node => {return node["discendenti"]/500}).linkAutoColorBy("country");
+    </script>
+</body>
 </html>
