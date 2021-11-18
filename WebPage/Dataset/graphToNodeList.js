@@ -1,9 +1,11 @@
 //carico il grafo in JSON
 //provo con indice 18331
 
-function addRoot(idRoot) {
+function addRoot(idRoot, graph) {
+    let root = addNode(idRoot, graph);
     const nodeList = {
-        'name' : idRoot,
+        'name' : root.name,
+        'id' : root.id, 
         'children' : []
     }
     return nodeList;
@@ -17,7 +19,7 @@ function addNode(id, graph) {
             if (element.discendenti != 0) {
                 newNode = {
                     name: id,
-                    id: element.name,
+                    id: editName(element.name),
                     value: element.discendenti,
                     children: []
                 }
@@ -25,6 +27,10 @@ function addNode(id, graph) {
             return newNode;
         }
     }
+}
+
+function editName(name) {
+    return name.replace(/\(([^()]+)\)/g, "");
 }
 
 function getAllChildren(id, graph) {
@@ -78,21 +84,21 @@ export function findDegNodes(graph) {
 }
 
 export function createNodeList(graph, idRoot) {
-    const nodeList = addRoot(idRoot);
-    convertgraph(nodeList,graph);
+    const nodeList = addRoot(idRoot, graph);
+    convertgraph(nodeList, graph);
     removeValue(nodeList);
     return nodeList;
 }
+
 function main () {
     const idRoot = '18331';
     const fs = require('fs');
     const graph = JSON.parse(fs.readFileSync('./Output/graph.json', 'utf-8'));
-    console.log(graph);
-    const nodeList = addRoot(idRoot);
+    const nodeList = addRoot(idRoot, graph);
     convertgraph(nodeList, graph);
     removeValue(nodeList, graph);
     fs.writeFileSync('./Output/graphNodeList.json', JSON.stringify(nodeList));
-    fs.writeFileSync('./Output/graphOutDeg.json', JSON.stringify(degNode));
+    //fs.writeFileSync('./Output/graphOutDeg.json', JSON.stringify(degNode));
 }
 if (typeof module != 'undefined' && !module.main) 
     main(); 

@@ -6,6 +6,7 @@
     <title>Visualizazione 2D</title>
     <link href="mystile.css" rel="stylesheet" type="text/css">
 
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="//unpkg.com/force-graph"></script>
 </head>
 
@@ -28,17 +29,31 @@
 
             <div id="graph"></div>
 
-            <script>
-                fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
-                    const Graph = ForceGraph()
-                        (document.getElementById('graph'))
-                        .graphData(data)
-                        .nodeId('id')
-                        .nodeLabel('name')
-                        .nodeAutoColorBy('name')
-                        .linkSource('source')
-                        .linkTarget('target')
-                });
-            </script>
+    <script>
+        fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
+
+            let linearScale = d3.scaleLinear()
+                .domain([0, 1200000])
+                .range([4, 200])
+
+            const Graph = ForceGraph()
+                (document.getElementById('graph'))
+                .width(window.innerWidth)
+                .height(window.innerHeight)
+                .graphData(data)
+                .nodeVal(d => { return linearScale(d.discendenti)})
+                .d3Force( 'charge', d3.forceManyBody()
+                        .strength(-125)
+                )
+                .d3Force ( 'center', d3.forceCenter(0,0)
+                )
+                .nodeId('id')
+                .nodeLabel('name')
+                .nodeAutoColorBy('name')
+                .linkSource('source')
+                .linkTarget('target');
+           
+        });
+    </script>
 </body>
 </html>
