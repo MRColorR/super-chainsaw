@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="it-it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Per visualizazione resposive della pagina-->
+    <title>Visualizazione 3D</title>
+    <link href="mystile.css" rel="stylesheet" type="text/css">
+
+    <script src="//unpkg.com/3d-force-graph"></script>
+</head>
+
+<body>
+    <h1>This is a Heading</h1>
+    <div id="graph"></div>
+
+    <script>
+        const elem = document.getElementById('3d-graph');
+        const Graph = ForceGraph3D()(elem)
+            .jsonUrl('./Dataset/Output/graph.json')
+            .nodeAutoColorBy('name')
+            .nodeLabel(node => `${node.name}: ${node.discendenti}`)
+            .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+            .nodeVal(node => { return node["discendenti"] / 500 }).linkAutoColorBy("country");
+    </script>
+</body>
+</html>
