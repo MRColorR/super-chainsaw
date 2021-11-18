@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Per visualizazione resposive della pagina-->
-    <title>Visualizazione 2D</title>
+    <title>Progetto Visualizazione Dati</title>
     <link href="mystile.css" rel="stylesheet" type="text/css">
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="//unpkg.com/sunburst-chart"></script>
+    <script src="//unpkg.com/aframe"></script>
+    <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
+
+    <script src="//unpkg.com/3d-force-graph-ar"></script>
 </head>
 
 <body>
-    <h1>This is a Heading</h1>
+    <h1>This is a Heading!</h1>
     <div>
         <span><a href="index.html">HOME</a></span>
         <span><a href="3d-vr.html">3D</a></span>
@@ -24,9 +26,14 @@
     <p>This is a paragraph.</p>
     <p>This is another paragraph.</p>
 
-    <div id="option-wrapper"></div>
-    <div id="chart"></div>
+    <div id="3d-graph"></div>
 
-    <script type="module" src="./circle.js"></script>
+    <script>
+        const Graph = ForceGraphAR()
+            (document.getElementById('3d-graph')).jsonUrl('./Dataset/Output/graph.json')
+            .nodeAutoColorBy('name')
+            .linkAutoColorBy('country')
+            .linkDirectionalParticles(2)
+    </script>
 </body>
 </html>
