@@ -10,3 +10,6 @@ RoadMap:
 - auto update scraped data 
 - possibilty of merge this project in a distributed computing project
 
+- circolare: etichette/nome della persona
+- dal 2d al circolare
+

@@ -6,6 +6,7 @@
     <title>Progetto Visualizazione Dati</title>
     <link href="mystile.css" rel="stylesheet" type="text/css">
 
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="//unpkg.com/3d-force-graph"></script>
     <!--  <script src="../../dist/3d-force-graph.js"></script>-->
 </head>
@@ -18,14 +19,11 @@
         <span><a href="2d.html">2D</a></span>
         <span><a href="circle.html">CIRCLE</a></span>
     </div>
-    <h2>This is heading 2</h2>
-    <h3>This is heading 3</h3>
-    <p>This is a paragraph.</p>
-    <p>This is another paragraph.</p>
 
     <div id="3d-graph"></div>
 
     <script>
+        
         const elem = document.getElementById('3d-graph');
 
         const Graph = ForceGraph3D()(elem)
