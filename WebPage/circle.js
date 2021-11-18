@@ -18,7 +18,21 @@ window.onload = () => {
         }
     }).finally( () => {
         showGraph();
+
+        const options = {
+            childList : true
+        }
+        let tooltip = document.getElementsByClassName('sunburst-tooltip')[0];
+
+        const observer = new MutationObserver( event => {
+            let target = event[0].target.children;
+            const [title, size ,name] = target;
+            title.innerHTML = title.innerHTML.replace(name.textContent, `<font color="yellow"> ${name.textContent} </font>`);
+
     })
+        observer.observe(tooltip, options);
+    })
+
 }
 
 function showGraph(id) {
@@ -28,14 +42,15 @@ function showGraph(id) {
     id = (id == undefined) ? idMaxDeg : id;
     d3.select('#chart').selectAll('*').remove();
     const nodeList = createNodeList(graph, id);
+    console.log(`Radice id: ${id} graph: ${nodeList}`);
     const color = d3.scaleOrdinal(d3.schemePaired);
     Sunburst()
         .data(nodeList)
         .color(d => color(d.name))
         .label( d => d.id )
         .showLabels(true)
-        .tooltipContent((d, node) => {
-            return `Size: <i>${node.value}</i>`;
+        .tooltipContent( (d, node)=> {     
+            return `Size: <i>${node.value}</i> <div class="tooltip-name">${d.id}</div> `;
         })
     (document.getElementById('chart'));
 }
