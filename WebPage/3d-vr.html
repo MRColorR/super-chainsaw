@@ -7,6 +7,7 @@
     <link href="mystile.css" rel="stylesheet" type="text/css">
 
     <script src="//unpkg.com/3d-force-graph"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
 <body>
@@ -31,12 +32,16 @@
     <script>
         const elem = document.getElementById('3d-graph');
 
+        let linearScale = d3.scaleLinear()
+            .domain([0, 1200000])
+            .range([10, 2000])
+
         const Graph = ForceGraph3D()(elem)
             .jsonUrl('./Dataset/Output/graph.json')
             .nodeAutoColorBy('name')
             .nodeLabel(node => `${node.name}: ${node.discendenti}`)
             .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
-            .nodeVal(node => { return node["discendenti"] / 500 }).linkAutoColorBy("country");
+            .nodeVal(d => { return linearScale(d.discendenti) })
     </script>
 </body>
 </html>
