@@ -9,12 +9,15 @@
 
 <body>
     <h1>Progetto di Big Data Visualization </h1>
-    <div>
-        <span><a href="index.html">HOME</a></span>
-        <span><a href="3d-vr.html">3D</a></span>
-        <span><a href="2d.html">2D</a></span>
-        <span><a href="circle.html">CIRCLE</a></span>
-        <span><a href="ar-vr.html">AR</a></span>
+    <div class="dropdown">
+        <button class="dropbtn">Data Visualization</button>
+        <div class="dropdown-content">
+            <span><a href="index.html">HOME</a></span>
+            <span><a href="3d-vr.html">3D</a></span>
+            <span><a href="2d.html">2D</a></span>
+            <span><a href="circle.html">CIRCLE</a></span>
+            <span><a href="ar-vr.html">AR</a></span>
+        </div>
     </div>
     <h2>This is heading 2</h2>
     <h3>This is heading 3</h3>
@@ -31,7 +34,7 @@
             .nodeAutoColorBy('name')
             .nodeLabel(node => `${node.name}: ${node.discendenti}`)
             .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
-            .nodeVal(node => {return node["discendenti"]/500}).linkAutoColorBy("country");
+            .nodeVal(node => { return node["discendenti"] / 500 }).linkAutoColorBy("country");
     </script>
 </body>
 </html>
