@@ -49,13 +49,13 @@
     </div>
 
     <div id="markerDiv" style="display:none">
-        <img id="marker-png" src="Marker_Hiro.png" />
+        <img id="marker-png" src="Marker_Hiro.png" width="600" height="600" />
     </div>
 
-    <div id="ar-graph"></div>
+    <div id="3d-graph"></div>
     <script>
             const Graph = ForceGraphAR()
-                (document.getElementById('ar-graph')).jsonUrl('./Dataset/Output/graph.json')
+                (document.getElementById('3d-graph')).jsonUrl('./Dataset/Output/graph.json')
                 .nodeAutoColorBy('name')
                 .linkAutoColorBy('country')
                 .linkDirectionalParticles(2)
@@ -65,7 +65,7 @@
     <script>
         function toggleMarker() {
             var x = document.getElementById("markerDiv");
-            var y = document.getElementById("ar-graph");
+            var y = document.getElementById("3d-graph");
             if (x.style.display === "none") {
                 x.style.display = "block";
                 y.style.display = "none";
