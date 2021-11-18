@@ -6,13 +6,14 @@
     <title>Progetto Visualizazione Dati</title>
     <link href="mystile.css" rel="stylesheet" type="text/css">
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="//unpkg.com/3d-force-graph"></script>
-    <!--  <script src="../../dist/3d-force-graph.js"></script>-->
+    <script src="//unpkg.com/aframe"></script>
+    <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
+
+    <script src="//unpkg.com/3d-force-graph-ar"></script>
 </head>
 
 <body>
-    <h1>Progetto di Big Data Visualization </h1>
+    <h1>This is a Heading!</h1>
     <div>
         <span><a href="index.html">HOME</a></span>
         <span><a href="3d-vr.html">3D</a></span>
@@ -20,19 +21,19 @@
         <span><a href="circle.html">CIRCLE</a></span>
         <span><a href="ar-vr.html">AR</a></span>
     </div>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <p>This is a paragraph.</p>
+    <p>This is another paragraph.</p>
 
     <div id="3d-graph"></div>
 
     <script>
-        
-        const elem = document.getElementById('3d-graph');
-
-        const Graph = ForceGraph3D()(elem)
-            .jsonUrl('./Dataset/Output/graph.json')
+        const Graph = ForceGraphAR()
+            (document.getElementById('3d-graph')).jsonUrl('./Dataset/Output/graph.json')
             .nodeAutoColorBy('name')
-            .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-            .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
-            .nodeVal(node => {return node["discendenti"]/500}).linkAutoColorBy("country");
+            .linkAutoColorBy('country')
+            .linkDirectionalParticles(2)
     </script>
 </body>
 </html>
