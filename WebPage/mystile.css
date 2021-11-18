@@ -57,3 +57,7 @@ dropbtn {
 .dropdown:hover .dropbtn {
     background-color: grey;
 }
+
+#markerDiv {
+    display: none;
+}
