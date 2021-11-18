@@ -58,6 +58,6 @@ dropbtn {
     background-color: grey;
 }
 
-#markerDiv {
+.tooltip-name {
     display: none;
 }
