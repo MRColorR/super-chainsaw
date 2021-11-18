@@ -26,18 +26,5 @@
     <h3>This is heading 3</h3>
     <p>This is a paragraph.</p>
     <p>This is another paragraph.</p>
-
-    <div id="3d-graph"></div>
-
-    <script>
-        const elem = document.getElementById('3d-graph');
-
-        const Graph = ForceGraph3D()(elem)
-            .jsonUrl('./Dataset/Output/graph.json')
-            .nodeAutoColorBy('name')
-            .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-            .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
-            .nodeVal(node => { return node["discendenti"] / 500 }).linkAutoColorBy("country");
-    </script>
 </body>
 </html>
