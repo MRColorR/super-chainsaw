@@ -8,8 +8,10 @@
 
     <script src="//unpkg.com/aframe"></script>
     <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
-
     <script src="//unpkg.com/3d-force-graph-ar"></script>
+    
+
+
 </head>
 
 <body>
@@ -29,14 +31,50 @@
     <p>This is a paragraph.</p>
     <p>This is another paragraph.</p>
 
+    <script>
+        function toggleImage() {
+            var marker = document.getElementById("marker-png");
+            if (marker.style.display == "none") {
+                marker.style.display = "block";
+            } else {
+                marker.style.display = "none";
+            }
+    </script>
+
+
+    <div class="ar-selector">
+        <button class="marker-button" onclick="toggleMarker()">Show AR Marker</button>
+        <button class="ar-graph-button" onclick="loadScript()">Load AR graph files</button>
+
+    </div>
+
+    <div id="markerDiv" style="display:none">
+        <img id="marker-png" src="Marker_Hiro.png" width="600" height="600" />
+    </div>
+
     <div id="3d-graph"></div>
+    <script>
+            const Graph = ForceGraphAR()
+                (document.getElementById('3d-graph')).jsonUrl('./Dataset/Output/graph.json')
+                .nodeAutoColorBy('name')
+                .linkAutoColorBy('country')
+                .linkDirectionalParticles(2)
+    </script>
+
 
     <script>
-        const Graph = ForceGraphAR()
-            (document.getElementById('3d-graph')).jsonUrl('./Dataset/Output/graph.json')
-            .nodeAutoColorBy('name')
-            .linkAutoColorBy('country')
-            .linkDirectionalParticles(2)
+        function toggleMarker() {
+            var x = document.getElementById("markerDiv");
+            var y = document.getElementById("3d-graph");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+                y.style.display = "none";
+            } else {
+                x.style.display = "none";
+                y.style.display = "block";
+            }
+        }
     </script>
+
 </body>
 </html>
