@@ -87,7 +87,6 @@ export function createNodeList(graph, idRoot) {
     const nodeList = addRoot(idRoot, graph);
     convertgraph(nodeList, graph);
     removeValue(nodeList);
-    console.log(nodeList)
     return nodeList;
 }
 

@@ -3,6 +3,14 @@ import {findDegNodes,createNodeList} from './Dataset/graphToNodeList.js'
 let nodesDeg, graph = undefined;
 
 window.onload = () => {
+
+    let getParam = window.location.search.substr(1);
+    let nodeIdClicked = undefined;
+    if (getParam.length != 0) {
+        nodeIdClicked = getParam.split('=')[1];
+        console.log(`id dal parametro : ${nodeIdClicked}`);
+    }
+
     const div = d3.select('#option-wrapper');
     div.append('label').attr('for', 'nodeSelection').text('seleziona un nodo');
     const menu = div.append('select').attr('name', 'nodeSelection').attr('id', 'nodeSelection').on('change', changeGraph);
@@ -17,7 +25,7 @@ window.onload = () => {
             menu.append('option').attr('name', nodesDeg[v][0]).text(nodesDeg[v][0]);
         }
     }).finally( () => {
-        showGraph();
+        (nodeIdClicked != undefined) ? showGraph(nodeIdClicked) : showGraph();
 
         const options = {
             childList : true
@@ -42,7 +50,6 @@ function showGraph(id) {
     id = (id == undefined) ? idMaxDeg : id;
     d3.select('#chart').selectAll('*').remove();
     const nodeList = createNodeList(graph, id);
-    console.log(`Radice id: ${id} graph: ${nodeList}`);
     const color = d3.scaleOrdinal(d3.schemePaired);
     Sunburst()
         .data(nodeList)

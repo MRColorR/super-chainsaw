@@ -50,6 +50,11 @@
                 .nodeId('id')
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
+                .onNodeClick( (node, event) => {
+                    let url = `http://localhost:8080/WebPage/circle.html?id=${node.id}`;
+                    window.open(url);
+                   
+                })
                 .linkSource('source')
                 .linkTarget('target');
            
