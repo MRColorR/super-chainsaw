@@ -1,0 +1,4833 @@
+2277
+745 0 Paul Friedrich Biedermann
+782 2011 Ernst Leonard Lindelöf
+806 22070 E. H. (Eliakim Hastings) Moore
+3122 3 Richard Heinrich Baltzer
+3312 0 Albert Luther Candy
+3313 0 Carl Christian Engberg
+4642 9764 Ferdinand Georg Frobenius
+5119 1178 Alfred  Loewy
+5657 16 Arnold  Emch
+5695 931 Leonard Eugene Dickson
+5696 5 John Irwin Hutchinson
+5697 0 Herbert Ellsworth Slaught
+5698 0 John Anthony Miller
+5885 921 Oskar  Bolza
+6964 0 Ruth  Gentry
+6965 8 Charlotte Angas Scott
+6966 1 James  Harkness
+6972 0 Emilie Norton Martin
+7270 19 Henry Byron Newson
+7298 29544 David  Hilbert
+7299 10 Otto  Blumenthal
+7300 0 Hans von  Schaper
+7301 0 Heinrich  Dörrie
+7335 0 Michael  Feldblum
+7336 0 Fritz  Beer
+7337 0 Legh Wilber Reid
+7338 0 Anne Lucy Bosworth
+7401 56567 C. Felix (Christian) Klein
+7402 57878 Julius  Plücker
+7403 0 Josef  Diekmann
+7404 42622 C. L. Ferdinand (Carl Louis) Lindemann
+7405 1 Adolf  Weiler
+7407 0 Wilhelm  Braun
+7408 0 Axel Carl Gustav Harnack
+7409 0 Ludwig  Wedekind
+7410 16 Karl Friedrich Wilhelm Rohn
+7412 0 Joseph  Gierster
+7413 123 Adolf  Hurwitz
+7414 25 Otto  Staude
+7415 0 Ernst Julius Martin Lange
+7416 0 Guido  Weichold
+7417 0 Friedrich  Dingeldey
+7418 0 Ernst Wilhelm Fiedler
+7419 0 Otto  Fischer
+7420 0 Paul Richard Domsch
+7421 0 Henry Burchard Fine
+7422 0 Robert Karl Emanuel Fricke
+7423 0 Georg  Friedrich
+7424 0 Paul Gustav Heinrich Nimsch
+7426 0 Richard Emil Olbricht
+7427 0 Willibald Alexander Reichardt
+7428 0 Alexander Carl Johann Adolph Witting
+7429 54 Mellen Woodman Haskell
+7430 0 J.  Schroeder
+7431 2985 Maxime  Bôcher
+7432 0 Henry Seely White
+7433 0 Henry Dallas Thompson
+7434 0 Karl  Schellenberg
+7435 0 Ernst  Ritter
+7436 445 Edward Burr Van Vleck
+7437 0 Friedrich Georg Schilling
+7438 0 Th.  Glauner
+7439 2 Frederick Shenstone Woods
+7441 48 Virgil  Snyder
+7442 0 Charles  Jaccottet
+7443 3876 Philipp  Furtwängler
+7444 0 Mary Frances Winston
+7451 9080 William Edward Story
+7452 6 Henry  Taber
+7453 0 Warren Gardner Bullard
+7454 5 Linnaeus Wayland Dowling
+7455 0 Frederick Carlos Ferry
+7456 0 John Shaw French
+7458 0 John Ethan Hill
+7459 0 Thomas Franklin Holgate
+7463 0 William Henry Metzler
+7466 0 Thomas Flint Nichols
+7470 0 Jacob William Albert Young
+7473 0 Ernest William Rettger
+7486 31528 Karl Theodor Wilhelm Weierstraß
+7487 10480 Hermann Amandus Schwarz
+7611 2173 Frank Nelson Cole
+7666 75 James Waterman Glover
+7674 10 Heinrich  Maschke
+7731 2428 Diederik Johannes Korteweg
+7824 7518 Arthur  Cayley
+7862 6184 Edmund  Landau
+7865 22109 H. A. (Hubert Anson) Newton
+7885 0 James C. Watson
+7939 0 Henry Freeman Stecker
+7940 0 Theodore  Running
+8138 2 Charles A. Van Velzer
+8144 1 Milton Brockett Porter
+8145 1 Frederick Hollister Safford
+8146 0 Donald Francis Campbell
+9306 9 Ernest William Brown
+9699 0 Gottfried  Schlumberger
+9700 0 Ernst Julius Amberg
+9711 1 Sofya Vasilyevna Kovalevskaya
+9712 3779 Heinrich  Bruns
+9713 0 Georg  Hettner
+9714 0 Ludwig Friedrich Wilhelm August Kiepert
+9715 13 Wilhelm  Killing
+9716 0 Johannes  Knoblauch
+9717 0 Ernst  Kötter
+9718 15 Reinhold Franz von Lilienthal
+9719 2 Hans von Carl Friedrich von Mangoldt
+9720 0 Felix Hermann Müller
+9721 23 Eugen Otto Erwin Netto
+9722 3866 Friedrich Hermann Schottky
+9723 3 Ludwig  Stickelberger
+9724 0 Wilhelm Ludwig Thomé
+11369 43 Harris  Hancock
+11370 9009 Lazarus Immanuel Fuchs
+12097 1 Justus Friedrich Wippermann
+12540 11967 Joseph Johann von Littrow
+12541 11965 Nikolai Dmitrievich Brashman
+12542 11963 Pafnuty Lvovich Chebyshev
+12543 9320 Andrei Andreyevich Markov
+12544 6162 Georgy Fedoseevich Voronoy
+12546 5218 Stanislaw  Zaremba
+13105 3546 Ludwig  Boltzmann
+13344 1465 Kazimierz  Twardowski
+15176 1477 Franz Clemens Brentano
+15217 176 Heinrich W.E. Jung
+15635 17818 Carl Gustav Jacob Jacobi
+15654 1341 Paul Albert Gordan
+16915 548 Heinrich Martin Weber
+16966 382 Luigi  Puccianti
+17240 15480 Johann Christoph Sturm
+17241 0 Samuel  Pufendorf
+17467 7002 George Howard Darwin
+17807 672 Georg Alexander Pick
+17813 3549 Pieter (Petrus) Leonard (Leonardus) Rijke
+17829 6992 Andrew Russell Forsyth
+17864 98922 Joseph Louis Lagrange
+17865 98919 Simeon Denis Poisson
+17946 58467 Gustav Peter Lejeune Dirichlet
+17981 58469 Jean-Baptiste Joseph Fourier
+17982 4954 Leopold  Kronecker
+17983 0 Ferdinand Gotthold Max Eisenstein
+18230 90967 Johann Friedrich Pfaff
+18231 80638 Carl Friedrich Gauß
+18232 1 Bernhard (Georg Friedrich Bernhard) Riemann
+18233 0 J. W. Richard (Julius Wilhelm) Dedekind
+18235 1964 M. Sophus (Marius) Lie
+18236 362 Axel  Thue
+18331 35656 Ernst Eduard Kummer
+18332 2425 Paul  Du Bois-Reymond
+18333 0 Otto  Dziobek
+18334 0 Amandus  Wendt
+18335 1 Jacob  Horn
+18336 2068 Leo  Königsberger
+18337 0 Richard Gottfried Karl Müller
+18338 0 Carl Julius Cranz
+18339 2 Richard  Fuchs
+18340 0 Georg Jakob Wallenberg
+18344 1432 Carl David Tolmé Runge
+18346 24 Rudolf Ernst Rothe
+18349 57 Stanislaus  Jolles
+18549 0 Olaus Magnus Friedrich Erdmann Henrici
+18555 0 Grace  Young (geb. Chisholm)
+18571 6991 Edmund Taylor Whittaker
+18589 15437 Wilhelm  Scheibner
+18598 2 Paul Gustav Heinrich Bachmann
+18599 1140 Alexander Wilhelm von Brill
+18600 2230 Franz Ernst Neumann
+18602 3202 Wilhelm  Wirtinger
+18603 35696 Friedrich Wilhelm Bessel
+18607 1289 Rudolf Friedrich Alfred Clebsch
+18608 2420 Otto Ludwig Hölder
+18922 1812 Francesco  Brioschi
+18923 1807 Antonio Luigi Gaudenzio Giuseppe Cremona
+18924 1780 Giuseppe  Veronese
+18925 1779 Guido  Castelnuovo
+19402 3556 Jožef  Stefan
+19466 111 C. H. Eduard (Christoph Hugo) Study
+19496 30 Moritz  Pasch
+19526 538 Heinrich Eduard Schroeter
+19530 6 Fritz  Kötter
+19531 478 Heinrich Franz Bernhard Müller-Breslau
+19534 3 Georg Wilhelm Scheffers
+19770 2123 Gösta Magnus Mittag-Leffler
+19953 1713 Johann Benedict Listing
+19964 56568 Rudolf Otto Sigismund Lipschitz
+19965 1159 Anders  Wiman
+20359 105 Josip  Plemelj
+20367 1161 Carl Fabian Emanuel Björling
+20368 0 Jakob  Bergstedt
+20542 1162 Emanuel Gabriel Björling
+20543 3308 Jöns  Svanberg
+20654 1 Helge  von Koch
+20750 219 Max  Planck
+21235 101114 Otto  Mencke
+21669 1 Johannes  Hjelmslev
+22376 0 Charles Newton Little
+22413 533 Cesare  Arzelà
+22723 1 Karl  Elbs
+22726 4 Ellery William Davis
+22998 4 Alfred  Kleiner
+23194 6430 Johannes Peter Müller
+23213 0 Joseph V. Collins
+23214 1 Samuel J. Kirkwood
+24101 6159 Nicolai Vasilievich Bugaev
+24108 0 Nikolay Yakovlevich Sonin
+24181 1817 Pietro  Paoli
+24182 1817 Sebastiano  Canovai
+24210 383 Angelo  Battelli
+24410 1949 Josiah  Royce
+24555 3901 Jacques Salomon Hadamard
+24894 2124 Göran  Dillner
+24931 0 George Stetson Ely
+25089 0 William Pitt Durfee
+25165 1 Heinrich  Maier
+25212 384 Andrea  Naccari
+25466 1207 Alois  Riehl
+25484 35658 Heinrich Ferdinand Scherk
+26323 2171 Enrico  Betti
+26995 41742 Michel  Chasles
+27143 1 Markus Herfo Fordemann
+27233 4388 Emil  Weyr
+27250 6207 Otto Wilhelm Fiedler
+27258 7355 Johannes  Frischauf
+27259 7315 Gustav  Ritter von Escherich
+28068 3 Rudolf  Eucken
+28227 1478 Franz Jakob Clemens
+28416 1479 Jan Cornelis Kluyver
+29244 394 William  James
+29458 31530 Christoph  Gudermann
+29561 1 Georg Ferdinand Ludwig Philipp Cantor
+29642 57879 Christian Ludwig Gerling
+29675 4478 Hermann  Minkowski
+30175 4026 Sir Francis  Galton
+30176 4025 Karl  Pearson
+30510 545 George  Chrystal
+30691 0 Hans  Meyer
+30705 661 Adolf  Kneser
+31015 1100 Aleksandr Mikhailovich Lyapunov
+31047 660 Camille Marie Ennemond Jordan
+31357 8982 Arnold Johannes Wilhelm Sommerfeld
+32858 13417 Carl Gottfried Neumann
+32916 1 Washington Irving Stringham
+32960 6927 Charles  Hermite
+33908 817 Vito  Volterra
+34180 97 Albert  Wangerin
+34181 440 Karl Johannes Thomae
+34183 0 Georg Daniel Eduard Weyer
+34186 0 Gustav Adolph Roch
+34187 1484 Moritz Wilhelm Drobisch
+34188 6 Hermann  Hankel
+34189 937 Ernst Christian Julius Schering
+34227 983 Henri  Poincaré
+34254 20133 Gaston  Darboux
+34260 4632 Jules  Tannery
+34266 12988 C. Émile (Charles) Picard
+34268 1814 Kurt  Hensel
+35094 2178 Wallace Clement Sabine
+35141 3446 Karl  Reinhold
+35953 6218 August Ferdinand Möbius
+36221 1 Isaac Joachim Schwatt
+36262 3 Edwin Schofield Crawley
+36417 0 George Bruce Halsted
+36555 0 Oscar Howard Mitchell
+37335 1 Thomas  Craig
+37336 14 James Joseph Sylvester
+37337 0 Fabian  Franklin
+37342 739 Edward  Kasner
+37612 0 Amadeus  Hahn
+37613 0 Eugen  Czervinski
+37614 5 Rudolf Constantin Straubel
+37615 0 Max  Reinhold
+37616 0 Theodor  Tuch
+37617 0 Pius  Sack
+37618 0 Albert  Henschel
+37619 0 Hermann  Oppenheimer
+37620 0 Eduard  Penzold
+37621 0 Walter  Rudolphi
+37625 0 Cuthbert  Cullis
+37626 0 Karl  Rückoldt
+37627 0 Johann Heinrich F. Fricke
+37628 0 Hans  Boegehold
+37634 0 Demetrius  Danitsch
+37639 0 Friedrich  Lefler
+37640 163 K. Heinrich Otto (Karl) Liebmann
+37641 0 Johannes  Beinhorn
+37643 0 Heinrich  Schaefer
+37644 2 Johannes  Ostwald
+37645 223 Ludwig  Neumann
+37646 0 Otto  Baumann
+37647 0 Carl  Kroeber
+37648 0 Ernst  Ziemer
+37649 0 Richard  Sellentin
+37650 0 Joh  Schaeffler
+37651 0 Richard  Dietrich
+37652 0 Richard  Berthold
+37653 0 Georg  Sarantopoulos
+37655 0 Otto  Zimmermann
+37656 0 Adolf  Fordemann
+37657 0 &nbsp;  Meyer
+37658 0 Julius  Hoch
+37659 0 Carl August  Hossfeld
+37660 0 Ernst  Hoyer
+37661 0 Bernhard  Trognitz
+37662 0 Paul  Rudolph
+37663 0 Bernhard  Heiland
+37664 0 Eugen  Jahnke
+37665 0 Rudolph  Mischer
+37666 0 Paul  Plettenberg
+37707 50 August  Gutzmer
+37720 0 Gustav  Kase
+37723 0 Richard  Regener
+37724 0 Karl Theodor Martin Bochow
+37725 0 Paul  Schafheitlin
+37726 0 Konrad  Simon
+37727 0 Herman  Fürle
+37728 0 Adolf  Offenhauer
+37729 0 Robert  Claus
+37730 0 Friedrich  Fitting
+37731 0 Friedrich Wilhelm Kirchner
+37732 0 Heinrich  Bork
+37734 0 Gustav  Pflaumbaum
+37735 0 Theodor  Arendt
+37736 0 Max  Rosenkranz
+37737 0 Rudolf  Gaertner
+37738 0 Eugen  Hollaender
+37739 0 Ernst  Kullrich
+37740 0 Albrecht  Fischer
+37742 0 Georg  Bohlmann
+37743 1 Hermann Ernst Graßmann
+37745 0 Josef  Kupferberg
+37800 0 Franz  Gauger
+38055 0 Shunkichi  Kimura
+38060 0 William Anthony Granville
+38061 0 Jacob  Westlund
+38068 0 Wendell Melville Strong
+38078 0 George Tucker Sellew
+38137 0 Leona May Peirce
+38198 0 William Elwood Byerly
+38218 0 Isabel  Maddison
+38223 0 Ida Martha Metcalf
+38228 0 Cadwallader Edwards Linthicum
+38229 0 Hiram John Messenger, Jr.
+38271 0 Annie Louise MacKinnon
+38306 0 Alexander  Pell
+38364 0 Rollin Arthur Harris
+38374 0 Johannes Friedrich Seiler
+38405 795 David  Bierens de Haan
+38516 714 Gerhard Hermann Waldemar Kowalewski
+38586 102757 Leonhard  Euler
+39071 7454 Émile  Borel
+39963 6 August  Messer
+40976 0 Johann Albert Arndt
+40979 0 Theodor  Berner
+40980 0 Wilhelm Gustav Adolf Biermann
+40981 0 Max  Blasendorff
+40982 0 Johann Robert Boymann
+40984 0 Hermann  Bröcker
+40985 0 Franz  Brünnow
+41423 17832 Enno Heeren Dirksen
+41758 1813 Antonio  Bordoni
+41759 2 Eugenio  Beltrami
+42016 14749 William  Hopkins
+42101 0 Hermann Julius Hartenstein
+42452 0 Ferdinand  Rudio
+43272 26 Eugenio  Bertini
+43280 234 Enrico  D'Ovidio
+43282 0 Giovanni Battista Guccia
+43283 232 Corrado  Segre
+43284 0 Giuseppe  Peano
+43290 237 Giuseppe  Battaglini
+43417 101 Walther Hermann Nernst
+43955 492 Robert Karl Hermann Haußner
+45011 254 Woldemar  Voigt
+45099 0 Friedrich  Busse
+45100 0 Ferdinand  Caspary
+45101 74 Elwin Bruno Christoffel
+45102 0 Carl August  Dilling
+45103 3 Ludwig  Ideler
+45104 0 Karl  Färber
+45105 0 Karl  Fischer
+45106 0 Johann Heinrich Fölsing
+45107 0 Joseph Christof Fry
+45108 0 Franz  Gehring
+45110 0 Paul  Günther
+45111 0 Carl Immanuel Gerhardt
+45112 0 Adolph Gustav Goepel
+45113 0 Justus  Graßmann
+45115 0 Adalbert  Harprecht
+45116 13 Lothar  Heffter
+45117 3 Eduard Heinrich Heine
+45118 0 Maximilian  Henoch
+45119 49 Gerhard  Hessenberg
+45120 0 Willy  Howe
+45121 1 Paul  Hoyer
+45621 2661 Johannes Diderik van der Waals
+45622 0 Gustav  de Vries
+46035 0 Ottaviano Fabrizio Mossotti
+46039 1816 Vincenzo  Brunacci
+46060 347 Friedrich  Engel
+46061 738 Adolph Christian Gustav Mayer
+46063 0 David Andrew Rothrock
+46064 0 Otto Paul Pfitzner
+46065 619 Wilhelm Max Wundt
+46066 0 Hermann  Werner
+46067 2 Richard  Kummer
+46068 0 Richard  Koch
+46069 0 Alexis  Letnikow
+46166 0 Gottlob Friedrich Ludwig Frege
+46828 3 Ernst  Zermelo
+46874 0 Ernst  Steinitz
+46875 23 Paul  Stäckel
+46876 6 Arthur Moritz Schoenflies
+46927 1 Jacob  Lüroth
+46928 0 Karl Eduard Zetzsche
+46930 6 Ernst  Schröder
+46966 139 Max  Noether
+46967 14724 Otto  Hesse
+46968 339 Gustav Robert Kirchhoff
+46969 344 Friedrich Wilhelm Franz Meyer
+46970 228 Jan  de Vries
+46971 229 Adrianus Jacobus van Pesch
+46991 3 Felix  Hausdorff
+46993 2103 Georg  Rost
+47025 59018 Karl Christian von Langsdorf
+47064 56605 Martin  Ohm
+47610 342 Ludwig  Schlesinger
+47611 16 Friedrich Heinrich Schur
+47633 57 Hans  Lorenz
+47741 0 Hermann Ludwig Gustav Wiener
+47793 9990 Christian M. von Wolff
+47794 0 Heinrich  Züge
+47795 1 Karl  Baer
+47817 850 Julius  Bauschinger
+47842 0 Heinrich Wilhelm Dove
+48502 24 Julius  Weingarten
+48505 4 Theodor  Vahlen
+49032 3 Hans  Battermann
+49039 0 Karl  Schwering
+49057 6428 Hermann Ludwig Ferdinand von Helmholtz
+49062 487 Jacob  Rosanes
+49063 14 Carl  Snell
+49091 0 Julius  Sommer
+49176 47 Hermann Bernhard Ludwig Stahl
+49177 503 Friedrich Otto Rudolf Sturm
+49178 147 Aurel Edmund Voß
+49179 6 Joseph  Wellstein
+49394 75 Karl Theodor Reye
+49397 0 Maximilian  Simon
+49498 31 James P. Pierpont
+49499 11 Ernst  Fischer
+49522 47 Leopold  Gegenbauer
+49523 7316 Karl  Friesach
+49524 1084 Franz Carl Josef Mertens
+49568 0 Max Christian Ernst Müller
+49650 788 Pieter Hendrik Schoute
+49940 0 Alfred  Tauber
+50701 2509 Joseph John Thomson
+50937 12 Georg Franz Julius Meyer
+51112 1604 Paul Hermann Harzer
+51344 5 Andreas Heinrich Voigt
+51358 50 Willem  Kapteyn
+51374 3722 Ludwig  Prandtl
+51429 428 Eilhard Ernst Gustav Wiedemann
+51470 0 Oskar Emil Meyer
+51622 1 Leonhard  Sohncke
+51623 0 Hermann Karl Julius Traugott Schäffer
+51691 0 Adolf  Piltz
+51692 2 Leo  Pochhammer
+51693 2106 Friedrich Emil Prym
+51780 0 Robert  Schumacher
+51785 0 Richard  Henke
+51876 2 Johann August Grunert
+51877 0 Wilhelm  Schmidt
+51878 1092 Richard  Falckenberg
+51895 6 Johannes Franz Hartmann
+51898 2 Willy (Wilhelm) Carl Werner Otto Fritz Franz Wien
+51899 6 Heinrich  Rubens
+51906 1 August Johann Streng
+52013 0 Martin  Bloch
+52015 0 Fritz  Bremer
+52016 0 Philipp  Brückel
+52020 0 Emil  Daub
+52021 0 Peter  Dittmar
+52027 0 Adam  Flechsenhaar
+52030 0 Philipp  Friedrich
+52050 0 Karl Ernst Jakob Keil
+52052 0 Adam  Keller
+52053 0 Gottfried  Kemmer
+52057 0 Karl  Kratz
+52059 0 Jakob  Kraus
+52063 0 Wilhelm  Loos
+52066 0 Philipp  Männchen
+52067 0 Bernhard  Marggraff
+52071 0 Peter  Muth
+52073 0 Salomon Levi van Oss
+52075 0 Heinrich  Pitz
+52077 0 Julius  Rothholz
+52083 0 Karl  Schmitz
+52084 0 Heinrich  Schnell
+52090 0 Karl  Stoltz
+52095 0 Wilhelm  Thienemann
+52097 0 Karl  Uhrig
+52101 0 Otto  Weimar
+52103 0 Hermann  Willig
+52107 0 Karl  Zulauf
+52212 1221 Robert  Daublewsky von Sterneck
+52263 0 Simon  Goldschmidt
+52271 649 Karl  Doehlemann
+52328 868 Sebastian  Finsterwalder
+52329 10 Ernst  Abbe
+52330 0 Emil Karl Lampe
+52349 4 Karl  Schwarzschild
+52362 34 Wilhelm Julius Förster
+52383 65 Otto  Lummer
+52435 5 Otto Julius Heinrich Knopf
+52440 31 Alfred  Pringsheim
+52886 2 Hermann  Diels
+52900 280 Wilhelm Conrad Röntgen
+52921 9 Moritz Benedikt Cantor
+52924 13 Martin Johann Krause
+52925 96 Karl  Böhm
+52984 0 Max  Abraham
+52991 0 Friedrich  Junker
+53013 2 Ernst  Meumann
+53040 0 Edward  Ullrich
+53041 1 Erwin Johannes Papperitz
+53045 12 Heinrich  Burkhardt
+53253 0 Arthur  Korn
+53268 1 Paul  Epstein
+53410 102953 Johann  Bernoulli
+53413 10 Emil Friedrich Wilhelm Naetsch
+53473 743 Mihailo  Petrovic
+53475 108 Paul  Hensel
+53479 13 Johannes   Volkelt
+54440 102956 Jacob  Bernoulli
+54728 4 Georg Heinrich Bortz
+54762 310 Carl  Stumpf
+54791 5 Paul  Barth
+55175 0 Sophie  Germain
+55177 2 Augustin Louis Cauchy
+55178 0 Niels Henrik Abel
+55185 13015 Joseph  Liouville
+55342 2 Heinrich  Kayser
+55611 3487 Alexander Nikolaevich Korkin
+55642 33 Max  Heinze
+56263 7030 Wilhelm Gottlieb Hankel
+56404 8 Friedrich  Paulsen
+57499 759 Ulisse  Dini
+57544 4 Eduard  Ritter von Weber
+57545 17 Wilhelm  Windelband
+57594 0 Eduard  Selling
+57659 20546 Johann Tobias Mayer
+57667 46646 Bernhard Friedrich Thibaut
+57670 101111 Christian August Hausen
+57706 13884 Friedrich Julius Richelot
+57721 198 Wilhelm Eduard Weber
+57836 0 Georg  Diem
+57839 0 Max Karl Richter
+57978 0 Moritz Richard Rühlmann
+58044 0 Theodor  Adrian
+58045 0 Friedrich  August
+58046 0 Friedrich  Bachmann
+58047 575 Luigi  Bianchi
+58056 0 Joseph  Brutkowski
+58343 98 Vilhelm Friman Koren Bjerknes
+58982 5 James Edward Oliver
+59054 185 Tullio  Levi-Civita
+59068 186 Gregorio  Ricci-Curbastro
+59103 0 Walter  Brix
+59342 0 Eduard  Riecke
+59343 0 Alfred  Enneper
+59545 4 Nicolaus  Engelhard
+59615 0 Johann Jacob Schilling
+59654 2 Lorenz Johann Daniel Suckow
+59657 1 Benjamin Osgood Peirce
+59676 1 Hermann  Umpfenbach
+59682 0 Edmund Jacob Külp
+59684 0 Christian Ernst Wendt
+59836 0 Conrad  Haenig
+60131 1 Georg Simon Klügel
+60198 5 Johannes Friedrich Plessing
+60213 0 Christoph  Bürckmann
+60241 3 Carl Friedrich Hindenburg
+60274 0 Johannes Adolf Siebenhaar
+60295 0 Heinrich Emil Timerding
+60302 207 Kazimierz  Żorawski
+60305 0 Zdzisław  Krygowski
+60552 0 Jan  Ralski
+60555 2 Maria Alexander von Baraniecki
+60560 2 Franciszek  Karliński
+60572 0 Stanisław  Żurakowski
+60573 0 Stanisław  Kępiński
+60580 0 Julian  Zgorzalewicz
+60581 0 Władysław  Kretkowski
+60782 90973 Johann Andreas Segner
+60783 1 Friedrich Gustav Hahn
+60803 3445 Friedrich Adolf Trendelenburg
+60815 0 August Hermann Niemeyer
+60816 0 Christian  Garve
+60817 0 Johann Ephraim Scheibel
+60984 110288 Erhard  Weigel
+60985 109466 Gottfried Wilhelm Leibniz
+61557 1 Karl  Weule
+61590 0 Marie  Gernet
+61670 0 Ernst Adolf Wendt
+61695 0 Arthur Joachim von Oettingen
+61701 0 Wilhelm Paul Schumann
+61705 0 Richard  Schumann
+61731 0 Wilhelm Ernst Martin Georg Ahrens
+61734 1 Karl  Bobek
+61745 0 Reinhold Heinrich Robert Müller
+61749 22 Emil Adalbert Müller
+61848 3271 Hugo Hans von Seeliger
+61849 130 Philipp Ludwig Seidel
+61850 2466 Gustav Conrad Bauer
+61876 0 Vincenz  Nachreiner
+61877 0 Hugo  Krüss
+61879 1 Philipp Johann Gustav von Jolly
+62077 0 Christus  Kakuriotis
+62078 0 Christian August Vogler
+62079 7 Anton  von Braunmühl
+62080 0 Wilhelm  Hess
+62081 0 Walfried  Marx
+62082 0 Georg  Kerschensteiner
+62083 0 Otto  Dotterweich
+62084 0 Gottlieb  Herting
+62086 0 Alfons  Schmitz
+62087 0 Ernst  Schöner
+62088 0 Ernst Emil Ferdinand Anding
+62090 0 Karl  Geiger
+62092 0 Richard  Schorr
+62093 0 Karl  Oertel
+62094 0 Adalbert M. Bock
+62095 0 Oscar  Hecker
+62099 0 Joseph  Mayer
+62100 0 Johann  Goettler
+62101 0 Johannes  Höppner
+62102 0 Ludwig  Marc
+62103 0 Robert  Mayr
+62115 0 Gottlob Friedrich Lipps
+62118 20 Oswald  Külpe
+62397 246 Paul Karl Ludwig Drude
+62532 8 Hermann  Siebeck
+62547 10049 Johann Franz Friedrich Encke
+62576 0 Paul Friedrich Ferdinand Kempf
+62585 3 Friedrich Robert Helmert
+62586 0 Friedrich Christian von Riese
+62589 0 Alexander  Radzig
+62590 0 Joseph  Raatz
+62745 0 Edgar Odell Lovett
+63060 0 Otto  Krebs
+63407 1346 Ladislaus  von Bortkewitsch
+63551 0 Carl  Schilling
+63734 1 Ernst Heinrich Tölken
+63736 0 Leo Ladislaus Wituski
+63737 0 Franz  Woepcke
+63738 0 Eduard  Wiltheiss
+63739 0 Alexander  Wernicke
+63740 0 Wilhelm  Wernicke
+63741 0 Wilhelm Karl Ludwig Wagner
+63742 0 Hermann  Waldaestel
+63743 0 Karl  Weltzien
+63810 1 Rudolf  Mehmke
+63867 0 Theophilus  Wildius
+63875 1 Johannes Joachim Balthasar
+63885 0 Gabriel  Groddek
+64024 2 Johannes Ernst Basilius Wideburg
+64046 0 Ludwig  Lange
+64080 0 Christoph  Vogel
+64082 0 Johannes Lorenz Böckmann
+64465 374 Hermann Rudolf Lotze
+64803 0 Josef  Grünwald
+64937 0 Anton Vincenz Huber
+64946 0 Gustav  Kohn
+64955 0 Ernst  Blaschke
+64957 0 Karl  Carda
+65022 2 Otto  Stolz
+65026 40 Konrad  Zindler
+65029 5184 Carl Christian Bruhns
+65048 0 Josef Anton Gmeiner
+65161 62315 Georg Christoph Lichtenberg
+65162 35659 Heinrich Wilhelm Brandes
+65917 0 Reinder Johan Escher
+65920 6 Johann Heinrich Graf
+65941 0 Nicolaas Pieter Kapteyn
+65942 0 Hermann  Kühne
+65946 0 Max Johannes Brückner
+65990 0 Johann Ludwig Lenz
+66101 1965 Carl Anton Bjerknes
+66102 1965 Cato Maximilian Guldberg
+66156 0 Nathan  Mannheimer
+66165 0 Carl  Heineck
+66166 0 Enno  Jürgens
+66188 0 Konstantin  Winterberg
+66271 235 Federigo  Enriques
+66319 2231 Christian Samuel Weiss
+66476 101106 Abraham Gotthelf Kästner
+66477 0 Joannes Theodorus Meyer
+66530 2 Rudolf  Camerer
+67041 3350 John  Trowbridge
+67317 0 Fritz  Rohde
+67319 16 Friedrich  Küstner
+67327 1092 Gustav Adolf Harnack
+67546 164 Heinrich Rudolph Hertz
+67554 19 Beppo  Levi
+67643 14759 Isaac  Barrow
+67735 236 Edward  Bennett
+68463 0 Heinrich  Samter
+68500 0 Julius  Scheiner
+69220 4 William Fogg Osgood
+71565 3744 August Otto Föppl
+72167 370 Robert Andrews Millikan
+72169 0 Michael Idvorsky Pupin
+72170 377 Albert Abraham Michelson
+72179 89 Arthur  Wehnelt
+72581 1725 Mathias (Matyas)  Lerch
+72614 162 James McKeen Cattell
+72669 101112 Johann Christoph Wichmannshausen
+72841 0 Hermann  Menzel
+73323 2914 Dmitry Aleksandrovich Grave
+73324 806 Jacob  de Gelder
+73594 201 George William Myers
+73650 0 Karl August Fürchtegott Knabe
+73765 14 Maximilian  Wolf
+73810 0 Karl  Heun
+73821 2 Philipp Eduard Anton Lenard
+73822 4 Hermann Theodor Simon
+73823 0 Christian  Moser
+73872 0 Albert  Görland
+73985 804 Gideon Janus Verdam
+74313 14758 Isaac  Newton
+74341 3611 Pieter Johannes Uylenbroek
+74381 0 Rudolf Karl Ferdinand Böger
+74384 104117 Abraham  Klein (Calovius)
+74723 0 Willem Abraham Wythoff
+74729 0 Nicolaas  Quint
+74735 0 Barend  Turksma
+76335 0 Gyula (Julius)  König
+76356 71 Rikitaro  Fudzisawa
+76357 0 A.  Boulanger
+76358 2 Paul  Painlevé
+76359 0 Oswald  Hermes
+76360 0 Otto  Fulst
+76438 0 Oscar Johann Wilhelm Röthig
+76439 0 Xavier  Stouff
+76440 1 Paul  Appell
+76481 102064 Elias Rudolph Camerarius, Sr.
+76482 9396 Elias Rudolph Camerarius, Jr.
+76483 9395 Burchard David Mauchart
+76484 9394 Phillip Friedrich Gmelin
+76485 9392 Johann Friedrich Gmelin
+76486 7232 Georg Friedrich Hildebrandt
+76487 109 Friedrich Wilhelm Georg Kohlrausch
+77898 363 Elling  Holst
+77899 1967 Bernt Michael Holmboe
+77909 0 Christian  Michelmann
+77959 1 Charles Leonard Bouton
+78207 0 Heinrich Karl Friedrich Kreutz
+78732 1233 Alfred North Whitehead
+80886 4183 Benjamin  Peirce
+81192 659 Elie  Cartan
+82584 5 Edmund  Husserl
+83827 1088 Friedrich  Hasenöhrl
+84010 1701 Edward Leamington Nichols
+84012 1698 Ernest Fox Nichols
+84506 759 Arthur Gordon Webster
+84549 0 Agnes Sime Baxter
+84639 0 Eduard Ritter Von Weber
+84657 757 Albert Potter Wills
+85765 34 Walther Franz Anton von Dyck
+86740 1 Adolphe Lambert Jacques Quetelet
+86763 3 Jean-Guillaume  Garnier
+90395 0 George  Schneider
+90694 14 Ferdinand Franz Schweins
+90695 0 K. H. Wilhelm Mahlmann
+90696 0 Rudolf  Dreser
+90697 0 P.  Heimling
+90699 0 Adam Maximilian Nell
+90700 0 Hermann  Lorberg
+90701 0 Karl  Hierholzer
+90702 0 Eugen  Hesslöhl
+90703 0 Thomas E. Hart
+90704 0 Karl  Haase
+90705 0 Joachim  Méckes
+90706 0 Wilhelm  Stahl
+90707 0 Louis  Löwenheim
+90708 0 Georg  Schröder
+90710 0 Wilhelm  Bock
+90711 1189 Moritz  Réthy
+90712 0 Otto  Rausenberger
+90713 0 Alfred  Köpcke
+90714 0 Carl L. Schadwill
+90715 0 Julius  Frey
+90716 0 Hermann  Schapira
+90717 0 Otto  Lühn
+90718 0 Adolph  Migotti
+90719 0 Norbert  Hertz
+90720 0 Moritz  Weiß
+90721 0 Carlo  Veneziani
+90722 0 Sigmund  Rosen
+90723 0 Max  Mandel
+90724 0 Bernhard  Meth
+90725 0 Heinrich  Doerge
+90726 0 Esim  Ratner
+90727 0 Richard  Borck
+90728 0 Friedrich  Zimmer
+90730 0 Otto  Steinert
+90731 0 Marcus  Lewin
+90732 0 Friedrich  Roesch
+91096 0 Louis  Saalschütz
+91582 0 Ivan Mikhajlovich Simonov
+92586 6433 Johann Christian Polykarp Erxleben
+94428 1 Giovanni Battista Negri
+94453 0 Giovanni Enrico Eugenio Vacca
+95530 1950 George Sylvester Morris
+95539 2124 John Newport Langley
+95540 2125 Micheal  Foster
+95541 2126 Thomas Henry Huxley
+96160 1854 Karl  Schmidt
+96164 1856 Paul Gerhard Natorp
+96283 1607 Édouard  Goursat
+96327 9869 Franz Josef Ritter von Gerstner
+96330 9868 Bernard(us) Placidus Johann Nepomuk Bolzano
+96350 8414 Franz  Moth
+96357 8029 Józef Maximilian Petzval
+96720 0 Jacob  Hermann
+97463 21 Gaetano  Scorza
+98424 2 Junius  Massau
+98432 0 Adolphe  Mineur
+99029 517 Konstantin Aleksandrovich Posse
+99434 524 Heike  Kamerlingh Onnes
+99605 395 Pierre  Janet
+100246 0 Wilhelm  Bretschneider
+100550 6930 Eugène-Charles  Catalan
+100566 2 Mathias  Schaar
+100570 182 François  Folie
+100571 2 Félix  Dauge
+100572 179 Marcel  Dehalu
+100573 184 Charles-Jean  de La Vallée Poussin
+100574 1 Paul  Mansion
+100579 1 Constantin  Le Paige
+100584 0 François  Deruyts
+100585 0 Alphonse  Demoulin
+100601 941 Richard  Van Rees
+100602 0 Nicolas-Edouard  Mailly
+101260 0 Pierre-François  Verhulst
+101285 0 Léon  Charve
+101403 1 Farkas  Bolyai
+101411 0 János  Bolyai
+101725 0 Gustav  Mohrmann
+101848 59 P. R. Belleval
+101850 8879 Joseph  Barth
+101851 8878 Georg Joseph Beer
+101852 6781 Johan Peter Frank
+101853 8880 Anton  von Störck
+101854 8888 Gerard  van Swieten
+101855 6782 Georg Matthäus Gattenhof
+101856 9429 Herman  Boerhaave
+101857 1 Albrecht  von Haller
+101858 14120 Burchard  de Volder
+101859 2 Johann Georg Duvernoy
+101860 104710 Franciscus de le Boë Sylvius
+101861 4 Joseph Pitton de Tournefort
+101865 6780 Philipp Franz von Walther
+101893 7231 Johann Salomo Christoph Schweigger
+101900 0 Richard  Winzer
+101929 10272 Edward John Routh
+101979 2511 John William Strutt (Lord Rayleigh)
+102033 0 Thomas Archer Hirst
+102036 14751 Thomas  Jones
+102037 14751 John  Dawson
+102043 14750 Adam  Sedgwick
+102103 0 Wilhelm  Weiss
+102196 0 Theodor  Wienke
+102197 0 Eduard  Wrobel
+102284 1109 Johann Eduard Erdmann
+102292 1108 Kuno Ernst Berthold Fischer
+102483 2513 George Gabriel Stokes
+103066 14752 John  Cranke
+103067 14756 Roger  Cotes
+103068 14755 Robert  Smith
+103126 0 August Friedrich Krause
+103128 0 L.  Bourguet
+103140 0 August  Tafelmacher
+103387 2 Gottfried  Heinsius
+103742 0 Nikolaus (I)  Bernoulli
+103783 0 Heinrich Christoph Ebell
+103791 1 Carl Friedrich Geiser
+104394 6431 Karl Asmund Rudolphi
+104652 13016 Louis Jacques Thenard
+104854 122 Dmitrii Nikolaevich Zeiyliger
+104900 2128 William  McKenzie
+105158 1638 René-Louis  Baire
+105159 0 Jules Joseph Drach
+105484 378 William Arnold Anthony
+105485 377 Harris Joseph Ryan
+105707 0 Adolf  Slaby
+105756 911 Hendrik Antoon Lorentz
+105806 547 James Clerk Maxwell
+106530 6432 Christian Ehrenfried von Weigel
+106605 377 Ernst Heinrich Weber
+106920 1857 Hermann  Cohen
+106921 5134 Immanuel  Kant
+106922 5135 Martin  Knutzen
+106952 0 Boris Yakovlevich Bukreev
+107391 1111 Friedrich Wilhem Joseph von Schelling
+107399 1112 Johann Gottlieb Fichte
+107498 1110 Georg Wilhelm Friedrich Hegel
+107622 0 Marcus  Herz
+108000 0 Philipp Otto Gercken
+108124 0 Edward August Otto Was
+108125 0 Abraham Cornelis van Rijn van Alkemade
+108126 0 M. J. H. Houba
+108127 0 Willem  van Loghem
+108128 0 Pieter Coenraad Frederik Frowein
+108129 0 J. E. Couvée
+108130 0 H.  van der Kamp
+108131 0 Evert Jan Evers
+108132 0 H. C. Los
+108295 98920 Pierre-Simon  Laplace
+108998 0 Daniel  Bernoulli
+110301 1 Kelly Lynn Brinley
+110302 1 Steven Eric Brinley
+110893 5119 Jan Hendrik  van Swinden
+110897 1198 Samuel  König
+110898 1196 Antonius  Brugmans
+110900 978 Johannes Theodorus Rossijn
+110929 70 Pieter  Zeeman
+110949 971 Gerard  Moll
+111259 91 Willem Henri Julius
+111269 101 Christophorus Henricus Didericus Buys Ballot
+111292 1 Johannes Petrus Kuenen
+111312 0 Obe  Postma
+112106 296 Cornelius Hubertus Carolus Grinwis
+112114 225 Jacobus Cornelius Kapteyn
+112171 529 Rudolf Adriaan Mees
+112185 32 Albert Antonie Nijland
+112203 54 Frederik  Kaiser
+112230 9 Hendricus Gerardus van de Sande Bakhuijzen
+112261 36 Jean Abraham Chrétien Oudemans
+112300 0 Pieter Jan Kaiser
+112303 4 Ewoud  van Everdingen
+112320 0 Adriaan  Kempe
+112333 4 Pieter  van Geer
+112497 0 Bernard  Mandeville
+112549 0 Jan Cornelis Bolt
+112550 0 Gerrit Jan Marie Coolhaas
+112551 0 Jacob  Robbers
+112568 55 Willem Jacob 's Gravesande
+112601 1 William  Whewell
+112602 1 George  Peacock
+112646 0 Augustus  De Morgan
+112689 5184 Pierre  Varignon
+112692 5141 Joseph  Serrurier
+112693 260 Pieter  van Musschenbroek
+112694 0 Gysbert Hendrik Casembroot
+112701 5184 Jean-Dominique (Giovanni Domenico) Cassini
+112748 5183 Jacques  Cassini
+112760 0 Govert  du Bois
+112761 0 Johannes  Oosterdijk Schacht
+112762 0 Cornelius  Boeye
+112763 0 Cornelius  Muyser
+112764 5129 Jacob  Odé
+112765 0 Johannes  Oostendorp
+112766 0 Jonas Tseh Szent Peteri
+112767 0 Wilhelmus  Wilhelmius
+112782 0 Alvaro  Telles Dacosta
+112783 0 Petrus  van Aken
+112786 1 Giovanni (Johann) Francesco Melchiore Salvemini de Castillon
+112788 5182 Joseph Nicolas Delisle (de L'Isle )
+112799 55 Frederik  Ruysch
+112812 5178 Johann Friedrich Hennert
+112822 0 Frederick  Dekkers
+112823 473 Hieronymus David Gaubius
+112840 0 Valentijn Jan Blondeel
+112841 5121 Johannes  Lulofs
+112842 0 Isaäcus  ter Bruggen
+112843 0 Daniel  van Goens
+112844 0 Johannes  van Herwerden
+112845 0 Petrus  van Meerwyk
+112846 0 Abdias  Velingius
+112853 0 Jan  Egeling
+112874 55 Charles  Drelincourt
+112876 975 Pierre Charles Le Monnier
+112889 974 Joseph Jérôme LeFrançais de LaLande
+112893 54 Johannes Jacobus Rau
+112928 0 Hermann  Biegmann
+113010 6838 Andreas  von Ettingshausen
+113011 1665 Ernst  Mach
+113012 74 Heinrich  Gomperz
+113021 0 Sébastien  Vaillant
+113028 0 Hermannus  Angelkot
+113029 0 Abrahamus  Barnaart
+113030 0 Nicolaus  Calkoen
+113031 858 Christiaan Hendrik Damen
+113032 0 Stephanus  Göde
+113033 0 Cornelius  Oskamp
+113034 0 Josephus  Pap de Fagaras
+113035 0 Pieter Philip Juriaan Quint Ondaatje
+113036 0 Hendrik Nicolaas Tonis
+113041 972 Jean-Baptiste Joseph Delambre
+113082 2126 William  Sharpey
+113084 1 Martinus Antonius del Rio
+113119 53 Bernhard Siegfried Albinus
+113186 244 Pieter (Petrus)  Camper
+113191 2 Jan Frederik van Beeck Calkoen
+113210 49 Frederik Bernard Albinus
+113245 0 Mattheus Christianus Mensing
+113246 0 Aegidius  de Wit
+113247 0 Gerardus  Simons
+113248 0 Alexander Karel Willem Suerman
+113249 0 Willem Simon Swart
+113250 0 Agnites  Vrolik
+113251 0 Willem  Wenckebach
+113252 0 Petrus  van Galen
+113278 0 Cornelis  Alewĳn
+113279 0 Janus Christianus Schröder
+113280 0 Johannes  Geistman
+113281 0 Theodorus  Fayus
+113282 1 Johan Frederik Lodewijk Schröder
+113403 0 Henricus Casimirus Hoorn
+113493 0 Henricus  Hillers
+113494 0 Hermannus  Knock
+113495 0 Johann Adrian Schlegtendal
+113520 0 Reinout Carel van Tuyll van Serooskerken
+113521 0 Pieter Adriaan Bergsma
+113522 0 Adolf Lodewijk Boeck
+113523 0 Gerardus  Greven
+113524 0 Florentius Goswin Groneman
+113525 0 Gabriel Ludovicus Houël
+113526 0 Frederik Wilhelm Christiaan Krecke
+113527 0 Frederik Wilhelm Krecke
+113528 0 Joannes Theodorus Munnich
+113529 0 Adolf Stephanus Rueb
+113530 0 Hendrik Willem Schroeder van der Kolk
+113531 0 Willem  Smaasen
+113532 0 Janus Henricus Steinigeweg
+113533 0 Johan Gerard Hendrik Swellengrebel
+113534 0 Johannes  Tip
+113535 0 Cebes Herman Jan van Berchuijs
+113536 0 Thade  van Doesburgh
+113537 0 Samuel Reinier Johan van Schevichaven
+113538 0 Pieter Otto Coenraad Vorsselman de Heer
+113563 0 Johannes  Bosscha, Jr.
+113566 4 Willem Adriaan Enschedé
+113567 809 Simon  Speijert van der Eyk
+113568 2 Cornelius  Ekama
+113573 1 Jan Willem Ermerins
+113577 0 Antonius Jacobus van Deinse
+113578 0 Wilhelmus Alexander le Jeune
+113585 0 Jacob Jan Ermerins
+113612 0 Johannes Coenraad Marx
+113613 0 Hendrik  Onnen
+113614 0 Johannes Hendrikus Peek
+113719 9991 Ehrenfried Walter von Tschirnhaus
+113861 3 Antonius  Chaudoir
+113864 0 Otto Johannes Adriaan de Haart
+113865 0 Eiso Henricus Groenman
+113866 0 Dirk Adriaan Kerkhoff
+113867 0 Hendrik  Onnen
+113868 0 Adrianus Jacobus Sandberg
+113869 0 Karel Diederik Schönfeld
+113870 0 Cornelis Bellaar Spruyt
+113871 0 Abraham Johan Verweij
+113872 0 Willem Cornelis Loran van Schaik
+113877 0 Antoine Galenus Jean Norbert Frantzen
+113878 0 Albertus  Harms
+113879 0 Petrus Marinus Heringa
+113880 0 Gerrit Jan Hofs
+113881 3 Victor August Julius
+113882 0 Gerhardus Joannes Legebeke
+113883 0 Jan Arend Nijland
+113884 0 Hendrik Jan Rink
+113885 0 Carel Albert Scheltema
+113886 0 Johannes Paulus van der Stok
+113887 0 Elie  van Rijckevorsel
+113888 0 Pieter Thomas Grinwis
+113889 0 Lambertus  van Elfrinkhof
+113890 0 Pieter  van Mourik
+113891 0 Johannes Jacobus van Rijn
+113943 0 Jacob  Walraven
+113962 0 Jacob Hendrik Meerburg
+113964 0 Nicolaas Gerhardus van Huffel
+114105 1178 Franz-Serafin  Exner
+114286 0 Louis  Bleekrode
+114457 2 Remmelt  Sissingh
+114664 10 Herman  Haga
+114685 0 Dirk  Bos
+114688 0 Cornelis Harm Wind
+114765 385 Francesco  Rossetti
+114843 3669 Hendrik Arent Hamaker
+114890 0 Volkert Simon Maarten van der Willigen
+114925 0 Johannes Andreas Pfister
+114927 14130 Daniel  Berckringer
+114945 14127 Johannes  de Bruyn
+114992 110058 Gilbert  Jacchaeus
+115008 28877 Franck Pieterszoon Burgersdijk
+115030 15541 Henricus (Hendrik de Roy) Regius
+115093 599 Adriaan  van Royen
+115094 496 Andrew  Plummer
+115095 15485 Adriaan  Heereboord
+115139 15482 Johannes  de Raey
+115155 9430 Wolferd  Senguerdius
+115323 0 Matthias  Nethenus
+115324 0 Edward  Barry
+115325 0 William  Brownrigg
+115326 0 William  Cadogan
+115327 0 Nathaniel  Cotton
+115328 0 John  Pringle
+115359 0 Johann  von Flammerdinge
+115360 0 Fredericus Gulielmus Westhovius
+115361 0 Johannes Balthasar Helvetius
+115367 0 Jacobus  Pennockius
+115368 0 Abraham  Stamperius
+115370 0 Joannes  van der Wall
+115395 9441 Antonius  Thysius
+115441 1 John  Keill
+115458 0 William  Whiston
+115463 57 Johannes  van Horne
+115470 0 Reinier  de Graaf
+115471 9440 Arnold  Senguerdius
+115616 0 Florentius  Schuyl
+115617 0 Johannes  Swammerdam
+115713 3 David  Gregory
+115763 0 Johannes Adamus Zinckius
+115775 0 Willem  Arntzenius
+116112 0 Jules Émile Verschaffelt
+116142 2 Martin  Hoek
+116158 0 Pieter Nanning Cramer
+116172 0 Frederik Hendrik Julius
+116173 0 Jacob Elias Stark
+117499 0 Lambertus  van Velthuysen
+117502 0 Petrus  Fucschius
+117503 0 Daniel  Arens
+117504 0 Sibertus  Coeman
+117505 0 Hubertus  Leydekker
+117506 0 Petrus  Tielenius
+117507 0 Jacobus  Witte
+117538 0 W. B. Jelgersma
+117615 0 Johannes  Wiger
+117879 0 Jean Théophile Désaguliers
+118684 4 Johannes  de Gorter
+118720 0 Arthur W. Wright
+118796 3 Carl von Linné Linnaeus
+119097 118728 Gemma (Jemme Reinerszoon) Frisius
+119159 142440 Johannes Winter von Andernach
+119164 2 Gerardus (Gerard de Kremer) Mercator
+119165 2 Johannes (Jan van Ostaeyen) Stadius
+119178 118721 Andreas (Andries van Wesel) Vesalius
+119224 1 John  Dee
+119246 0 Thomas  Digges
+119254 9994 Justus (Joost Lips) Lipsius
+119272 9993 Erycius (Henrick van den Putte) Puteanus
+119293 9992 Arnold  Geulincx
+119558 0 Alexander  Comrie
+120820 0 John  Craig
+121004 495 William   Cullen
+121201 14759 Benjamin  Pulleyn
+121242 6784 Adam  Beringer
+121249 6783 Georg Ludwig Hueber
+121344 0 Thomas  Dale
+121521 2 Walter   Kummer
+122144 0 Francesco  Faa' di Bruno
+122199 223 Wolter Forsten Verschuir
+122200 270 Joseph  Black
+122226 268 Benjamin  Rush
+122265 222 Sebald Justinus Brugmans
+122397 267 Thomas Charles Hope
+122398 220 Gerard  Vrolik
+122418 267 James  Woodhouse
+122437 422 Wouter   van Doeveren
+122438 0 Frederik  Winter
+122448 913 John Bates Clark
+122449 834 Simon  Newcomb
+122450 833 Henry Ludwell Moore
+122493 2 Matthias  van Geuns
+122494 219 Caspar Georg Carl Reinwardt
+122515 6 Johann David Hahn
+122531 218 Anthony Hendrik van der Boon Mesch
+122535 266 Benjamin  Silliman
+122554 173 Ernest  Vessiot
+122556 129 Antoine Paul Nicolas Franchimont
+122557 0 Alexander  Monro
+123331 0 Horace  Lamb
+123427 0 John  Innes
+123428 0 Andrew  St Clair (Sinclair)
+123429 1 John  Rutherford
+123552 0 Thomas  Young
+123681 0 Jacobus Pierson Tholen
+123683 47 Nicolaas Cornelis de Fremery
+123739 10 Alexius  Meinong
+123756 48 Martinus  van Marum
+123757 0 Johann Christoph Bohl
+123758 0 Matthias Ernst Boretius
+123760 1 Henry  Pemberton
+123770 46 Gerrit Jan Mulder
+123866 0 Johann Gottfried Zinn
+123867 0 Daniel  de la Motte
+123868 0 Pybo  Steenstra
+123869 0 Didericus  de Smeth
+123870 0 Michael Paxi de Szathmár
+123871 0 Jacobus  Fenwick van der Gon
+123872 0 Gerardus Johannes Nahuys
+123873 0 Daniel Wilhelmus Nebel
+123949 0 Gadso  Coopmans
+123957 9393 Ferdinand Christoph Oetinger
+123967 76 Robert Wilhelm Eberhard Bunsen
+123968 9394 Michael  Alberti
+123972 1183 Viktor  von Lang
+123973 1768 August Adolph Eduard Eberhard Kundt
+123974 102065 Georg Balthasar Metzger
+123977 9395 Georg Ernst Stahl
+123978 2107 Heinrich Gustav Magnus
+123979 2521 Friedrich  Stromeyer
+123999 2108 Eilhard  Mitscherlich
+124000 92134 Rudolf Wilhelm Krause
+124029 0 Hendrik Carel van der Boon Mesch
+124060 0 Julien Offray de La Mettrie
+124061 0 Johann  Amman
+124062 0 Johannes Fredericus Gronovius
+124063 0 Augustus Johannes Hugo
+124064 0 Johann Thomas Sömmerring
+124086 42 Eduard  Mulder
+124101 0 Esaias  Rouxel
+124119 0 Daniel  Brand
+124120 0 Henricus  de Wal
+124121 0 Bernhardus Christoph Meese
+124122 0 Adolphus  Ypey
+124149 0 Floris Jacobus Voltelen
+124194 261 K. Ferdinand (Karl) Braun
+124283 265 Georg Hermann Quincke
+124284 63 Valentin Konstantinovich Ivanov
+124285 2649 Abraham Gottlob Werner
+124286 2232 René Just Haüy
+124485 1 Bernardus Franciscus Suerman
+124486 353 Nikolaus Joseph von Jacquin
+124490 2650 Johann Carl Gehler
+124566 7 Johann Joseph Loschmidt
+124567 0 Maryan  von Smoluchowski
+124661 290 Emil Gabriel Warburg
+124667 41 Jacobus Henricus van 't Hoff
+124845 2651 Christian Gottlieb Ludwig
+124908 60 Rudolf Julius Emanuel Clausius
+125001 2652 Christoph Friedrich Haase
+125002 2653 Augustin Friedrich Walther
+125006 118558 Adriaan  van den Spieghel
+125023 104711 Adolph  Vorstius
+125047 118735 Petrus (Pierre de La Ramée) Ramus
+125048 102067 Johannes Nicolaus Stupanus
+125104 1 Paul  Erman
+125107 2654 Johann Gottfried von Berger
+125109 118718 Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius
+125124 18791 Johannes (Johan van Heurne) Heurnius
+125125 134660 Emmanuel  Stupanus
+125142 118719 Gabriele  Falloppio
+125143 2660 Augustin Heinrich Fasch
+125148 118718 Theodor  Zwinger
+125154 102801 Werner  Rolfinck
+125159 134805 Immanuel  Tremellius
+125160 134805 Valentine  Naibod
+125173 15543 Otho (Otto van Heurne) Heurnius
+125181 134804 Rudolph (Snel van Royen) Snellius
+125184 0 Robert  Sibbald
+125232 109562 Ludolph  van Ceulen
+125233 15544 Petrus (Pierre du Moulin) Molinaeus
+125274 0 William  Harvey
+125299 2 Isaac  Beeckman
+125302 109560 Willebrord (Snel van Royen) Snellius
+125303 118720 Matteo Realdo (Renaldus Columbus) Colombo
+125358 0 René (Renatus Cartesius) Descartes
+125366 0 Thomas Jan Stieltjes
+125373 3678 Henricus  Brucaeus
+125378 109560 Thomas  Erpenius
+125379 3 Tycho (Tyge Ottesen) Brahe
+125390 3677 Pieter (Petrus Pavius) Pauw
+125407 0 Adriaan Adriaansz Metius
+125408 109559 Jacobus  Golius
+125416 109468 Jan Jansz Stampioen, Jr.
+125421 111 Joseph Sweetman Ames
+125422 142442 Jacobus (Jacques Dubois) Sylvius
+125423 0 Carolus (Charles Estienne) Stephanus
+125434 121157 Marin  Mersenne
+125450 109473 Frans  van Schooten, Jr.
+125488 91116 Georg Wolffgang Wedel
+125560 0 Johan  de Witt
+125561 109467 Christiaan  Huygens
+125585 164 Henry Augustus Rowland
+125588 1 Johann Friedrich Gottlieb Goldhagen
+125650 0 Johannes  Hudde
+125651 0 Hendrik  van Heuraet
+125658 118748 Nicolas (Nicolaes Cleynaerts) Clénard
+125665 118747 Johannes (Johann Sturm) Sturmius
+125681 118749 Jacobus (Jacques Masson) Latomus
+125682 118749 Jan (Johannes Campensis) van Campen
+125698 4 Friedrich  Hoffmann
+125755 142428 Jacob ben Jehiel  Loans
+125760 142427 Johann (Johannes Kapnion) Reuchlin
+125794 118750 Matthaeus  Adrianus
+125846 91113 Johann Adolph Wedel
+125886 91112 Georg Erhard Hamberger
+125888 142538 Jan  Standonck
+125892 118729 Petrus (Pieter de Corte) Curtius
+125894 118730 Maarten (Martinus Dorpius) van Dorp
+125897 118731 Leo  Outers
+125898 142506 Alexander  Hegius
+125938 142505 Desiderius  Erasmus
+125939 0 John  Mair
+125971 90974 Simon Paul Hilscher
+126026 0 Samuel Gottlieb Gmelin
+126031 576 Anton Friedrich Justus Thibaut
+126038 0 Friedrich  Dolezalek
+126064 0 Michael (Miquel Servet) Servetus
+126087 140064 Georg  von Peuerbach
+126109 140063 Johannes Müller Regiomontanus
+126111 102802 Daniel  Sennert
+126112 140062 Domenico Maria Novara da Ferrara
+126113 140062 Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz
+126119 4416 Johann August Ernesti
+126120 4373 Johann August Bach
+126124 4372 Christian Gottlob Heyne
+126177 140061 Nicolaus (Mikołaj Kopernik) Copernicus
+126334 1 Karl Friedrich von Kielmeyer
+126343 0 Johannes  Walaeus
+126344 0 Emil  Stenberg
+126355 351 Leopold  Gmelin
+126356 0 Ferdinand  Gmelin
+126371 352 Joseph Franz von Jacquin
+126484 0 Harry Fielding Reid
+126485 0 Edward Bennett Rosa
+126489 110059 Jacobus (Jacob Harmensz.) Arminius
+126571 142441 Rutger  Rescius
+126659 142505 Ulrich  Zasius
+126667 142449 Jakob  Milich
+126724 140062 Bonifazius  Erasmi
+126730 140061 Johannes  Volmar
+126736 142448 Erasmus  Reinhold
+126827 140060 Georg Joachim von Leuchen Rheticus
+126875 104148 Caspar  Peucer
+126887 140065 Johannes   von Gmunden
+126888 140063  Luca  Pacioli
+126894 3446 Georg  Ludwig König
+126895 4374 Christian Wilhelm Küstner
+126946 0 Bartholomäus  Schönborn
+126947 0 Matthias  Stoius
+126956 142396 Philipp  Melanchthon
+126957 104144 Sebastian (Theodoricus) Dietrich
+127010 3 Johannes (Richter) Praetorius
+127011 118722 Johannes  Hommel
+127020 4 Samuel  Heyland
+127039 4 Philipp  Apian
+127040 12 Karl Eugen Guthe
+127049 3 Michael  Maestlin
+127050 0 Bartholomäus (Barthel Schulz) Scultetus
+127061 104138 Valentin (Valentinus Otho) Otto
+127092 118720 Valentin  Thau
+127098 1 Johannes  Kepler
+127107 142399 Johannes  Stöffler
+127110 5 Michael  Beuther
+127135 7232 Franz August Wolf
+127144 118764   Pelope
+127165 3676 Menelaus  Winsemius
+127166 118763 Niccolò  Leoniceno
+127167 0 Petrus  Saxonius
+127168 0 Daniel  Schwenter
+127181 142503 Girolamo (Hieronymus Aleander) Aleandro
+127245 118720 Antonio Musa Brasavola
+127252 104140 Salomon  Alberti
+127264 140066 Heinrich   von Langenstein
+127275 104139 Andreas  Schato
+127278 102803 Jan  Jessenius
+127308 6 Adolf  Fick
+127315 5 Johann Jakob Müller
+127365 1 Sebastian  Münster
+127366 0 Johann Heinrich Müller
+127386 0 Georg Christoph Eimmart
+127387 0 Johann Christoph Klimm
+127390 166 Christoph  Reuchlin
+127413 167 Kilian   Rudrauf
+127414 166 Michael  Förtsch
+127424 4 Erasmus  Schmidt
+127459 104137 Melchior  Jöstel
+127461 104137 Ernestus  Hettenbach
+127602 158 Christian Eberhard Weismann
+127606 104136 Ambrosius  Rhodius
+127636 4374 Johann Friedrich Christ
+127646 4419 Johann  Franz Buddeus
+127647 4417 Johann Matthias Gesner
+127665 1 Abdias  Trew
+127668 90969 Johann Georg Büsch
+127671 4375 Karl Gottlieb Knorre
+127710 90968 Johann Elert Bode
+127724 104128 Christoph  Nottnagel
+127727 0 Johann Gabriel Doppelmayr
+127728 0 Johann Christoph Wagner
+127734 1 Nicolaus  Zapf
+127770 3 Heinrich Friedrich Weber
+127790 110296 Moritz Valentin Steinmetz
+127791 0 Johann Caspar Odontius
+127801 0 Aegidius  Strauch
+127803 4376 Johann  Peter von Ludewig
+127845 401 William  Archibald Dunning
+127848 102809 Jacobus   Martini
+127864 6 Nikolaus  Selnecker
+127898 5 Sethus  Calvisius
+127911 104117 Andreas  Kunad
+127923 104116 Aegidius  Strauch
+127942 5 Petrus   Otto
+127945 4377 Samuel  Stryk
+127946 8649 Christian   Thomasius
+127956 104116 Johann Andreas Quenstedt
+127962 104115 Michael  Walther, Jr.
+128012 142508 Rudolf  Agricola
+128013 0 Conrad  Celtis
+128046 101117 Johann  Pasch
+128056 6839 Ignaz  Lindner
+128097 104117 Georg  Calixt
+128104 104118 Johannes  Caselius
+128105 105808 Cornelius  Martini
+128112 1 Friedrich Ludwig Kämtz
+128122 118714 Duncan  Liddel
+128131 13 Hermann   Paasche
+128142 0 Zephyrin Victor Elliot
+128143 1 Charles  Briot
+128239 0 Daniel  Lagus
+128240 1 Johannes  Scharff
+128305 118715 John  Craig
+128348 118715 Paul  Wittich
+128368 1 Lothar  Zumbach von Koesfeld
+128369 5144 Paul  Hermann
+128377 1 Rudolph Christian Wagner
+128411 1 Balthasar  Widmarcter
+128703 2 John  Hudson
+128743 0 Johann Georg Macasius
+128929 7 Franz  Ludwig Fick
+128930 31 Johannes  Ernst Conrad
+128931 1 Johannes  Musaeus
+128938 101117 Rudolf Jakob Camerarius
+128986 101116 Johann Andreas Planer
+128987 142443 François  Dubois
+128991 2 Georg  Großhain
+129009 3 Paul  Röber
+129079 3 Johannes Fridericus Weidlerus
+129287 183 Pierre   Curie
+129311 63 Jozef  Karl Franz Otto Ritter von Geitler-Armingen
+129344 681 Karel   Petr
+129420 10273 Isaac  Todhunter
+129628 102954 Nikolaus  Eglinger
+129648 1857 Ernst  Laas
+129708 102955 Johann  Caspar Bauhin
+129776 0 Karl Arthur Umlauf
+129883 659 Marie  Georges  Humbert
+129884 662 Victor  Alexandre Puiseux
+129885 661 Joseph Alfred Serret
+129893 0 Noël  Béda
+130248 134661 Petrus  Ryff
+130323 3670 Joannes   Willmet
+130346 3672 Joannes Jacobus Schultens
+130461 3673 Albert   Schultens
+130489 3674 Johannes   Braun
+130575 3675 Johannes   Coccejus
+130840 3676 Sixtinus  Amama
+130913 3815 Johannes (van den Driesche) Drusius
+130991 41 Victor  Dantscher
+130995 3816 Raoul (Rodolphus Cavellerius) le Chevalier
+131235 3817 François  Vatable
+131236 3817 Paul (Paul Büchlein) Fagius
+131383 58 Johann  Vesling
+131398 14362 Jacques (Jacobus Faber) Lefèvre d'Étaples
+131399 103095 Wolfgang Fabricius Capito
+131400 3818 Elijah ben Asher Levita
+131443 142493 Georgius  Hermonymus
+131444 142538 Johannes  Argyropoulos
+131446 142504 Moses  Perez
+131447 142504 Scipione  Fortiguerra
+131517 142442 Guillaume  Budé
+131535 142506 Angelo  Poliziano
+131539 142507 Marsilio  Ficino
+131540 142507 Cristoforo  Landino
+131541 142472 Janus  Lascaris
+131546 142431 Jacques  Toussain
+131561 142589 Basilios  Bessarion
+131575 142592 Georgios Plethon Gemistos
+131576 142473 Demetrios  Chalcocondyles
+131577 109561 Joseph Justus Scaliger
+131584 142559 Theodoros  Gazes
+131589 0 Michelangelo  Buonarroti
+131606 115352 Adrien  Turnèbe
+131699 1 Paolo dal Pozzo Toscanelli
+131700 0 Leonardo  da Vinci
+131821 14146 Theodorus (Théodore de Bèze) Beza
+131905 14155 Melchior  Wolmar
+131939 3671 Everardus  Scheidius
+131978 3672 Nicolaus Wilhelm Schröder
+131979 0 Theodorus Adrianus Clarisse
+131981 0 Taco  Roorda
+131982 56 Henricus Engelinus Weyers
+131983 0 Theodor Wilhelm Johannes Juynboll
+132044 14153 Johannes  Calvin
+132045 14154 Andrea  Alciati
+132212 3 Johannes  Horthemels
+132273 5 Johannes  Luyts
+132422 6 Gerard  de Vries
+132431 0 Dionysius  van de Wijnpersse
+132468 14143 Gisbertus  Voetius
+132487 3351 Joseph  Lovering
+132488 14144 Franciscus (François Gomaer) Gomarus
+132507 810 Pieter  Nieuwland
+132508 811 Daniel Albert Wyttenbach
+132530 812 August Gottlieb Spangenberg
+132578 37 Josiah Willard Gibbs
+132725 9992 Pieter  van Schooten
+133027 298 Edward Bradford Titchener
+133282 237 Reginald  Fessenden
+133301 14752 Thomas  Postlethwaite
+133302 14760 Vincenzo  Viviani
+133310 78 Andreas  Smits
+133367 14753 Stephen  Whisson
+133368 14754 Walter  Taylor
+133391 85 Jacob Maarten van Bemmelen
+133396 36 Ernest Julius Cohen
+133447 84 Hendrik Willem Bakhuis Roozeboom
+133507 14 Cornelis Adriaan Lobry van Troostenburg de Bruyn
+133530 1 Willem  Reinders
+133531 0 Franciscus Antonius Hubertus Schreinemakers
+133545 0 Albertus  van Bijlert
+133550 0 Gerrit  Hondius Boldingh
+133586 16 Arnold Frederik Holleman
+133587 84 Pieter  van Romburgh
+133594 0 Pieter Johannes van Kerckhoff
+133595 0 Eduard Hendrik von Baumhauer
+133596 1 Simon  Karsten
+133597 0 Jan Willem Gunning
+133598 0 Antoine Corneille Oudemans, Jr.
+133642 13 Jacob  Böeseken
+133754 0 Theodoros II  Palaiologos
+133788 11 Hendrik  Zwaardemaker
+133814 189 Thomas  Place
+133834 191 Franciscus Cornelis Donders
+133920 0 Willem Paulinus Jorissen
+134020 8 Christian Heinrich Bünger
+134029 0 Christiaan  Eijkman
+134037 0 Willem  Einthoven
+134060 192 Jacob Lodewijk Koenraad Schroeder van der Kolk
+134368 0 Louis  Duncan
+134648 193 Gerbrand  Bakker
+134672 194 Meinard Simon du Pui
+134780 142616 Demetrios  Kydones
+134781 142593 Elissaeus  Judaeus
+134873 142563 Vittorino  da Feltre
+134896 0 Lucas  Schacht
+134898 48 Nicolaas  Paradijs
+134931 142564 Guarino  da Verona
+134936 0 Isaak  Bacharach
+134975 15222 Galileo  Galilei
+135185 142565 Manuel  Chrysoloras
+135259 0 Carl Peter Thunberg
+135260 0 Anders  Sparrman
+135290 0 Fredrik  Hasselquist
+136245 15223 Ostilio  Ricci
+136535 82 Moritz  Schröter
+136536 59 Carl Paul Gottfried von Linde
+136575 15220 Benedetto  Castelli
+136576 0 Mario  Guiducci
+136714 366 Gustav Anton Zeuner
+136715 60 Franz  Reuleaux
+136716 62 Ferdinand Jakob Redtenbacher
+136717 63 Johann  Arzberger
+136726 118766 Pietro  Roccabonella
+136936 1348 Wilhelm Hektor Richard Albrecht Lexis
+137028 1349 August  Beer
+137066 1961 Gustav  von Schmoller
+137067 1492 Adolph Heinrich Gotthelf Wagner
+137068 1427 Werner  Sombart
+137099 0 A. I. Vasilʹev
+137132 94 Friedrich Wilhelm Ostwald
+137227 0 Benjamin  Robins
+137314 95 Carl Ernst Heinrich Schmidt
+137705 139311 Jakob  Thomasius
+137717 8650 Valentin  Alberti
+138036 67 Arthur Amos Noyes
+138162 12 Amos  Eaton
+138163 11 Douglass  Houghton
+138164 10 Silas H. Douglas
+138165 9 Albert Benjamin Prescott
+138166 8 Moses  Gomberg
+138204 462 Louis Marcel Brillouin
+138318 55 Reinhart Pieter Anne Dozy
+138329 906 Ottokar  Tumlirz
+138500 167 Justus  von Liebig
+138726 54 Michael Jan de Goeje
+138775 53 Christiaan  Snouck Hurgronje
+138971 168 Karl Wilhelm Gottlob Kastner
+139249 1799 Eduardo  Torroja Caballé
+139411 0 Viktor Yakovlevich Bunyakovsky
+139419 5 Miguel  Vegas Puebla-Collado
+139420 0 Cecilio  Jiménez Rueda
+139498 169 Johann Friedrich August Gottling
+139556 120 Aimé Auguste  Cotton
+139616 341 Jules Louis Gabriel Violle
+139687 170 Johann Christian Wiegleb
+139734 172 Christoph A. Mangold
+139735 171 Ernst Gottfried Baldinger
+140130 0 Alfredo  Capelli
+140131 0 Giovanni  Frattini
+140135 1485 Karl Brandan Mollweide
+140181 142507 Thomas von Kempen à Kempis
+140909 6840 Georg Jurij Bartolomej Veha von Vega
+140923 6841 Gabriel  Gruber
+140924 6841 Joseph Giuseppe Jakob von Maffei
+141049 18 Wilhelm  Meinardus
+141206 33 Henry Andrews Bumstead
+141273 6843 Nikolaus Boda Poda von Neuhaus
+141464 0 Conrad  Mensinga
+141466 0 Jan Sixtus Gerhardus Gleuns
+141468 0 Jan  Kors
+141469 0 Lambertus  Steenhuis
+141571 134806 Thomas  Cranmer
+141824 1 Arthur Lee Foley
+141831 1473 Robert  Zimmermann
+141834 350 Friedrich  Wöhler
+141835 454 Rudolph  Wagner
+141836 96 Julius  Vogel
+141837 44 Georg Elias Müller
+141863 0 Hermann  Aron
+141915 1 Johann  Maukisch
+141916 0 Simon  Löffler
+141931 41 A.W. Hermann  Kolbe
+141932 40 Henry Edward Armstrong
+141936 39 Thomas Martin Lowry
+141988 0 Edwin Herbert Hall
+142146 118 August  Hagenbach
+142325 0 Seerp  Brouwer
+142608 1 Enno Dirk Wiersma
+142702 0 Michiel Isaäc Swarts Bevel
+142782 2 Hendrik Albert Kooyker
+142784 2 Ananias  Weber
+143011 102963 Nicolas  Malebranche
+143044 102961 Jacob  Andreae
+143045 102960 Johann Jacob Grynaeus
+143082 102959 Sebastian  Beck
+143083 102958 Theodor  Zwinger, Jr.
+143084 102957 Peter  Werenfels
+143091 9870 Jan  Tesánek
+143129 9871 Joseph  Stepling
+143130 9872 Ignatz  Mühlwenzel
+143417 129 Granville Stanley Hall
+143630 139312 Friedrich  Leibniz
+143642 4 Wolfgang  Franz
+143731 1 Marc  de Haas
+143738 1 Lodewijk H. Siertsema
+143859 109467 Bartholomäus Leonhard Schwendendörffer
+143865 2012 Robert Hjalmar Mellin
+144086 20 Ferdinand  von Richthofen
+144137 0 Leendert M. J. Stoel
+144138 0 Eliza C. de Vries
+144139 0 Adriaan  Lebret
+144140 0 Anthony  van Eldik
+144141 0 Charles M. A. Hartman
+144155 5123 Nicolaus  Gundling
+144156 5122 Everhard  Otto
+144220 110290 Christoph  Meurer
+144221 110289 Philipp  Müller
+144262 14147 François  Du Jon, Sr.
+144263 14133 Johannes  Polyander van Kerckhoven
+144264 14132 Henricus  Renerius
+144265 14131 Martinus  Schoock
+144354 5140 Johannes  Hoornbeeck
+144355 5131 Melchior  Leydecker
+144356 5130 Hieronymus Simons van Alphen
+144395 1 Jakob  Gadolin
+144396 0 Anders Johan Lexell
+144436 7 Andreas  Essenius
+144634 0 Levie  Voorzanger
+144702 2 Pieter  Zeeman Gz.
+144716 0 Jozeph  de Jong
+144744 0 Bernard Johan Christiaan Hazelhoff Roelfzema
+144745 0 Constant Joan Jacobus Ninck Blok
+144766 0 Carel Johan Emerentius Brutel de la Rivière
+144767 0 Bartoldus  Meilink
+144779 0 Sebastianus  Krüger S.J.
+144786 0 Willem Jacobus Janssen
+144812 0 Willem  van Bemmelen
+144823 0 Arent  Benthem
+144866 252 John Pitkin Norton
+144867 251 Samuel William Johnson
+144868 250 Russell Henry Chittenden
+144869 249 Lafayette Benedict Mendel
+144881 0 Hermann Gottfried Breijer
+144883 0 Eliza  van der Ven
+144888 0 Frederick Albert Saunders
+144900 0 Rehuel  Lobatto
+144901 0 Nicolaus Henricus van Charante
+144916 0 Carel Johannes Matthes
+145006 253 James Finlay Weir Johnston
+145037 0 Rudolph Sicco Tjaden Modderman
+145063 0 Gijsbert  van Hennekeler
+145113 357 Johann  Afzelius
+145114 356 Jöns Jacob Berzelius
+145115 358 Torbern Olof Bergman
+145116 359 Bengt  Ferrner
+145118 3671 Samuel  Klingenstierna
+145119 3670 Mårten  Strömer
+145120 3672 Anders Gabriel Duhre
+145121 3673 Petrus (the Elder) Elvius
+145122 3674 Petrus  Hoffvenius
+145123 3675 Johannes Antonides van der Linden
+145124 251 Wilhelm Friedrich Kühne
+145138 0 Pieter  Schuringa
+145183 0 Willem  Gleuns, Jr.
+145184 0 Johannes Cornelius Santvoort
+145264 455 Johann Lukas Schönlein
+145283 456 Ignaz  Döllinger
+145284 457 Antonio  Scarpa
+145286 458 Giovan Battista Morgagni
+145289 459 Antonio  Valsalva
+145290 460 Marcello  Malpighi
+145291 461 Giovanni Alfonso Borelli
+145303 0 Daniel Jan Steyn Parvé
+145304 0 Arnold Willem Alings
+145706 135 Gottlieb Jacob Planck
+145707 148 Constantijn  l’Empereur van Oppyck
+145708 147 Hiob  Ludolf
+145770 146 Johann Heinrich Michaelis
+145771 142 Christoph Matthäus Pfaff
+145772 141 Georg Bernhard Bilfinger
+145773 137 Christian  Hagmaier
+145774 136 Jeremias Friedrich Reuß
+145775 136 Johann David Michaelis
+145776 135 Johann Gottfried Eichhorn
+145777 134 Heinrich Ludwig Planck
+145778 133 Heinrich A. (Georg Heinrich August) Ewald
+145779 132 Franz Julius Delitzsch
+145780 132 Eberhard  Schrader
+145781 131 Friedrich  Delitzsch
+145782 119 Hermann Vollrat Hilprecht
+145783 10 Heinrich  Zimmern
+145784 114 Gheorghe  Țițeica
+146034 147 August Hermann Francke
+146035 137 Christian Benedict Michaelis
+146036 98923 Giovanni Battista (Giambattista) Beccaria
+146365 142617 Nilos  Kabasilas
+146374 148 Johann  Möller
+146776 11966 Nikolai Ivanovich Lobachevsky
+147127 190 Charles  Camichel
+147797 4184 Nathaniel  Bowditch
+148580 371 Ogden  Rood
+148592 87 Santiago  Ramón y Cajal
+148745 177 Aleksandr Vasil'evich Vasil'ev
+148852 88 Aureliano  Maestre de San Juan
+148859 89 Eloy Carlos  Ordóñez
+149192 118764 Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo
+149401 45 Karl  Kommerell
+150192 90 Charles-Philippe  Robin
+150310 91 Hermann  Lebert
+150614 94 Guillaume  Dupuytren
+150615 92 Pierre Charles Alexandre  Louis
+150798 95 Alexis  Boulet Boyer
+150801 93 René Theophile Hyacinthe  Laënnec
+150803 2 Ernst Richard Neumann
+151002 97 Antoine  Louis
+151173 98 François  Gigot de La Peyronie
+151180 11967 Johann Martin Christian Bartels
+151876 0 Karl Georg Christian von Staudt
+152237 9443 Anne  du Bourg
+152238 9442 Lambert  Daneau
+152444 0 Gerard  Bellaar Spruijt
+152449 0 Jan  Kuiper
+152451 0 Jan  Prince
+152647 102963 Balthasar  Kaeuffelin
+152648 102962 Jakob  Beuerlin
+152662 0 Casper Hendrik Kuhn
+152669 5 Heinrich  Maius
+152901 118762 Marco  Musuro
+152902 118764 Nicoletto  Vernia
+152903 118763 Pietro  Pomponazzi
+152904 118761 Giovanni Battista  della Monte
+152905 118720 Vittore  Trincavelli
+152906 118719 Bassiano  Landi
+153109 0 Mijalko  Ciric
+153148 1 Theodor Wilhelm Engelmann
+154455 14761 Evangelista  Torricelli
+154456 1 Bonaventura  Cavalieri
+155197 1 Gottlob Heinrich Richter
+155359 88 Friedrich Leopold Goltz
+155507 87 Jacques  Loeb
+155981 1 Oscar Ferdinand Peschel
+155982 1094 Adolf Georg Karl Wilhelm Ebert
+155990 2 Johann Carl Friedrich Zöllner
+155993 3   Naumann
+156002 6 Otto  Ribbeck
+156003 6 Ludwig Christian Conrad Lange
+156004 124 Heinrich Leberecht Fleischer
+156005 6 Ludolf Christoph Ehrenfried Krehl
+156007 105 Rudolf Karl Georg Friedrich Leuckart
+156009 185 Louis-Philippe  Gilbert
+156271 0 Willibald  Seifert
+156720 1 Karl Heinrich Schellbach
+156721 0 Gottfried Eduard Fischer
+156722 0 Elias Eduard Müller
+156723 0 Gustav  Michaelis
+156724 0 Rudolf O. Meibauer
+156726 0 Georg August Freund
+156728 0 Otto  Handel
+156729 0 August Ephraim Kramer
+156933 0 Viktor  Meyer
+156934 70 Heinrich  Rose
+157277 0 Ferdinand Oscar Werner
+157280 0 Johannes  Weickert
+157284 2 Christian Gottlob Biener
+157285 1 Moritz  von Prasse
+157286 1 Karl Andreas Bel
+157287 1 Johann Gottlob Böhme
+157288 1 Christian  Ludovici
+157289 0 Curt Friedrich von Schönberg
+157307 2 Erhard  Pfautz
+157308 1 Christoph  Pfautz
+157804 1 Ernst Emil Becker
+158042 416 Carl Friedrich Christian Mohs
+158043 415 Josef  Redtenbacher
+158044 414 Károly  Than
+158328 56 Simon  Courtaud
+158329 134663 Guillaume  Rondelet
+158566 3 Hans Adolf Eduard Driesch
+158570 125 Gustav Heinrich Wiedemann
+158571 15469 Nicolas Louis Vauquelin
+158606 0 Hermann  Knoblauch
+158751 29 Friedrich August Kekule
+158752 23 Johann Friedrich Wilhelm Adolf von Baeyer
+158817 0 Georg Ludwig Carius
+158870 493 Ludwig Joseph Brentano
+158900 15471 Jean Baptiste Michel Bucquet
+158982 0 Adolf  Lieben
+158985 0 Carl Theodore Liebermann
+159000 4 Ernst  Haeckel
+159012 1 Gottfried  Zapf
+159013 0 Johann Georg Roscamp
+159015 0 Thomas Edward Thorpe
+159312 0 Edward  Frankland
+159714 0 Hermann Emil Fischer
+159715 0 Francis Robert Japp
+159745 0 John Ulric Nef
+159761 15472 Pierre Joseph Macquer
+160105 14 Ludwig  Schläfli
+160848 36 William Henry Bragg
+160899 0 Richard Gustav Heger
+161381 30 Heinrich  Will
+161415 4 Richard Carl Johann Philipp Noe Anschutz
+164673 5 Guy-Crescent  Fragon
+165422 0 Jacob Friedrich Müller
+165423 0 Oetinger Wilhelm Ludwig
+165424 0 Jeremias David Reuß
+165425 0 Ernst Friedrich Beerlin
+165541 0 Lucjan Emil  Böttcher
+165758 0 Moritz Abraham Stern
+165817 12 Matvey Mikhailovich Troitsky
+165955 11 Lev Mikhailovich Lopatin
+166282 36 Friedrich Wilhelm August Argelander
+166465 1 Hermann  Ebert
+166466 0 Karl Tobias Fischer
+166471 0 Moritz Ludwig Georg Wichmann
+166478 0 Wilhelm  Schickard
+166479 0 Johann Bernhard Wiedeburg
+166936 0 Pietro  Mengoli
+166949 23 Benjamin Collins  Brodie II
+166950 22 Augustus George Vernon  Harcourt
+167093 21 John  Conroy
+167155 0 Georg Ferdinand Helm
+167159 0 Carl Theodor Albrecht
+167160 0 Hugo  Riemann
+167161 376 Christian Hermann Weiße
+167162 0 Wilhelm  Michel
+167450 15473 Gillaume-Francois  Rouelle
+167682 2125 Carl Johan  Malmsten
+168009 0 Otto  von Littrow
+168011 0 Carl Gustav Lobeck
+168015 376 Gustav Theodor Fechner
+168016 0   Kohn
+168018 3 Gustav  Hartenstein
+168019 0 Carl Ferdinand Rudolph Wogram
+168020 0 Rudolf  Sonndorfer
+168021 0 Emil Gustav Kahl
+168022 0 Georg Friedrich Roch
+168023 0 Christian  Schad
+168025 0 August Edmund Segnitz
+168026 0 Leo Ludwig Ferdinand Krokisius
+168063 2 Christoph Friedrich von Pfleiderer
+168391 1 Caspar  Bose
+168392 0 George Matthias Bose
+168393 4 Heinrich Martin Christian Klausing
+168532 4 William Graham Sumner
+168533 0 Irving  Fisher
+168615 15474 Johann Gottlob Spitzley
+168822 68 Johannes  Wislicenus
+168823 2 Friedrich  Ratzel
+168824 3 Ferdinand  Zirkel
+168940 1 Heinrich Ludwig d'Arrest
+168941 0 Curt  Reinhardt
+169080 0 Joseph  Epstein
+169153 12 Charles Elwood Mendenhall
+169371 0 Johann Gustav Jahn
+169375 0 Hugo Karl Ludwig von Hasenkamp
+169401 2 Gottlieb  Stolle
+169477 0 Ernst  Leyst
+169755 0 Wilhelm  Krimphoff
+169775 0 Richard  Starke
+169779 1 Kaspar  Wenckh
+169780 0 Magnus F. Zürcher
+169874 201 Theodore William Richards
+169914 1 Nicolaus Wolfgang Fischer
+169959 0 Johann Heinrich Müller
+170019 1486 Wilhelm Traugott Krug
+170020 4 Wilhelm Ernst Gottfried Wachsmuth
+170021 39 Gottfried Johann Jakob Hermann
+170053 0 Zwetan  Radoslawow
+170054 0 Erich  Mosch
+170208 0 Wilhelm  Köhler
+170525 15476 Christoph Jacob Glaser
+170808 487 Alfred  Weber
+171655 0 Joseph  Lepaute-Dagelet
+171681 2 Eduard  Schönfeld
+172554 0 Fritz  Hofmann
+172555 0 Hermann Richard Zeitschel
+172893 0 Georg Woldemar Höckner
+172952 42 Fyodor Aleksandrovich Bredikhin
+173221 0 Aristarchus Apollonovich Belopolski
+173428 0 Witold Karlovic Tseraskii
+173679 0 Friedrich August Korschel
+173680 0 Peter Friedrich Arndt
+173682 0 Paul  Meutzner
+173723 3 Heinrich John Rickert
+173802 386 August  Kunzek
+173833 3 Hermann  Usener
+174065 20 Ulrich  Grubenmann
+174250 0 Eberhard Johannes Böttcher
+174251 0 Karl Wilhelm Borchardt
+175051 0 Wilhelm Karl Friedrich Johannes Valentiner
+176021 0 Ettore  Bortolotti
+176022 1 Salvatore  Pincherle
+176024 3 Heinrich Alexander Pagenstecher
+176072 0 Heinrich  Dölp
+176469 0 Gabrio  Piola
+176844 142618 Gregory  Palamas
+177156 2237 Bruno  Hildebrand
+177169 0 Jules Charles Antonin Macé de Lépinay
+177343 0 Arwed Georg Fuhrmann
+177348 0 Hermann  Schnitzler
+177349 0 Franz Ferdinand Lorenz
+177350 0 Hermann C. Fr. Pöhlitz
+177351 0 Carl Theodor Meyer
+177440 8650 Johann Friedrich Rhetius
+177465 40 Friedrich Wolfgang Reiz
+177467 2 Serverus Christoph Olpe
+177513 185 Gabriel  Lippmann
+179359 1 Heinrich August Rothe
+180221 1962 Karl Wolfgang Christoph Schütz
+180759 19 Alfredo  Pochettino
+181113 11 Stefan  Meyer
+181487 11 Ernst  Lecher
+181488 15 Leopold  Pfaundler (Pfaundler von Hadermur)
+181491 22 Egon  von Schweidler
+181728 0 August  Wolf
+181729 0 Paul  Reinel
+181730 0 Friedrich Karl Hausmann
+181745 0 Philipp Franz Heinrich Carl
+181746 1 Johann  von Lamont
+182045 102962 Simon  Grynaeus
+182088 102066 Johann Jakob von Brunn
+182089 102066 Gottfried  Möbius
+182090 134662 Felix  Plater
+182092 102961 Simon  Sulzer
+182619 2 Kristian Frederik Vilhelm Kroman
+182711 0 Arthur  Tresse
+183360 3309 Frederick  Mallet
+183446 0 Victor  Schlegel
+184041 5 Christoph Eberhard von Sigwart
+184227 0 Karl Friedrich Benz
+184228 0 Rudolf Christian Karl Diesel
+184231 0 Johann Leonhard Jacobäus
+184232 1 Johannes Georg Meisner
+184233 0 Magnus Georg von Paucker
+184631 142620 Theodore  Metochites
+184632 142621 Manuel  Bryennios
+184828 20 Pietro  Blaserna
+184935 110297 Johann  Hoffmann
+187188 5 Pyotr  Lebedev
+188065 156 Johann  Kies
+188452 69 Heinrich Wilhelm  Heintz
+188453 69 Georg Andreas Carl  Städeler
+188953 1 Johann Heinrich Voigt
+188954 2 Karl Friedrich Triller
+189659 2 Abraham  Heinecke
+189836 3 Georg Friedrich Kraus
+190351 0 Johann Wilhelm Hittorf
+190513 0 Roland (Loránd) von Eötvös
+190814 4 Friedrich  Tietjen
+190815 0 Adalbert  Krueger
+190817 0 Wilhelm Alexander Luther
+191229 0 Nicolaus  Storch
+191279 91113 Anton Bernhard Lauterbach
+191306 6 Wilhelm  Dilthey
+191307 21 Adolf Johann Gustav Kenngott
+191308 21 Albert Jacob Heim
+191476 2 Johann Helfrich Chuno
+192508 17 Jonathan Adolf Wilhelm Zenneck
+192956 5 Sylvio  Ferraz-Mello
+193252 682 František Josef  Studnička
+193253 682 František  Koláček
+193289 6 Franjo  Markovic
+193293 0 Jakob  Kurtz
+193294 1 Johann  Geilfus
+194305 8651 Josias Christoph Neander
+194308 3 Christian Ernst von Windheim
+194309 24 Michael  Wolf
+194422 2204 Karl  Knies
+194599 0 Tobias  Beutel
+194607 0 Georg  Pötzinger
+194608 2 Friedrich Wilhelm Stübner
+194759 0 Johann Balthasar Lauterbach
+194760 1 Johann Andreas Schmidt
+194907 1 Arnold  Meyer-Kaiser
+194908 0 Adolf  Kiefer
+194909 0 Johann  Tschumi
+194910 0 Elisabetha  von Litwinowa-Iwaschkina
+195203 2172 Giuseppe  Doveri
+195298 1 Andreas Ludwig Kym
+195449 0 Ernesto  Padova
+196113 4 Andreas Florens Rivinus
+196302 1 August  Hertwig
+196373 0 Spiru Haretu Haret
+196791 0 Karl Liebmann Daum
+196792 0 Georg Gottlieb Haubold
+196793 1 Christian Friedrich Berringer
+198623 4 Johann Ludwig Boye
+198629 2 Fritz  Hommel
+199092 4 Georg Albrecht Hamberger
+199211 6 Kaarle  Krohn
+199357 140067 Nicole  Oresme
+199385 0 Franz von Paula  Gruithuisen
+199402 0 Johann Nikolaus Müller
+199522 378 Johann Christian Rosenmüller
+199524 31 Karl  Bücher
+199599 0 Désiré  André
+199600 1 Joseph Louis François Bertrand
+199699 1 Maximilian  Duncker
+199700 0 Sanwar  Sunny
+199754 123 Valerian Nikolaevich Ligin
+199762 298 Wesley Clair Mitchell
+199852 7 Julius  Krohn
+200006 105809 Albert  Clampius
+200007 6 Alexander  Stoletov
+200078 19 Friedrich  von Wieser
+200258 0 August  Foeppl
+200415 0 Rudolf Ludwig Karl Virchow
+200453 0 Adolf  Köcher
+200949 617 J. Laurence (James) Laughlin
+201076 0 Johann Daniel Tietz (Titius)
+201077 1 Johann Traugott Schulz
+201078 0 Gerhard  Lüders
+201079 0 Johannes  Oertel
+201080 1 Friedrich Jacob Firnhaber
+201081 0 Georg Christoph Seybold
+201545 379 Johann Gottlob  Haase
+201548 465 John William Burgess
+201563 166 Wilhelm Johann Friedrich von Bezold
+201680 8 Elias  Lönnrot
+201934 0 Johann Christoph  Pohl
+202054 0 Rudolf Paul Pfeiffer
+202622 0 Georg Paul Jenisch
+202623 1 Johann Rudolph Saltzmann
+203906 0 Johann  Frotzheim
+204419 0 Heinrich Johannes Bütemeister
+204421 0 Johann Gottlieb Krüger
+204422 1 Christoph Andreas Büttner
+205350 34 Arnold  Schaefer
+205352 2 Heinrich  von Sybel
+205496 1 Johann  Frischmuth
+205497 0 Paul  Heigel
+205781 2 Johannes Adolph von Kries
+205819 1 Johannes Wilhelm Heyl
+205820 0 Christian  Pescheck
+205821 2 Johann  Boecler
+206950 1 Eduard  Meyer
+206959 2 Georg  Ebers
+207023 0 Ludwig Wilhelm Gilbert
+207148 316 Henry Parker Willis
+207150 618 Henry Brooks Adams
+207338 0 Johann Georg Rosenhain
+207374 2 Martin  Knorr
+207601 0 Georg Friedrich Behrmann
+207624 624 Frank William Taussig
+207733 1646 Richard Theodore Ely
+207737 0 Alfred Jakob Doren
+207738 1 Max  Sering
+207747 2096 Eugen  Böhm von Bawerk
+207748 0 Richard  Reisch
+207783 290 Frederick Jackson Turner
+207784 758 John Rogers Commons
+207785 86 William Amasa Scott
+207841 5 James  McMahon
+207842 268 Jacob Harry Hollander
+208258 92135 Gerardus Leonardus Blasius
+208259 90974 Siegmund Jakob Baumgarten
+208261 2113 Carl  Menger
+208328 1 Christian  Röhrensee
+208329 0 Johannes  Heyl
+208347 549 Walter Francis Willcox
+208348 3 Balthasar Henry Meyer
+208460 61 Edwin Robert Anderson Seligman
+208536 6 Erasmus  Kittler
+208672 0 Thorvald Nicolai Thiele
+208690 0 Frank Albert Fetter
+208692 3 Jeremiah Whipple Jenks
+208729 6 Henry Rogers Seager
+208733 7 Simon Nelson Patten
+208954 1 Harry Alvin Millis
+209182 926 Charles Franklin Dunbar
+209187 573 Herbert Baxter Adams
+209188 1493 Georg  Hanssen
+209483 0 David  Kinley
+209485 0 Edmund Janes James
+209531 0 Henry Walcott Farnam
+209532 574 Johann Caspar Bluntschli
+209534 0 George Henry Alden
+209535 0 Samuel Edwin Sparling
+209536 0 John Bell Sanborn
+209537 0 Paul Samuel Reinsch
+209583 0 Carl Copping Plehn
+209584 550 Richmond  Mayo-Smith
+209614 269 Sidney  Sherwood
+209615 0 Henry Brayton Gardner
+209675 0 John Henry Gray
+209778 0 Johann Friedrich Christian Werneburg
+210251 64 Heinrich  Dietzel
+210252 1494 August Christian Niemann
+210339 0 Woodrow (Thomas) Wilson
+210605 49 Simon  Vissering
+210606 48 Hendrik Barend Greven
+210787 2114 Lorenz  von Stein
+210796 2 Johann  Kob
+211076 0 Ernest Ludlow Bogart
+211077 0 John Edward George
+211127 7 Wilhelm  von Beetz
+211180 0 Henry Huntington Swain
+211239 0 Stuart  Wood
+211240 2 Thorstein Bunde Veblen
+211241 0 Herbert Joseph Davenport
+211255 0 Oliver Mitchell Wentworth Sprague
+211329 0 Rodolpho  Vilhena de Moraes
+211459 575 Johann Christian Hasse
+211583 5 Edward Alsworth Ross
+211595 7 Charles Jesse Bullock
+211651 0 W. E. B. (William Edward Burghardt) Du Bois
+211942 3 Eberhard  Gothein
+213244 0 Heinrich Friedrich Gretschel
+213731 3 Karl  Rathgen
+214268 0 Thomas Klingenberg Urdahl
+214318 2 Christian Gottlieb Schwarz
+214807 2 Johann Christoph Wentzel
+214827 483 Hermann Eduard von Holst
+214828 482 Albert Bushnell Hart
+215353 9 Gottfried Christoph Beireis
+215623 3 Samuel  Barthel
+215688 21 Carl Gustaf  Lundquist
+215690 22 Anders Jonas  Ångström
+215699 23 Henrik  Falck
+215964 8 Charles Homer Haskins
+216084 3 Joachim Georg Darjes
+216085 0 Simon Gottlieb Gamme
+216262 4 Dieter Hermann Kemmerich
+216271 0 Michail Josipowitsch von Dolivo-Dobrowolsky
+216273 0 Georg Friedrich Baermann
+216548 0 Christian Friedrich Oechlitz
+216549 0 Friedrich Caspar Hagen
+216550 1 Georg Albert Stübner
+216675 8 Charles McLean Andrews
+216916 4 Georg Sebald Paul Wiegner
+217029 3 Hermann  Cochius
+217030 3 Christian Wilhelm Braune
+217031 375 Alfred Wilhelm Volkmann
+217430 0 Anton  Lampa
+217433 0 Johann  Puluj
+217618 0 Friedrich Wilhelm  Spehr
+217628 1 Karl Heribert Ignatius Buzengeiger
+217629 0 Karl Wilhelm Feuerbach
+217633 1 Hermann Cäsar Hannibal Schubert
+217634 0 Bernhard Oscar Herrmann
+217696 0 Gustav  Berger
+217697 0 Rudolf  Besser
+218258 0 Albert  Shaw
+218259 0 Herbert Levi Osgood
+218373 18 Theodor (Gustav Heinrich) Eimer
+218382 2 Jacob Wilhelm Feuerlein
+218414 1 Johann Paul Gumprecht
+218415 0 Johann Heinrich Winkler
+218445 0 Yegor Ivanovich  Zolotarev
+218940 202 Josiah Parsons Cooke
+218952 4 Otto Wilhelm Helmut von Zwiedineck-Südenhorst
+218974 5 Richard  Hildebrand
+219010 2 Friedrich Ludwig Stegmann
+219012 484 Ludwig  Häusser
+219111 4 Gilbert Newton Lewis
+219258 0 John  Tyndall
+219680 60 Edmund Beecher Wilson
+219692 4 Gottfried  Dewerdek
+219992 0 Johann  Pali
+219993 2 Berthold  Hauser
+219994 0 Bartolomäus  Kün
+219998 0 Anton  Cornely
+220257 0 Johann Heinrich Vulpius
+220260 1 Johann  Vollbracht
+220261 0 Johann Friedrich Rhaetius jun.
+220262 0 Georgius  Judex
+220263 0 Achim  von Bredow
+220264 0 Sebastian  Didelius
+220265 0 Johannes  Bamberg
+220266 0 Andreas Jacobsen Langebech
+220267 0 Christoph  Maschwedel
+220268 0 Marcus Bonaventura Pleier
+220269 0 Henning Christoph Friederich
+220270 0 Johann  Weinmann
+220271 0 Philipp  Rieckher
+220273 0 Georg  Lange
+220274 0 Johann  Caroli
+220277 0 Albert  Reinmann
+220280 0 Johann  Agricola
+220281 0 Nicolaus  Neumeister
+220282 0 Andreas  Kesler
+220283 0 Philipp  Stoltzenberger
+220284 0 Johannes  Zezeling
+220285 0 Jacob  Leitner
+220648 0 Karl  Quensen
+220969 0 Albrecht  Penck
+221100 1 Leonhard  Etzler
+221101 0 Anton  Euonymus
+221102 0 Balthasar  Meisner
+221118 1 Heinrich  Herkner
+221141 61 William Keith Brooks
+221145 494 Johann Alphons Renatus von Helferich
+221272 0 Georg Wolfgang Krafft
+221273 1 Johann Michael Hallwachs
+221274 0 Wolfgang Ludwig Krafft
+221313 0 Gottfried  Bardil
+221315 0 Friedrich Wilhelm Köstlin
+221316 0 Victor Heinrich Riecke
+221317 0 Johann Friedrich Flatt
+221318 0 Carl Heinrich Köstlin
+221323 0 Christoph F. Hellwag
+221324 0 Theodor Friedrich Jacob König
+221325 0 Tobias Benignus Christoph Enslen
+221326 0 August Johann Andreas Wiedersheim
+221327 0 August Christian von Reuß
+221329 0 Ludwig Timotheus von Spittler
+221330 0 Christian Matthias Theodor Breunlin
+221331 0 Philipp F. Jäger
+221332 0 Johannes Heinrich Rümelin
+221333 0 Johann Heinrich Hochstetter
+222325 1 Sigismund Gottfried Huth
+222356 0 Augustin  Vaget
+222357 0 Friedrich David Stübner
+222358 0 Viktor  Knorre
+222360 2 Andreas Christoph Calvisius
+222386 0 Francis  Kennedy
+222463 1487 Franz Volkmar Reinhard
+222466 2 Johannes  Deutschmann
+222485 2 Christoph Friedrich Gross
+222784 0 Carl  Ortlob
+222785 0 Melchior  Teschner
+222788 0 Andreas  Fridericus
+222789 0 Anton  Burmeister
+222791 0 Andreas  Marquardi
+222792 0 Bernhard  Mittendorff
+222793 0 Christoph Daniel Schreiter
+222794 0 Alexander  Caspar
+222795 0 Jacob  Reichmann
+222798 0 Heinrich  Zeidler
+222800 0 Timotheus  Julius
+222801 0 Johann  Hentzelmann
+2554
+184632 184631 1315 
+176844 146365 1363 
+199357 127264 1363 France
+134780 131575 1380 
+134781 131575 1380 
+127264 126887 1406 Austria
+135185 134931 1408 
+134931 134873 1416 Italy
+131575 133754 1425 Greece
+134873 131584 1433 Italy
+131575 131561 1436 Greece
+126887 126087 1440 Austria
+131561 131444 1444 Italy
+149192 127166 1446 Italy
+131584 131576 1452 Greece
+127144 127166 1453 Italy
+136726 127166 1453 Italy
+126087 126109 1457 Germany
+131561 126109 1457 Germany
+131444 131539 1462 Italy
+131444 131700 1471 Italy
+131699 131700 1471 Italy
+131561 131541 1472 Italy
+131576 131541 1472 Italy
+128012 125898 1474 
+140181 125898 1474 
+131539 131535 1477 Italy
+131540 131535 1477 Italy
+131444 125760 1477 Switzerland
+131584 128012 1478 Italy
+131443 131398 1480 France
+131444 131398 1480 France
+125755 125760 1481 France
+126109 126112 1483 Italy
+126888 126112 1483 Italy
+128012 128013 1485 Germany
+131443 131517 1486 France
+131541 131517 1486 France
+131541 152901 1486 Italy
+152902 152903 1487 Italy
+136726 152903 1487 Italy
+131535 131589 1492 Italy
+131535 131447 1493 Italy
+125888 129893 1494 France
+125888 125939 1496 France
+125888 125938 1497 France
+125898 125938 1497 France
+126113 126177 1499 Poland
+126112 126177 1499 Poland
+131446 127181 1499 Italy
+131447 127181 1499 Italy
+125888 125681 1502 France
+125897 125894 1504 Belgium
+126659 131399 1506 Germany
+127181 131235 1511 France
+131398 131235 1511 France
+125760 182045 1511 Germany
+127107 126956 1511 Germany
+125894 125892 1513 Belgium
+127181 126571 1513 France
+125760 126956 1514 Germany
+125681 125658 1515 Belgium
+125682 125658 1515 Belgium
+125938 131399 1515 Germany
+126724 126730 1515 Germany
+127107 127365 1518 Germany
+125794 125682 1519 Belgium
+127166 127245 1520 Italy
+125938 126667 1520 Germany
+131517 131546 1521 France
+126956 182045 1523 Germany
+126659 126667 1524 Austria
+126571 119159 1527 Belgium
+125658 125665 1527 Belgium
+119159 125665 1527 Belgium
+131399 131236 1527 Germany
+131398 131905 1528 France
+131517 131905 1528 France
+125892 119097 1529 Belgium
+132045 132044 1529 France
+131905 132044 1529 France
+128987 125422 1530 France
+131399 182092 1531 France
+119097 119164 1532 Belgium
+131546 131606 1532 France
+125422 119159 1532 France
+182045 182092 1532 Switzerland
+131905 131821 1534 France
+126667 126736 1535 Germany
+126730 126827 1535 Germany
+126177 126827 1535 Germany
+125665 125047 1536 France
+131546 125047 1536 France
+119097 119178 1537 Belgium
+152904 119178 1537 Belgium
+119159 119178 1537 Belgium
+131400 131236 1537 France
+119159 126064 1540 France
+125422 125423 1542 France
+152904 152906 1542 Italy
+152905 152906 1542 Italy
+126956 127110 1542 Germany
+126736 127110 1542 Germany
+126736 127011 1543 Germany
+126956 127011 1543 Germany
+119178 125303 1544 Italy
+126736 126957 1544 Germany
+126827 126957 1544 Germany
+126736 126875 1545 Germany
+126827 126875 1545 Germany
+119097 119224 1546 UnitedKingdom
+119164 119224 1546 UnitedKingdom
+126736 126947 1546 Germany
+127245 125142 1547 Italy
+125303 125142 1547 Italy
+141571 125159 1549 UnitedKingdom
+125665 127039 1549 Germany
+127110 127039 1549 Germany
+126827 127790 1550 Germany
+184935 127790 1550 Germany
+152647 152648 1551 Germany
+131606 152238 1553 France
+125047 125148 1553 France
+152648 143044 1553 Germany
+126736 126946 1553 Germany
+125047 125373 1554 France
+125665 127020 1554 France
+127011 127092 1555 Germany
+158329 182090 1557 France
+152237 152238 1559 France
+125142 125109 1559 Italy
+152906 125148 1559 Italy
+152905 125148 1559 Italy
+182092 143045 1559 Switzerland
+126956 128104 1560 Germany
+132044 152238 1561 Switzerland
+126875 127010 1562 Germany
+126957 127010 1562 Germany
+126957 127275 1562 Germany
+127252 127275 1562 Germany
+127092 125379 1562 Denmark
+126875 125379 1562 Denmark
+131606 131577 1563 France
+143044 143045 1564 Germany
+126875 127252 1564 Germany
+125047 125124 1566 France
+127092 128348 1566 Germany
+127011 127050 1567 Germany
+125148 125048 1569 Switzerland
+126827 127061 1570 Germany
+125109 125124 1571 Italy
+127020 127049 1571 Germany
+127039 127049 1571 Germany
+130995 130913 1572 UnitedKingdom
+119165 113084 1572 France
+125160 125181 1572 Germany
+125159 125181 1572 Germany
+119224 119246 1573 
+125109 127252 1574 Italy
+127275 127461 1576 Germany
+127252 127461 1576 Germany
+125665 132488 1580 France
+125148 128305 1580 Switzerland
+152238 115395 1582 Netherlands
+128305 128122 1582 Germany
+128348 128122 1582 Germany
+125181 126489 1582 Germany
+127864 127898 1582 Germany
+127790 127898 1582 Germany
+127790 144220 1582 Germany
+127061 127459 1583 Germany
+127275 127459 1583 Germany
+221100 221101 1583 Germany
+182090 130248 1584 Switzerland
+125124 125390 1585 Netherlands
+125373 125390 1585 Netherlands
+136245 134975 1585 Italy
+131821 115395 1585 Switzerland
+144262 132488 1585 Germany
+125109 127278 1588 Germany
+144262 144263 1589 Germany
+131821 144263 1590 Switzerland
+152669 143642 1590 Germany
+200006 128105 1591 Germany
+127049 127098 1591 Germany
+125379 127098 1591 Germany
+127898 127424 1592 Germany
+127942 127424 1592 Germany
+128122 128105 1592 Germany
+125181 125407 1594 Netherlands
+125379 125407 1594 Netherlands
+127848 126111 1594 Germany
+127278 126111 1594 Germany
+119254 119272 1595 Germany
+128105 127848 1596 Germany
+125124 125173 1599 Netherlands
+125233 125173 1599 Netherlands
+127459 127606 1600 Germany
+127461 127606 1600 Germany
+128122 114992 1601 UnitedKingdom
+125109 125274 1602 Italy
+125109 125006 1603 Belgium
+127606 221102 1603 Germany
+127010 127791 1603 Germany
+127098 127791 1603 Germany
+126489 114992 1603 Germany
+144220 144221 1604 Germany
+114992 115368 1605 Netherlands
+125232 125302 1607 Netherlands
+125181 125302 1607 Netherlands
+128104 128097 1607 Germany
+128105 128097 1607 Germany
+131577 125378 1608 Netherlands
+134975 136575 1610 Italy
+143045 143082 1610 Switzerland
+127010 127168 1610 Germany
+132488 132468 1611 Netherlands
+127049 166478 1611 Germany
+125302 125408 1612 Netherlands
+125378 125408 1612 Netherlands
+101848 158328 1612 France
+194309 193294 1612 Germany
+194309 220277 1612 Germany
+125390 127165 1613 Netherlands
+130248 125125 1613 Switzerland
+127606 129009 1613 Germany
+114992 115008 1614 Netherlands
+130913 130840 1614 Netherlands
+127010 127167 1614 Germany
+125048 182088 1615 Switzerland
+125299 125358 1616 France
+125408 125358 1616 France
+115008 144264 1617 Netherlands
+144263 144264 1617 Netherlands
+125173 115030 1617 Netherlands
+130913 145707 1617 Netherlands
+143642 129009 1617 Germany
+125181 125299 1618 Netherlands
+194309 222800 1618 Germany
+194309 222801 1618 Germany
+114992 125023 1619 Netherlands
+134975 136576 1619 Italy
+136575 154456 1619 Italy
+194309 220282 1619 Germany
+194309 220283 1619 Germany
+194309 220284 1619 Germany
+194309 220285 1619 Germany
+194309 220269 1620 Germany
+194309 220270 1620 Germany
+194309 220271 1620 Germany
+194309 220273 1620 Germany
+194309 220274 1620 Germany
+194309 220280 1620 Germany
+194309 220281 1620 Germany
+194309 220264 1621 Germany
+194309 220265 1621 Germany
+194309 220266 1621 Germany
+194309 220267 1621 Germany
+194309 220268 1621 Germany
+194309 220274 1621 Germany
+127424 127665 1621 Germany
+127606 127665 1621 Germany
+125006 125023 1622 Italy
+127424 127734 1622 Germany
+194309 220262 1622 Germany
+194309 220263 1622 Germany
+127848 128240 1622 Germany
+220260 220261 1622 Germany
+169779 169780 1622 Germany
+125006 115030 1623 Netherlands
+194309 220257 1623 Germany
+126111 125154 1625 Germany
+189659 127734 1625 Germany
+130840 130575 1629 Netherlands
+129009 128991 1629 Germany
+127848 128991 1629 Germany
+127848 127734 1629 Germany
+115395 115471 1630 Netherlands
+115008 115471 1630 Netherlands
+127165 145123 1630 Netherlands
+143082 143083 1630 Switzerland
+127606 127724 1630 Germany
+115008 115095 1631 Netherlands
+125173 126343 1631 Netherlands
+127734 127801 1633 Germany
+125023 101860 1634 Netherlands
+125125 101860 1634 Netherlands
+128991 128931 1634 Germany
+125408 125450 1635 Netherlands
+125434 125450 1635 Netherlands
+127724 128239 1635 Germany
+128240 128239 1635 Germany
+144264 144265 1636 Netherlands
+132468 144265 1636 Netherlands
+128931 128743 1638 Germany
+128411 128743 1638 Germany
+115471 115616 1639 Netherlands
+210796 205496 1639 Germany
+144265 114927 1640 Netherlands
+115471 144436 1640 Netherlands
+125154 128411 1640 Germany
+125154 182089 1640 Germany
+115030 115139 1641 Netherlands
+115095 115139 1641 Netherlands
+115030 115463 1641 Netherlands
+134975 133302 1642 Italy
+154455 133302 1642 Italy
+142784 141915 1642 Germany
+132468 144354 1643 Netherlands
+128097 127956 1643 Germany
+143630 137705 1643 Germany
+114927 114945 1644 Netherlands
+114927 115323 1644 Netherlands
+114927 117499 1644 Netherlands
+131383 115463 1644 Italy
+127724 127956 1644 Germany
+127724 222788 1644 Germany
+125450 125560 1645 Netherlands
+125299 125560 1645 Netherlands
+144354 144436 1645 Netherlands
+146374 145708 1645 Germany
+141915 141916 1645 Germany
+119272 119293 1646 Belgium
+125408 145708 1646 Netherlands
+145707 145708 1646 Netherlands
+182089 123974 1646 Germany
+127724 222794 1646 Germany
+115095 115367 1647 Netherlands
+125450 125561 1647 Netherlands
+154456 166936 1647 Italy
+125125 129708 1649 Switzerland
+143083 143084 1649 Switzerland
+127724 222784 1649 Germany
+182088 123974 1650 Switzerland
+193294 193293 1650 Germany
+127724 222789 1650 Germany
+144221 60984 1650 Germany
+60984 181728 1650 Germany
+74384 127923 1651 Germany
+127724 222793 1651 Germany
+194305 177440 1652 Germany
+127724 222795 1652 Germany
+60984 64080 1652 Germany
+130575 130489 1653 Netherlands
+145291 145290 1653 Italy
+177467 159012 1653 Germany
+125450 125650 1654 Netherlands
+60984 63867 1654 Germany
+202623 202622 1654 Germany
+125450 132725 1655 Netherlands
+125416 125561 1655 France
+158328 112874 1655 France
+60984 181729 1655 Germany
+127724 222785 1655 Germany
+127724 222798 1655 Germany
+127911 127923 1657 Germany
+125450 125651 1658 Netherlands
+114945 117506 1658 Netherlands
+60984 17241 1658 Germany
+60984 127386 1658 Germany
+115095 134896 1660 Netherlands
+101860 134896 1660 Netherlands
+145123 145122 1660 Netherlands
+114945 101858 1660 Netherlands
+114945 117502 1660 Netherlands
+114945 117504 1660 Netherlands
+114945 117507 1660 Netherlands
+125125 129628 1660 Switzerland
+129708 129628 1660 Switzerland
+205496 205497 1660 Germany
+127724 222791 1660 Germany
+101860 125184 1661 Netherlands
+144354 144355 1661 Netherlands
+114945 117505 1661 Netherlands
+127923 127962 1661 Germany
+127956 127962 1661 Germany
+127724 222792 1661 Germany
+60984 17240 1662 Germany
+115139 17240 1662 Germany
+159012 159013 1662 Germany
+123974 76481 1663 Germany
+125154 125143 1663 Germany
+127665 127728 1663 Germany
+17240 127728 1663 Germany
+157307 157308 1663 Germany
+115463 112799 1664 Netherlands
+101860 115470 1664 Netherlands
+101860 101858 1664 Netherlands
+101860 115616 1664 Netherlands
+222466 208328 1664 Germany
+222466 208328 1665 Germany
+137705 21235 1665 Germany
+115471 115155 1666 Netherlands
+137705 60985 1666 Germany
+60984 60985 1666 Germany
+101860 112822 1667 Netherlands
+115139 115359 1667 Netherlands
+101860 115359 1667 Netherlands
+115463 115617 1667 Netherlands
+101860 115617 1667 Netherlands
+208258 124000 1667 Netherlands
+60984 108000 1667 Germany
+125154 125488 1667 Germany
+101860 125488 1667 Germany
+143859 60985 1667 Germany
+67643 74313 1668 UnitedKingdom
+121201 74313 1668 UnitedKingdom
+21235 77909 1668 Germany
+119293 113719 1669 Netherlands
+101860 113719 1669 Netherlands
+132725 113719 1669 Netherlands
+144436 132422 1669 Netherlands
+132468 132422 1669 Netherlands
+101860 124000 1671 Netherlands
+114945 117503 1671 Netherlands
+60985 143011 1672 
+137717 127946 1672 Germany
+137705 127946 1672 Germany
+60984 103783 1674 Germany
+191476 12097 1674 Germany
+60984 90395 1675 Germany
+125561 60985 1676 France
+143084 54440 1676 Switzerland
+101858 115361 1677 Netherlands
+132422 132273 1677 Netherlands
+177440 127946 1679 Germany
+125143 125698 1681 Germany
+125143 125107 1682 Germany
+127413 127414 1682 Germany
+184232 184231 1682 Germany
+127962 128046 1683 Germany
+143011 54440 1684 Switzerland
+123974 128938 1684 Germany
+76481 128938 1684 Germany
+124000 123977 1684 Germany
+157308 194599 1684 Germany
+194760 194759 1685 Germany
+21235 72669 1685 Germany
+128369 128368 1685 Germany
+128046 128986 1686 Germany
+115713 120820 1687 UnitedKingdom
+143011 112689 1687 France
+145290 145289 1687 Italy
+127962 127646 1687 Germany
+145122 145121 1688 Sweden
+17240 170525 1688 Germany
+12097 191229 1688 Germany
+101858 112497 1689 Netherlands
+60984 127387 1689 Germany
+214807 128377 1689 Germany
+115155 101856 1690 Netherlands
+101858 112692 1690 Netherlands
+128369 112692 1690 Netherlands
+54440 53410 1690 Switzerland
+129628 53410 1690 Switzerland
+127945 127803 1690 Germany
+127946 127803 1690 Germany
+112689 112748 1691 France
+112701 112748 1691 France
+76481 76482 1691 Germany
+115713 115441 1692 UnitedKingdom
+207374 222356 1692 Germany
+101858 101856 1693 Netherlands
+112874 112893 1694 Netherlands
+112799 112893 1694 Netherlands
+125488 125846 1694 Germany
+146034 145770 1694 Germany
+125698 127387 1694 Germany
+74313 115458 1695 UnitedKingdom
+101858 112694 1696 Netherlands
+101858 124101 1696 Netherlands
+54440 96720 1696 Switzerland
+127414 127602 1696 Germany
+127390 127602 1696 Germany
+208328 208329 1696 Germany
+219692 215623 1696 Germany
+17240 127366 1697 Germany
+101858 115360 1698 Netherlands
+164673 101861 1698 France
+207374 222357 1698 Germany
+222360 218414 1698 Germany
+145708 145770 1699 Germany
+205819 205820 1699 Germany
+17240 127727 1699 Germany
+128368 127727 1699 Germany
+215623 214318 1699 Germany
+216550 216549 1700 Germany
+101861 113021 1702 France
+127414 145771 1702 Germany
+127390 145771 1702 Germany
+123977 123968 1703 Germany
+127946 144155 1703 Germany
+113719 47793 1703 Germany
+60985 47793 1703 Germany
+124000 125971 1704 Germany
+53410 113403 1705 Netherlands
+74313 103067 1706 UnitedKingdom
+130489 130461 1706 Netherlands
+145770 145771 1706 Germany
+145770 146035 1706 Germany
+63875 63885 1707 Poland
+125488 128377 1708 Germany
+54440 103742 1709 Switzerland
+128938 128986 1709 Germany
+128377 166479 1709 Germany
+112692 112762 1710 Netherlands
+101861 101859 1710 Switzerland
+198623 129079 1710 Germany
+101856 124063 1711 Netherlands
+145121 145120 1711 Sweden
+198623 129079 1711 Germany
+199092 129079 1711 Germany
+218382 201080 1711 Germany
+115441 117879 1712 UnitedKingdom
+101856 118684 1712 Netherlands
+125107 125002 1712 Germany
+128986 129079 1712 Germany
+129079 202054 1712 Germany
+72669 57670 1713 Germany
+128986 57670 1713 Germany
+112692 112763 1714 Netherlands
+112748 112788 1714 France
+144155 144156 1714 Germany
+129079 196791 1714 Germany
+103067 103068 1715 UnitedKingdom
+101856 112693 1715 Netherlands
+115155 112693 1715 Netherlands
+101856 124062 1715 Netherlands
+144355 144356 1715 Netherlands
+127646 127647 1715 Germany
+168393 201079 1715 Germany
+168393 201080 1715 Germany
+168393 201081 1715 Germany
+201080 201081 1715 Germany
+112692 112765 1716 Netherlands
+191279 125886 1716 Germany
+205821 205819 1716 Germany
+145120 145118 1717 Sweden
+145771 145772 1717 Germany
+101856 122557 1718 Netherlands
+132273 145184 1718 Netherlands
+168393 201078 1718 Germany
+112893 113119 1719 Netherlands
+101856 115324 1719 Netherlands
+101856 123429 1719 Netherlands
+101856 123760 1719 Netherlands
+129079 204419 1719 Germany
+101856 123428 1720 Netherlands
+101856 123758 1720 Netherlands
+112568 123867 1720 Netherlands
+132273 132212 1720 Netherlands
+194608 194607 1720 Germany
+112692 112764 1721 Netherlands
+53410 108998 1721 Switzerland
+125846 125886 1721 Germany
+112693 112928 1721 Germany
+112693 113280 1721 Germany
+127803 127671 1721 Germany
+101856 115094 1722 Netherlands
+101856 123427 1722 Netherlands
+76482 76483 1722 Germany
+145772 165422 1722 Germany
+145772 165425 1722 Germany
+103068 133368 1723 UnitedKingdom
+101856 121344 1723 Netherlands
+112692 59545 1723 Netherlands
+145772 145774 1723 Germany
+145773 145774 1723 Germany
+112693 113281 1724 Netherlands
+169401 155197 1724 Germany
+218414 218415 1724 Germany
+101856 101854 1725 Netherlands
+112568 112760 1725 Netherlands
+101856 112823 1725 Netherlands
+101856 124064 1725 Netherlands
+112693 114925 1725 Netherlands
+168615 167450 1725 France
+145772 165423 1725 Germany
+221273 221272 1725 Germany
+222485 221273 1725 Germany
+125886 60782 1725 Germany
+112568 112761 1726 Netherlands
+101856 123757 1726 Netherlands
+53410 38586 1726 Switzerland
+121242 121249 1726 Germany
+125886 60782 1726 Germany
+127646 132530 1726 Germany
+59545 59615 1726 Germany
+214318 204422 1726 Germany
+57670 60213 1726 Germany
+123760 137227 1727 
+101856 101857 1727 Netherlands
+101859 101857 1727 Netherlands
+144356 112764 1727 Netherlands
+145771 145774 1727 Germany
+127671 127636 1727 Germany
+101856 115093 1728 Netherlands
+101856 124060 1728 Netherlands
+112693 115775 1728 Netherlands
+112692 115775 1728 Netherlands
+59545 113495 1728 Germany
+47793 145118 1728 Germany
+168391 168392 1728 Germany
+101856 124061 1729 Netherlands
+132212 112786 1729 Italy
+101856 115327 1730 Netherlands
+101856 115328 1730 Netherlands
+125971 60782 1730 Germany
+125698 103387 1730 Germany
+127647 126119 1730 Germany
+112764 112841 1731 Netherlands
+145118 145119 1731 Sweden
+145772 165424 1731 Germany
+47793 106922 1732 Germany
+57670 103387 1733 Germany
+194608 207601 1733 Germany
+112568 119558 1734 Netherlands
+112693 112782 1734 Netherlands
+144156 112841 1734 Netherlands
+125971 60782 1734 Germany
+204422 204421 1734 Germany
+125002 201934 1734 Germany
+103387 216273 1734 Germany
+118684 118796 1735 Netherlands
+53410 110897 1735 Switzerland
+47793 110897 1735 Switzerland
+115094 121004 1736 UnitedKingdom
+101856 122438 1736 Netherlands
+112693 112783 1736 Netherlands
+112764 112844 1736 Netherlands
+101856 115325 1737 Netherlands
+101856 115326 1737 Netherlands
+125001 124845 1737 Germany
+125002 124845 1737 Germany
+112764 112843 1738 Netherlands
+112692 112766 1739 Netherlands
+112692 112767 1739 Netherlands
+216262 216084 1739 Germany
+123968 123957 1739 Germany
+146035 145775 1739 Germany
+57670 66476 1739 Germany
+112568 113210 1740 Netherlands
+113119 113210 1740 Netherlands
+133368 133367 1742 UnitedKingdom
+130461 130346 1742 Netherlands
+112764 112846 1742 Netherlands
+167450 159761 1742 France
+76483 76484 1742 Germany
+126119 126895 1742 Germany
+112764 112840 1743 Netherlands
+112764 112842 1743 Netherlands
+112764 115763 1743 Netherlands
+143130 143129 1743 CzechRepublic
+60198 54728 1743 Germany
+126895 126120 1744 Germany
+127636 126120 1744 Germany
+155197 60274 1745 Germany
+196113 189836 1745 Germany
+208259 194308 1745 Germany
+103387 216548 1745 Germany
+115093 113186 1746 Netherlands
+112693 113186 1746 Netherlands
+216084 59654 1746 Germany
+59654 216085 1746 Germany
+118796 135290 1747 Sweden
+143129 143091 1748 
+132212 132431 1748 Netherlands
+121249 101855 1748 Germany
+196793 196792 1748 Germany
+110897 110898 1749 Netherlands
+151173 151002 1749 France
+101857 123866 1749 Germany
+115093 124486 1750 Netherlands
+101854 124486 1750 Netherlands
+112764 112845 1750 Netherlands
+112693 122515 1751 Netherlands
+145118 145116 1751 Sweden
+145119 145116 1751 Sweden
+125886 139734 1751 Germany
+219993 219992 1751 Germany
+219993 219994 1751 Germany
+145119 183360 1752 Sweden
+112788 112889 1752 France
+112876 112889 1752 France
+60782 127668 1752 Germany
+126120 126124 1752 Germany
+126119 126124 1752 Germany
+201077 201076 1752 Germany
+112823 122437 1753 Netherlands
+208259 127668 1753 Germany
+121004 122200 1754 UnitedKingdom
+59545 113493 1754 Netherlands
+59545 113494 1754 Netherlands
+146036 17864 1754 Italy
+133367 133301 1756 UnitedKingdom
+112841 115370 1756 Netherlands
+122515 123873 1756 Netherlands
+101854 101853 1757 Austria
+188065 168063 1757 Germany
+64024 38374 1757 Germany
+122437 122493 1758 Netherlands
+145116 145115 1758 Sweden
+60782 60817 1758 Germany
+124845 124490 1758 Germany
+112786 112853 1759 Netherlands
+139734 139735 1760 Germany
+132530 132508 1760 Germany
+144395 144396 1760 Finland
+123429 123552 1761 UnitedKingdom
+113119 122493 1761 Netherlands
+122515 123872 1761 Netherlands
+141273 140924 1762 Austria
+110898 110900 1762 Netherlands
+110898 123868 1763 Netherlands
+113210 134898 1763 Netherlands
+112823 134898 1763 Netherlands
+76484 126026 1763 Germany
+66476 60131 1763 Germany
+131978 131939 1764 Netherlands
+188065 221274 1764 Germany
+64024 64082 1764 Germany
+130346 131939 1765 Netherlands
+66476 65161 1765 Germany
+139735 139687 1765 Germany
+122437 122199 1766 Netherlands
+121004 122199 1766 Netherlands
+112841 110893 1766 Netherlands
+112812 110893 1766 Netherlands
+60782 60816 1766 Germany
+101855 101852 1766 Germany
+126119 177465 1766 Germany
+38586 112812 1766 Germany
+112788 112812 1766 Germany
+141273 140923 1767 Austria
+110893 124122 1767 Netherlands
+118796 135259 1767 Sweden
+66476 92586 1767 Germany
+122200 122226 1768 UnitedKingdom
+121004 122226 1768 UnitedKingdom
+118796 135260 1768 Sweden
+159761 158900 1768 France
+112889 171655 1768 France
+76484 76485 1768 Germany
+123957 76485 1768 Germany
+122515 123871 1769 Netherlands
+126124 132508 1769 Germany
+54728 60241 1769 Germany
+110893 123949 1770 Netherlands
+145286 145284 1770 Italy
+188065 221332 1770 Germany
+188065 221333 1770 Germany
+106922 106921 1770 Germany
+106921 107622 1770 Germany
+122515 123870 1771 Netherlands
+110893 117615 1771 Netherlands
+131939 130323 1771 Netherlands
+130346 130323 1771 Netherlands
+188065 145706 1771 Germany
+188065 221331 1771 Germany
+92586 106530 1771 Germany
+101853 101850 1772 Austria
+112812 113029 1772 Netherlands
+112812 113030 1772 Netherlands
+122515 123869 1772 Netherlands
+188065 221329 1772 Germany
+188065 221330 1772 Germany
+113186 123756 1773 Netherlands
+110893 113861 1773 Netherlands
+188065 221326 1773 Germany
+188065 221327 1773 Germany
+66476 57659 1773 Germany
+65161 57659 1773 Germany
+112812 113034 1774 Netherlands
+110893 124119 1774 Netherlands
+145774 145706 1774 Germany
+188065 221323 1774 Germany
+188065 221324 1774 Germany
+188065 221325 1774 Germany
+145775 145776 1774 Germany
+126124 145776 1774 Germany
+125588 107622 1774 Germany
+124490 124285 1774 Germany
+122515 124149 1775 Netherlands
+110893 124120 1775 Netherlands
+110893 124121 1775 Netherlands
+140923 140909 1775 Slovenia
+140924 140909 1775 Slovenia
+188065 221318 1775 Germany
+110893 117538 1776 Netherlands
+145115 145113 1776 Sweden
+143091 96327 1777 
+112812 113036 1777 Netherlands
+188065 65990 1777 Germany
+188065 221317 1777 Germany
+60782 60815 1777 Germany
+192956 211329 1778 Brazil
+188065 221316 1778 Germany
+157286 157289 1778 Germany
+157287 157289 1778 Germany
+157288 157289 1778 Germany
+188065 221315 1779 
+189836 188954 1779 Germany
+122437 134672 1780 Netherlands
+113186 134672 1780 Netherlands
+110900 113943 1780 Netherlands
+188065 221313 1780 Germany
+110898 122265 1781 Netherlands
+122199 122265 1781 Netherlands
+112812 113032 1781 Netherlands
+66476 47025 1781 Germany
+133301 102036 1782 UnitedKingdom
+103066 102036 1782 UnitedKingdom
+112812 113035 1782 Netherlands
+112812 113028 1783 Netherlands
+112812 113031 1783 Netherlands
+132508 132507 1783 Netherlands
+110893 132507 1783 Netherlands
+112889 113041 1783 France
+76485 76486 1783 Germany
+110893 123681 1784 Netherlands
+66476 199402 1784 Germany
+65161 199402 1784 Germany
+188954 188953 1785 Germany
+101850 101851 1786 Austria
+66476 18230 1786 Germany
+127710 18230 1786 Germany
+76485 126334 1786 Germany
+122200 122397 1787 UnitedKingdom
+106921 35141 1787 Germany
+60241 181730 1787 Germany
+124486 126371 1788 Austria
+24181 46039 1788 Italy
+24182 46039 1788 Italy
+139687 139498 1789 Germany
+113031 123683 1790 Netherlands
+126124 126894 1790 Germany
+177465 170021 1790 Germany
+122226 122418 1792 UnitedStates
+106921 107399 1792 Germany
+134898 123683 1793 Netherlands
+60241 179359 1793 Germany
+134672 134648 1794 Netherlands
+113861 113568 1794 Netherlands
+145284 145283 1794 Italy
+60131 207023 1794 Germany
+222463 170019 1794 Germany
+107399 107391 1795 Germany
+106530 104394 1795 Germany
+157284 157285 1795 Germany
+122265 122398 1796 Netherlands
+183360 20543 1796 Sweden
+122418 122535 1796 UnitedStates
+122397 122535 1796 UnitedStates
+66476 57667 1796 Germany
+65161 57667 1796 Germany
+66476 101403 1796 Germany
+18230 140135 1796 Germany
+106921 126031 1796 Germany
+112812 113191 1797 Netherlands
+110900 113191 1797 Netherlands
+47025 59684 1797 Germany
+201545 199522 1797 Germany
+112812 113033 1799 Netherlands
+122535 138162 1799 UnitedStates
+18230 151180 1799 Germany
+66476 151180 1799 Germany
+65161 151180 1799 Germany
+59654 209778 1799 Germany
+188953 209778 1799 Germany
+18230 18231 1799 Germany
+17864 17865 1800 France
+108295 17865 1800 France
+76486 101893 1800 Germany
+127135 101893 1800 Germany
+47025 101893 1800 Germany
+57659 101893 1800 Germany
+66476 65162 1800 Germany
+65161 65162 1800 Germany
+76485 123979 1800 Germany
+158571 123979 1800 Germany
+122398 122494 1801 Netherlands
+107391 107498 1801 Germany
+124285 158042 1801 Germany
+124285 66319 1801 Germany
+124286 66319 1801 Germany
+145113 145114 1802 Sweden
+126334 126356 1802 Germany
+150798 150614 1803 
+110893 113282 1803 Netherlands
+110900 113282 1803 Netherlands
+101851 101865 1803 Germany
+101852 101865 1803 Germany
+150614 150801 1804 France
+96327 96330 1805 CzechRepublic
+139498 138971 1805 Germany
+145706 145777 1806 Germany
+145776 145777 1806 Germany
+101865 199385 1806 Germany
+46039 41758 1807 Italy
+101865 199385 1808 Germany
+110893 110949 1809 Netherlands
+113191 113279 1809 Netherlands
+122493 124485 1809 Netherlands
+215353 134020 1809 Germany
+113191 113278 1810 Netherlands
+18231 18603 1810 Germany
+102036 102043 1811 UnitedKingdom
+102037 102043 1811 UnitedKingdom
+46039 46035 1811 Italy
+126031 211459 1811 Germany
+47025 47064 1811 Germany
+113567 142702 1812 Netherlands
+110893 144900 1812 Netherlands
+113041 110949 1812 France
+18231 29642 1812 Germany
+123979 126355 1812 Germany
+126371 126355 1812 Germany
+12540 91582 1812 Russia
+150801 150615 1813 France
+222325 184233 1813 Estonia
+17865 26995 1814 France
+123979 123999 1814 Germany
+110900 110949 1815 Netherlands
+130323 114843 1815 Netherlands
+20543 215699 1815 Sweden
+199522 106605 1815 Germany
+18230 35953 1815 Germany
+128703 112602 1816 UnitedKingdom
+110893 74341 1816 Netherlands
+46039 176469 1816 Italy
+145283 145264 1816 Germany
+101865 145264 1816 Germany
+128056 113010 1817 Austria
+113567 142325 1817 Netherlands
+101851 104900 1818 Austria
+86763 86740 1819 Belgium
+114843 131979 1819 Netherlands
+110949 100601 1819 Netherlands
+134648 134060 1820 Netherlands
+122265 124029 1820 Netherlands
+57659 41423 1820 Germany
+57667 41423 1820 Germany
+18230 51876 1820 Germany
+145114 156934 1821 Germany
+101403 101411 1822 Austria
+77899 55178 1822 Norway
+114843 74341 1822 Netherlands
+96327 96350 1822 CzechRepublic
+96330 96350 1822 CzechRepublic
+18231 151876 1822 Germany
+217628 217629 1822 Germany
+101865 23194 1822 Germany
+104394 23194 1822 Germany
+18603 166282 1822 Germany
+110949 113246 1823 Netherlands
+113282 113520 1823 Netherlands
+138971 138500 1823 Germany
+57667 29458 1823 Germany
+145706 145778 1823 Germany
+145777 145778 1823 Germany
+29642 7402 1823 Germany
+126355 141834 1823 Germany
+145114 141834 1823 Germany
+18603 25484 1823 Germany
+65162 25484 1823 Germany
+113568 113573 1824 Netherlands
+113567 113573 1824 Netherlands
+114843 131981 1824 Netherlands
+18231 217618 1824 Germany
+86740 59682 1824 Germany
+140135 34187 1824 Germany
+170019 34187 1824 Germany
+86763 101260 1825 Belgium
+73324 73985 1825 Netherlands
+113567 73985 1825 Netherlands
+123683 123770 1825 Netherlands
+55177 139411 1825 France
+41423 15635 1825 Germany
+41423 62586 1825 Germany
+45103 62586 1825 Germany
+66319 18600 1825 Germany
+18231 62547 1825 Germany
+112602 112646 1826 UnitedKingdom
+112601 112646 1826 UnitedKingdom
+122494 122531 1826 Netherlands
+145264 141835 1826 Germany
+125104 47842 1826 Germany
+126894 60803 1826 Germany
+35141 60803 1826 Germany
+74341 113585 1827 Netherlands
+101893 57721 1827 Germany
+17865 17946 1827 Germany
+17981 17946 1827 Germany
+123999 123978 1827 Germany
+114843 131983 1828 Netherlands
+110949 113247 1828 Netherlands
+136717 136716 1829 Austria
+113010 136716 1829 Austria
+147797 80886 1829 UnitedStates
+138162 138163 1829 UnitedStates
+57667 165758 1829 Germany
+18231 165758 1829 Germany
+211459 209532 1829 Germany
+102043 42016 1830 UnitedKingdom
+110949 113251 1830 Netherlands
+110949 113252 1830 Netherlands
+20543 20542 1830 Sweden
+107498 102284 1830 Germany
+18231 55175 1830 Germany
+123979 123967 1830 Germany
+100601 100602 1831 Belgium
+114843 131982 1831 Netherlands
+110949 113249 1831 Netherlands
+210252 209188 1831 Germany
+25484 18331 1831 Germany
+45103 45102 1831 Germany
+41423 45102 1831 Germany
+15635 57706 1831 Germany
+170019 168018 1831 Germany
+170020 168018 1831 Germany
+170021 168018 1831 Germany
+100601 113538 1833 Netherlands
+145114 145006 1833 Sweden
+80886 132487 1833 UnitedStates
+138500 169959 1833 Germany
+41423 40976 1833 Germany
+45103 40976 1833 Germany
+158042 158043 1834 Austria
+74341 113566 1834 Netherlands
+100601 113529 1834 Netherlands
+150614 150310 1834 Switzerland
+150615 150310 1834 Switzerland
+18231 19953 1834 Germany
+12540 12541 1834 Russia
+146776 12541 1834 Russia
+74341 112203 1835 Netherlands
+110949 112203 1835 Netherlands
+124485 113248 1835 Netherlands
+110949 113248 1835 Netherlands
+134020 128929 1835 Germany
+41423 45112 1835 Germany
+74341 17813 1836 Netherlands
+110949 113250 1836 Netherlands
+17865 55185 1836 France
+104652 55185 1836 France
+41423 156722 1836 Germany
+141835 141836 1836 Germany
+41423 45106 1836 Germany
+199699 199700 1836 Germany
+113573 145183 1837 Netherlands
+73324 144916 1837 Netherlands
+110949 113245 1837 Netherlands
+17946 156723 1837 Germany
+41423 45111 1837 Germany
+106605 64465 1838 Germany
+217031 64465 1838 Germany
+167161 64465 1838 Germany
+168015 64465 1838 Germany
+100601 113525 1839 Netherlands
+100601 113528 1839 Netherlands
+100601 113535 1839 Netherlands
+20543 167682 1839 Sweden
+215699 215690 1839 Sweden
+62547 156729 1839 Germany
+17946 156729 1839 Germany
+101893 56263 1839 Germany
+41423 40982 1839 Germany
+168018 168019 1839 Germany
+34187 168019 1839 Germany
+134060 133834 1840 Netherlands
+15635 46967 1840 Germany
+42016 102483 1841 UnitedKingdom
+55185 100550 1841 France
+100550 32960 1841 France
+168015 168016 1841 Germany
+34187 168016 1841 Germany
+29458 7486 1841 Germany
+100601 113526 1842 Netherlands
+138163 138164 1842 UnitedStates
+90694 90695 1842 Germany
+41423 45117 1842 Germany
+47064 45117 1842 Germany
+23194 49057 1842 Germany
+35953 168009 1842 Germany
+34187 168009 1842 Germany
+168018 168022 1842 Germany
+34187 168022 1842 Germany
+123770 133594 1843 Netherlands
+133596 133595 1843 Netherlands
+123770 133595 1843 Netherlands
+18231 166471 1843 Germany
+23194 200415 1843 Germany
+123967 141931 1843 Germany
+90694 90696 1843 Germany
+41423 40985 1843 Germany
+15635 174251 1843 Germany
+131982 138318 1844 Netherlands
+74341 144901 1844 Netherlands
+100601 111269 1844 Netherlands
+138500 137314 1844 Germany
+156934 188452 1844 Germany
+15635 207338 1844 Germany
+112203 113578 1845 Netherlands
+122535 144866 1845 UnitedStates
+145006 144866 1845 UnitedStates
+41758 18922 1845 Italy
+51876 173679 1845 Germany
+51876 173680 1845 Germany
+141834 137314 1845 Germany
+141835 137314 1845 Germany
+141836 137314 1845 Germany
+141835 156007 1845 Germany
+62547 17982 1845 Germany
+17946 17982 1845 Germany
+18331 17983 1845 Germany
+169914 17983 1845 Germany
+96330 141831 1846 Austria
+100601 113531 1846 Netherlands
+138164 138165 1846 UnitedStates
+150310 150192 1846 France
+195203 26323 1846 Italy
+141834 188453 1846 Germany
+177156 194422 1846 Germany
+7402 190351 1846 Germany
+168018 168023 1846 Germany
+34187 168023 1846 Germany
+106605 168025 1846 Germany
+34187 168025 1846 Germany
+106605 168026 1846 Germany
+34187 168026 1846 Germany
+42016 30175 1847 UnitedKingdom
+113566 145303 1847 Netherlands
+73985 38405 1847 Netherlands
+112203 114890 1847 Netherlands
+100601 113532 1847 Netherlands
+100601 113533 1847 Netherlands
+49063 51623 1847 Germany
+62547 63737 1847 Germany
+63734 63737 1847 Germany
+102284 102292 1847 Germany
+123978 158570 1847 Germany
+123978 158606 1847 Germany
+18600 46968 1847 Germany
+42016 129420 1848 UnitedKingdom
+15635 18589 1848 Germany
+101893 124908 1848 Germany
+7402 137028 1848 Germany
+113566 145304 1849 Netherlands
+112203 113577 1849 Netherlands
+123967 159312 1849 Germany
+18331 76359 1849 Germany
+15635 76359 1849 Germany
+12541 12542 1849 Russia
+26995 7865 1850 UnitedStates
+138500 166949 1850 Germany
+219010 219258 1850 Germany
+90694 90697 1850 Germany
+148859 148852 1851 Spain
+18231 18232 1851 Germany
+128929 127308 1851 Germany
+90694 52921 1851 Germany
+112203 112261 1852 Netherlands
+25484 34183 1852 Germany
+18231 18233 1852 Germany
+138500 158751 1852 Germany
+161381 158751 1852 Germany
+219010 102033 1852 Germany
+90694 90699 1852 Germany
+122531 133598 1853 Netherlands
+100601 113523 1853 Netherlands
+123770 124086 1853 Netherlands
+123770 133597 1853 Netherlands
+18922 18923 1853 Italy
+59676 176072 1853 Germany
+123967 158817 1853 Germany
+141834 158817 1853 Germany
+17946 19964 1853 Germany
+47064 19964 1853 Germany
+17946 63736 1853 Germany
+18331 63736 1853 Germany
+34187 136714 1853 Germany
+56263 136714 1853 Germany
+42016 105806 1854 UnitedKingdom
+17813 113563 1854 Netherlands
+122531 133391 1854 Netherlands
+100601 113521 1854 Netherlands
+100601 113534 1854 Netherlands
+166282 52362 1854 Germany
+166282 190815 1854 Germany
+18600 18607 1854 Germany
+57706 19526 1854 Germany
+34187 157277 1854 Germany
+35953 157277 1854 Germany
+113566 145063 1855 Netherlands
+100601 113536 1855 Netherlands
+47064 63741 1855 Germany
+18331 63741 1855 Germany
+113010 184828 1856 Austria
+55177 122144 1856 France
+18922 41759 1856 Italy
+17946 59343 1856 Germany
+141835 145124 1856 Germany
+141834 145124 1856 Germany
+49057 46065 1856 Germany
+123967 158982 1856 Germany
+18331 45101 1856 Germany
+62547 65029 1856 Germany
+57706 32858 1856 Germany
+46967 32858 1856 Germany
+34187 177351 1856 Germany
+56263 177351 1856 Germany
+113010 114765 1857 Austria
+173802 114765 1857 Austria
+96350 114765 1857 Austria
+42016 101929 1857 UnitedKingdom
+129420 101929 1857 UnitedKingdom
+112203 116142 1857 Netherlands
+122531 145037 1857 Netherlands
+144866 144867 1857 UnitedStates
+49063 46928 1857 Germany
+209188 137067 1857 Germany
+46967 90700 1857 Germany
+17946 76438 1857 Germany
+18331 76438 1857 Germany
+56263 168011 1857 Germany
+34187 168011 1857 Germany
+80886 122449 1858 
+113010 19402 1858 Austria
+158043 158044 1858 Austria
+166949 166950 1858 UnitedKingdom
+73985 144883 1858 Netherlands
+100601 112106 1858 Netherlands
+49057 155359 1858 France
+113010 123972 1858 Germany
+7486 11370 1858 Germany
+18331 11370 1858 Germany
+123978 124283 1858 Germany
+18600 124283 1858 Germany
+123967 158752 1858 Germany
+158751 158752 1858 Germany
+35953 27250 1858 Germany
+56263 27250 1858 Germany
+95541 95540 1859 UnitedKingdom
+113082 95540 1859 UnitedKingdom
+158570 155990 1859 Switzerland
+156720 156721 1859 Germany
+123978 156721 1859 Germany
+18232 57594 1859 Germany
+137028 136936 1859 Germany
+18331 18332 1859 Germany
+18331 58056 1859 Germany
+47064 58056 1859 Germany
+60803 129648 1859 Germany
+113010 113011 1860 Austria
+138318 138726 1860 Netherlands
+100601 113530 1860 Netherlands
+129884 31047 1860 France
+129885 31047 1860 France
+188452 168822 1860 Switzerland
+188453 168822 1860 Switzerland
+180221 137066 1860 Germany
+145778 145780 1860 Germany
+18331 63742 1860 Germany
+47064 63742 1860 Germany
+61879 181745 1860 Germany
+181746 181745 1860 Germany
+7486 18336 1860 Germany
+18331 18336 1860 Germany
+18331 45108 1860 Germany
+18600 51470 1860 Germany
+56263 168021 1860 Germany
+34187 168021 1860 Germany
+12542 55611 1860 Russia
+138500 181488 1861 Austria
+96357 27258 1861 Austria
+96350 27258 1861 Austria
+96350 193252 1861 Austria
+96357 193252 1861 Austria
+113010 193252 1861 Austria
+7865 118720 1861 UnitedStates
+57721 52329 1861 Germany
+57721 49394 1861 Germany
+18331 62590 1861 Germany
+62547 62590 1861 Germany
+123978 156724 1861 Germany
+18331 156724 1861 Germany
+46967 46061 1861 Germany
+18331 58046 1861 Germany
+47064 58046 1861 Germany
+18600 91096 1861 Germany
+35953 34188 1861 Germany
+34187 34188 1861 Germany
+167161 167162 1861 Germany
+34187 167162 1861 Germany
+112203 112300 1862 Netherlands
+73985 112333 1862 Netherlands
+114765 25212 1862 Italy
+28227 15176 1862 Germany
+60803 15176 1862 Germany
+34187 34186 1862 Germany
+56263 34186 1862 Germany
+18589 34186 1862 Germany
+123978 156726 1862 Germany
+46967 46930 1862 Germany
+46968 46930 1862 Germany
+18331 18598 1862 Germany
+47064 18598 1862 Germany
+18331 45115 1862 Germany
+18331 58045 1862 Germany
+47064 58045 1862 Germany
+15635 15654 1862 Germany
+201680 199852 1862 Finland
+112203 112230 1863 Netherlands
+100601 113524 1863 Netherlands
+20542 20367 1863 Sweden
+167682 24894 1863 Sweden
+7865 132578 1863 UnitedStates
+49063 52329 1863 Germany
+57721 76487 1863 Germany
+18331 63740 1863 Germany
+47064 63740 1863 Germany
+46967 16915 1863 Germany
+46967 18549 1863 Germany
+18331 51692 1863 Germany
+47064 51692 1863 Germany
+18331 51693 1863 Germany
+47064 51693 1863 Germany
+19526 49177 1863 Germany
+35953 168020 1863 Germany
+34187 168020 1863 Germany
+42016 7824 1864 Netherlands
+73985 144766 1864 Netherlands
+136714 136536 1864 Switzerland
+136715 136536 1864 Switzerland
+124908 136536 1864 Switzerland
+177156 128930 1864 Germany
+34189 34181 1864 Germany
+18607 18599 1864 Germany
+18331 7487 1864 Germany
+7486 7487 1864 Germany
+18331 40979 1864 Germany
+7486 40979 1864 Germany
+18331 45107 1864 Germany
+18331 52330 1864 Germany
+7486 52330 1864 Germany
+123978 123973 1864 Germany
+136716 184227 1864 Germany
+73985 144767 1865 Netherlands
+100601 113522 1865 Netherlands
+26323 57499 1865 Italy
+52329 127770 1865 Germany
+60803 106920 1865 Germany
+46967 46927 1865 Germany
+46968 46927 1865 Germany
+46967 90701 1865 Germany
+46967 90702 1865 Germany
+219012 214827 1865 Germany
+7486 9724 1865 Germany
+7486 40980 1865 Germany
+18331 40980 1865 Germany
+18331 49524 1865 Germany
+17982 49524 1865 Germany
+158752 158985 1865 Germany
+19526 19496 1865 Germany
+19526 49062 1865 Germany
+34187 177348 1865 Germany
+34188 177348 1865 Germany
+34187 177349 1865 Germany
+34188 177349 1865 Germany
+128112 61695 1865 Estonia
+19402 13105 1866 Austria
+19402 124566 1866 Austria
+100601 113537 1866 Netherlands
+111269 113869 1866 Netherlands
+26995 34254 1866 France
+41759 195449 1866 Italy
+160105 103791 1866 Switzerland
+60803 28068 1866 Germany
+46967 90703 1866 Germany
+18600 34180 1866 Germany
+57706 66477 1866 Germany
+34187 177343 1866 Germany
+34188 177343 1866 Germany
+34187 177350 1866 Germany
+34188 177350 1866 Germany
+168940 208672 1866 Denmark
+7486 24101 1866 Russia
+18331 24101 1866 Russia
+55185 24101 1866 Russia
+60560 60580 1867 Poland
+100571 100574 1867 Belgium
+100566 100574 1867 Belgium
+17813 114286 1867 Netherlands
+100601 112171 1867 Netherlands
+100601 113527 1867 Netherlands
+111269 113867 1867 Netherlands
+111269 113870 1867 Netherlands
+116142 116172 1867 Netherlands
+133834 133814 1867 Netherlands
+221145 158870 1867 Germany
+52362 222358 1867 Germany
+46967 90704 1867 Germany
+123967 156933 1867 Germany
+7486 9720 1867 Germany
+18331 9720 1867 Germany
+18331 29561 1867 Germany
+7486 29561 1867 Germany
+18331 45118 1867 Germany
+7486 49397 1867 Germany
+18331 49397 1867 Germany
+123978 124661 1867 Germany
+123973 124661 1867 Germany
+34187 46069 1867 Germany
+56263 46069 1867 Germany
+56263 57978 1867 Germany
+34187 57978 1867 Germany
+102292 165817 1867 Russia
+12542 218445 1867 Russia
+101929 101979 1868 UnitedKingdom
+102483 101979 1868 UnitedKingdom
+166950 167093 1868 UnitedKingdom
+111269 113864 1868 Netherlands
+127308 127315 1868 Switzerland
+7402 7401 1868 Germany
+19964 7401 1868 Germany
+46967 46966 1868 Germany
+46968 46966 1868 Germany
+46967 90705 1868 Germany
+176024 168823 1868 Germany
+60803 95530 1868 Germany
+34187 51785 1868 Germany
+18589 51785 1868 Germany
+18589 62585 1868 Germany
+56263 62585 1868 Germany
+18589 160899 1868 Germany
+34188 160899 1868 Germany
+112106 113880 1869 Netherlands
+215690 215688 1869 Sweden
+49057 29244 1869 UnitedStates
+99605 29244 1869 UnitedStates
+18923 43272 1869 Italy
+123973 52900 1869 Switzerland
+136714 52900 1869 Switzerland
+18607 49178 1869 Germany
+64465 54762 1869 Germany
+52362 157804 1869 Germany
+52362 175051 1869 Germany
+123967 159015 1869 Germany
+7486 49039 1869 Germany
+18331 49039 1869 Germany
+65029 167159 1869 Germany
+18589 167159 1869 Germany
+32858 27233 1869 Germany
+18589 27233 1869 Germany
+38405 49650 1870 Netherlands
+38405 144744 1870 Netherlands
+112106 113878 1870 Netherlands
+112106 113883 1870 Netherlands
+116142 116173 1870 Netherlands
+49057 125585 1870 UnitedStates
+27250 27233 1870 CzechRepublic
+64465 57545 1870 Germany
+173833 52886 1870 Germany
+205350 199524 1870 Germany
+18336 76335 1870 Germany
+18336 90706 1870 Germany
+46968 190513 1870 Germany
+18336 190513 1870 Germany
+123967 190513 1870 Germany
+7486 4642 1870 Germany
+18331 4642 1870 Germany
+7486 9714 1870 Germany
+18331 9714 1870 Germany
+7486 9721 1870 Germany
+18331 9721 1870 Germany
+65029 7885 1870 Germany
+18589 7885 1870 Germany
+141931 141932 1870 Germany
+56263 141932 1870 Germany
+123972 114105 1871 Austria
+123973 114105 1871 Austria
+141831 193289 1871 Austria
+101929 17467 1871 UnitedKingdom
+122531 122556 1871 Netherlands
+38405 144716 1871 Netherlands
+111269 113868 1871 Netherlands
+112106 113884 1871 Netherlands
+26323 22413 1871 Italy
+136714 136535 1871 Switzerland
+160105 194907 1871 Switzerland
+11370 102197 1871 Germany
+7401 7403 1871 Germany
+57721 59342 1871 Germany
+205350 200453 1871 Germany
+205352 200453 1871 Germany
+18336 90707 1871 Germany
+18336 90708 1871 Germany
+7486 9712 1871 Germany
+18331 9712 1871 Germany
+60803 56404 1871 Germany
+124284 137099 1872 
+210787 208261 1872 Austria
+66101 18235 1872 Norway
+66102 18235 1872 Norway
+102483 123331 1872 UnitedKingdom
+105806 123331 1872 UnitedKingdom
+113566 145138 1872 Netherlands
+112106 51358 1872 Netherlands
+112106 65941 1872 Netherlands
+112106 113887 1872 Netherlands
+24894 19770 1872 Sweden
+26995 199754 1872 Ukraine
+11370 102196 1872 Germany
+61849 61876 1872 Germany
+61850 61876 1872 Germany
+61849 62077 1872 Germany
+61850 62077 1872 Germany
+18336 52440 1872 Germany
+18336 90710 1872 Germany
+7486 9715 1872 Germany
+18331 9715 1872 Germany
+124283 124194 1872 Germany
+56263 51429 1872 Germany
+65029 51429 1872 Germany
+65029 61848 1872 Germany
+27258 27259 1873 Austria
+49523 27259 1873 Austria
+17813 45621 1873 Netherlands
+38405 144634 1873 Netherlands
+38405 144823 1873 Netherlands
+111269 113866 1873 Netherlands
+112106 113881 1873 Netherlands
+59657 38198 1873 UnitedStates
+132487 67041 1873 UnitedStates
+7401 7404 1873 Germany
+7401 7405 1873 Germany
+34189 46166 1873 Germany
+18607 46166 1873 Germany
+64465 141837 1873 Germany
+61849 61877 1873 Germany
+61850 61877 1873 Germany
+61850 62078 1873 Germany
+61849 62078 1873 Germany
+205350 203906 1873 Germany
+205352 203906 1873 Germany
+18336 52924 1873 Germany
+18336 66166 1873 Germany
+46968 141863 1873 Germany
+34187 67327 1873 Germany
+155982 67327 1873 Germany
+145779 145781 1873 Germany
+56263 167160 1873 Germany
+34187 167160 1873 Germany
+18589 213244 1873 Germany
+32858 213244 1873 Germany
+15176 123739 1874 Austria
+95540 95539 1874 UnitedKingdom
+111269 113871 1874 Netherlands
+112106 113886 1874 Netherlands
+124086 124667 1874 Netherlands
+158752 159714 1874 France
+32960 34260 1874 France
+127315 22998 1874 Switzerland
+49063 105707 1874 Germany
+7486 9711 1874 Germany
+7486 66188 1874 Germany
+18336 90711 1874 Germany
+158751 161415 1874 Germany
+7486 9723 1874 Germany
+18331 9723 1874 Germany
+18600 45011 1874 Germany
+145780 145781 1874 Germany
+217029 205781 1874 Germany
+217030 205781 1874 Germany
+24101 24108 1874 Russia
+100570 100579 1875 Belgium
+100550 100579 1875 Belgium
+105806 30510 1875 UnitedKingdom
+17813 105756 1875 Netherlands
+112230 116158 1875 Netherlands
+210605 210606 1875 Netherlands
+112106 112114 1875 Netherlands
+112106 113885 1875 Netherlands
+153148 152662 1875 Netherlands
+209182 211239 1875 UnitedStates
+49057 177513 1875 France
+46968 177513 1875 France
+57499 59068 1875 Italy
+26323 59068 1875 Italy
+43290 140131 1875 Italy
+41759 140131 1875 Italy
+34181 37643 1875 Germany
+7401 7407 1875 Germany
+7401 7408 1875 Germany
+7401 7409 1875 Germany
+7401 100246 1875 Germany
+11370 156271 1875 Germany
+45117 47794 1875 Germany
+128930 128131 1875 Germany
+18336 90712 1875 Germany
+18336 90713 1875 Germany
+123967 159715 1875 Germany
+7486 9722 1875 Germany
+49057 9722 1875 Germany
+18331 45100 1875 Germany
+18331 45113 1875 Germany
+32858 7451 1875 Germany
+18589 7451 1875 Germany
+32858 173682 1875 Germany
+18589 173682 1875 Germany
+32858 174250 1875 Germany
+18589 174250 1875 Germany
+206959 206950 1875 Germany
+156005 206950 1875 Germany
+17813 114664 1876 Netherlands
+38405 144745 1876 Netherlands
+112106 113879 1876 Netherlands
+207150 200949 1876 UnitedStates
+209182 200949 1876 UnitedStates
+128143 128142 1876 France
+34181 37644 1876 Germany
+11370 90714 1876 Germany
+209532 209187 1876 Germany
+194422 209187 1876 Germany
+155981 51877 1876 Germany
+155982 51877 1876 Germany
+129648 96164 1876 Germany
+123973 217433 1876 Germany
+123972 217433 1876 Germany
+148852 148592 1877 Spain
+112171 141464 1877 Netherlands
+17813 144786 1877 Netherlands
+111269 113865 1877 Netherlands
+112106 113877 1877 Netherlands
+34254 34266 1877 France
+32960 199599 1877 France
+199600 199599 1877 France
+26323 58047 1877 Italy
+57499 58047 1877 Italy
+18923 18924 1877 Italy
+43290 140130 1877 Italy
+113011 193253 1877 CzechRepublic
+102292 51878 1877 Germany
+128930 209485 1877 Germany
+11370 90715 1877 Germany
+194422 122448 1877 Germany
+7486 9713 1877 Germany
+18331 9713 1877 Germany
+18331 46876 1877 Germany
+7486 46876 1877 Germany
+19526 156728 1877 Germany
+49062 156728 1877 Germany
+191306 211942 1877 Germany
+51429 59657 1877 Germany
+56263 59657 1877 Germany
+18589 60555 1877 Germany
+155993 60555 1877 Germany
+155990 60783 1877 Germany
+65029 60783 1877 Germany
+156004 198629 1877 Germany
+156005 198629 1877 Germany
+112171 141466 1878 Netherlands
+112333 112320 1878 Netherlands
+112333 144702 1878 Netherlands
+45621 7731 1878 Netherlands
+29244 143417 1878 UnitedStates
+95530 24410 1878 UnitedStates
+129884 196373 1878 France
+160105 65920 1878 Switzerland
+34181 37645 1878 Germany
+34181 37646 1878 Germany
+34181 37647 1878 Germany
+52362 62576 1878 Germany
+7401 7410 1878 Germany
+61849 62079 1878 Germany
+61850 62079 1878 Germany
+194422 209584 1878 Germany
+158570 200258 1878 Germany
+7486 9719 1878 Germany
+18331 9719 1878 Germany
+65029 51112 1878 Germany
+18589 51112 1878 Germany
+168824 220969 1878 Germany
+137066 209531 1878 Germany
+137314 137132 1878 Estonia
+181488 181487 1879 Austria
+123972 181487 1879 Austria
+30175 30176 1879 UnitedKingdom
+112171 99434 1879 Netherlands
+112171 141468 1879 Netherlands
+112171 141469 1879 Netherlands
+112106 113882 1879 Netherlands
+37336 36417 1879 UnitedStates
+139616 177169 1879 France
+32960 34227 1879 France
+113011 138329 1879 CzechRepublic
+160105 194910 1879 Switzerland
+7487 30691 1879 Germany
+19953 84010 1879 Germany
+7486 63738 1879 Germany
+18331 63738 1879 Germany
+18331 63739 1879 Germany
+7486 63739 1879 Germany
+18599 20750 1879 Germany
+7401 85765 1879 Germany
+128930 208733 1879 Germany
+194422 207733 1879 Germany
+7486 45121 1879 Germany
+18331 47611 1879 Germany
+7486 47611 1879 Germany
+123973 55342 1879 Germany
+56263 157280 1879 Germany
+32858 157280 1879 Germany
+18336 17807 1880 Austria
+208261 207747 1880 Austria
+138726 138775 1880 Netherlands
+112261 112551 1880 Netherlands
+37336 32916 1880 UnitedStates
+37336 37337 1880 UnitedStates
+125585 141988 1880 UnitedStates
+32960 101285 1880 France
+32960 103128 1880 France
+43280 43284 1880 Italy
+18923 43282 1880 Italy
+18332 63810 1880 Germany
+52329 52435 1880 Germany
+19953 7674 1880 Germany
+7487 7674 1880 Germany
+7487 63551 1880 Germany
+49057 67546 1880 Germany
+201563 67546 1880 Germany
+61849 62080 1880 Germany
+61850 62080 1880 Germany
+61850 62081 1880 Germany
+61849 62081 1880 Germany
+136536 184228 1880 Germany
+171681 78207 1880 Germany
+11370 90716 1880 Germany
+7486 18334 1880 Germany
+18331 18334 1880 Germany
+7486 18344 1880 Germany
+18331 18344 1880 Germany
+18331 42452 1880 Germany
+7486 42452 1880 Germany
+52362 67319 1880 Germany
+137066 213731 1880 Germany
+27233 64946 1881 Austria
+18336 64946 1881 Austria
+18336 82584 1881 Austria
+7824 17829 1881 UnitedKingdom
+105756 108124 1881 Netherlands
+122556 133587 1881 Netherlands
+46971 46970 1881 Netherlands
+221141 219680 1881 UnitedStates
+34254 96283 1881 France
+76487 208536 1881 Germany
+211127 208536 1881 Germany
+18332 18333 1881 Germany
+46966 134936 1881 Germany
+34181 37639 1881 Germany
+34181 37648 1881 Germany
+34181 37649 1881 Germany
+34181 37650 1881 Germany
+34181 37651 1881 Germany
+34181 37653 1881 Germany
+34181 37655 1881 Germany
+34181 37656 1881 Germany
+27143 37656 1881 Germany
+34181 37657 1881 Germany
+34181 37658 1881 Germany
+34181 37665 1881 Germany
+34189 73810 1881 Germany
+61849 47741 1881 Germany
+61850 47741 1881 Germany
+45117 47795 1881 Germany
+106920 96164 1881 Germany
+11370 90717 1881 Germany
+11370 90718 1881 Germany
+194422 208460 1881 Germany
+52362 49032 1881 Germany
+190814 49032 1881 Germany
+18331 51691 1881 Germany
+7486 51691 1881 Germany
+18589 7412 1881 Germany
+7401 7412 1881 Germany
+7401 7413 1881 Germany
+18589 7413 1881 Germany
+18589 7414 1881 Germany
+7401 7414 1881 Germany
+156002 54791 1881 Germany
+156003 54791 1881 Germany
+7401 167155 1881 Germany
+32858 167155 1881 Germany
+7401 183446 1881 Germany
+32858 183446 1881 Germany
+137066 207738 1881 Germany
+60560 60581 1882 Poland
+105756 108125 1882 Netherlands
+111269 113872 1882 Netherlands
+37336 36555 1882 UnitedStates
+26323 33908 1882 Italy
+194907 194908 1882 Switzerland
+18332 18608 1882 Germany
+34181 37659 1882 Germany
+7486 63743 1882 Germany
+18331 63743 1882 Germany
+171681 68500 1882 Germany
+11370 90719 1882 Germany
+7486 9716 1882 Germany
+46968 9716 1882 Germany
+7486 9718 1882 Germany
+18331 9718 1882 Germany
+7486 49176 1882 Germany
+18331 49176 1882 Germany
+7486 58044 1882 Germany
+46968 58044 1882 Germany
+137067 210251 1882 Germany
+7401 7415 1882 Germany
+18589 7415 1882 Germany
+18589 168941 1882 Germany
+32858 168941 1882 Germany
+19770 143865 1882 Finland
+12542 99029 1882 Russia
+172952 173428 1883 
+49524 60552 1883 Poland
+208261 200078 1883 Austria
+101979 50701 1883 UnitedKingdom
+105756 108126 1883 Netherlands
+105756 108127 1883 Netherlands
+122556 133507 1883 Netherlands
+133814 133788 1883 Netherlands
+133814 134029 1883 Netherlands
+209182 207624 1883 UnitedStates
+37336 24931 1883 UnitedStates
+37336 25089 1883 UnitedStates
+43280 43283 1883 Italy
+18332 18338 1883 Germany
+34181 37660 1883 Germany
+34181 37661 1883 Germany
+19496 52263 1883 Germany
+61849 62082 1883 Germany
+61850 62082 1883 Germany
+34180 37621 1883 Germany
+34180 37666 1883 Germany
+11370 90720 1883 Germany
+11370 90721 1883 Germany
+18331 40981 1883 Germany
+7486 40981 1883 Germany
+7401 7416 1883 Germany
+32858 7416 1883 Germany
+7401 46060 1883 Germany
+18589 46060 1883 Germany
+7401 53041 1883 Germany
+18589 53041 1883 Germany
+7401 61745 1883 Germany
+18589 61745 1883 Germany
+156005 64937 1883 Germany
+156004 64937 1883 Germany
+145781 145782 1883 Germany
+156004 145782 1883 Germany
+18589 190817 1883 Germany
+9712 190817 1883 Germany
+7401 217634 1883 Germany
+217633 217634 1883 Germany
+49394 18349 1883 Germany
+18336 64955 1884 Austria
+101929 78732 1884 UnitedKingdom
+133391 133447 1884 Netherlands
+112261 112550 1884 Netherlands
+37336 22726 1884 UnitedStates
+207733 218258 1884 UnitedStates
+168532 211240 1884 UnitedStates
+155359 155507 1884 France
+25212 24210 1884 Italy
+34181 37662 1884 Germany
+34181 37663 1884 Germany
+7487 220648 1884 Germany
+19496 52075 1884 Germany
+3122 52075 1884 Germany
+61849 19466 1884 Germany
+61850 19466 1884 Germany
+61848 47817 1884 Germany
+61850 62083 1884 Germany
+61849 62083 1884 Germany
+61850 62084 1884 Germany
+61849 62084 1884 Germany
+34180 37735 1884 Germany
+128930 208692 1884 Germany
+18336 53040 1884 Germany
+11370 90722 1884 Germany
+208536 216271 1884 Germany
+7486 9717 1884 Germany
+17982 9717 1884 Germany
+17982 18337 1884 Germany
+7486 18337 1884 Germany
+17982 30705 1884 Germany
+18331 30705 1884 Germany
+17982 34268 1884 Germany
+49057 52383 1884 Germany
+7401 46064 1884 Germany
+18589 46064 1884 Germany
+12542 148745 1884 Russia
+12542 12543 1884 Russia
+7824 6965 1885 UnitedKingdom
+101929 160848 1885 UnitedKingdom
+38405 65917 1885 Netherlands
+99434 114457 1885 Netherlands
+133834 134037 1885 Netherlands
+201548 127845 1885 UnitedStates
+201548 208460 1885 UnitedStates
+125585 126484 1885 UnitedStates
+125585 134368 1885 UnitedStates
+7865 806 1885 UnitedStates
+7865 22376 1885 UnitedStates
+31047 129883 1885 France
+32960 129883 1885 France
+25466 53475 1885 Germany
+214827 214828 1885 Germany
+34181 37626 1885 Germany
+34181 37634 1885 Germany
+34181 37652 1885 Germany
+34181 37800 1885 Germany
+34180 37723 1885 Germany
+34180 37724 1885 Germany
+34180 37725 1885 Germany
+18336 90723 1885 Germany
+18336 90724 1885 Germany
+17982 46875 1885 Germany
+48502 46875 1885 Germany
+7486 72581 1885 Germany
+17982 72581 1885 Germany
+7404 7298 1885 Germany
+7404 29675 1885 Germany
+7401 7417 1885 Germany
+32858 7417 1885 Germany
+7401 7418 1885 Germany
+18589 7418 1885 Germany
+7401 7419 1885 Germany
+18589 7419 1885 Germany
+7401 7420 1885 Germany
+18589 7420 1885 Germany
+46065 73650 1885 Germany
+18589 73650 1885 Germany
+145781 145783 1885 Germany
+46065 217696 1885 Germany
+7401 217696 1885 Germany
+32858 217697 1885 Germany
+7401 217697 1885 Germany
+9711 126344 1885 Finland
+19770 126344 1885 Finland
+12542 31015 1885 Russia
+60555 60572 1886 Poland
+142782 142608 1886 Netherlands
+20367 20368 1886 Sweden
+58982 38229 1886 UnitedStates
+7401 7611 1886 UnitedStates
+209187 210339 1886 UnitedStates
+207733 210339 1886 UnitedStates
+23214 23213 1886 UnitedStates
+32960 125366 1886 France
+34254 125366 1886 France
+18924 18925 1886 Italy
+160105 73823 1886 Switzerland
+191307 174065 1886 Switzerland
+191308 174065 1886 Switzerland
+18599 52328 1886 Germany
+34181 37612 1886 Germany
+7401 5885 1886 Germany
+7401 7428 1886 Germany
+3122 52030 1886 Germany
+3122 52059 1886 Germany
+19496 52103 1886 Germany
+51906 52103 1886 Germany
+61850 51780 1886 Germany
+124283 73821 1886 Germany
+123967 73821 1886 Germany
+18336 90725 1886 Germany
+18336 90726 1886 Germany
+18336 90727 1886 Germany
+11370 45116 1886 Germany
+49057 51898 1886 Germany
+7401 7421 1886 Germany
+32858 7421 1886 Germany
+7401 7422 1886 Germany
+32858 7422 1886 Germany
+7401 7423 1886 Germany
+18589 7423 1886 Germany
+7401 7424 1886 Germany
+18589 7424 1886 Germany
+46065 64046 1886 Germany
+7401 65946 1886 Germany
+18589 65946 1886 Germany
+9712 68463 1886 Germany
+18589 68463 1886 Germany
+46065 72614 1886 Germany
+7401 74381 1886 Germany
+32858 74381 1886 Germany
+52924 67317 1886 Germany
+52924 101900 1886 Germany
+45101 76356 1886 Germany
+158870 221118 1886 Germany
+27233 18602 1887 Austria
+27259 18602 1887 Austria
+100579 100584 1887 Belgium
+100550 100584 1887 Belgium
+105756 108128 1887 Netherlands
+124667 108128 1887 Netherlands
+105756 108129 1887 Netherlands
+122556 133586 1887 Netherlands
+105484 105485 1887 UnitedStates
+34266 76358 1887 France
+76487 43417 1887 Germany
+45011 62397 1887 Germany
+61850 53045 1887 Germany
+61850 62086 1887 Germany
+61850 62087 1887 Germany
+158752 159745 1887 Germany
+34180 37726 1887 Germany
+34180 37727 1887 Germany
+34180 37728 1887 Germany
+34180 37729 1887 Germany
+54762 82584 1887 Germany
+18336 90728 1887 Germany
+7486 45120 1887 Germany
+11370 47610 1887 Germany
+17982 47610 1887 Germany
+7401 745 1887 Germany
+18589 745 1887 Germany
+7401 7426 1887 Germany
+18589 7426 1887 Germany
+18235 7427 1887 Germany
+7401 7427 1887 Germany
+32858 42101 1887 Germany
+18589 42101 1887 Germany
+32858 57839 1887 Germany
+55642 62118 1887 Germany
+46065 62118 1887 Germany
+46065 169080 1887 Germany
+158570 169080 1887 Germany
+18589 172554 1887 Germany
+32858 172554 1887 Germany
+18598 170208 1887 Germany
+32960 153109 1888 
+139249 139419 1888 Spain
+139249 139420 1888 Spain
+27259 49940 1888 Austria
+27233 49940 1888 Austria
+114664 114685 1888 Netherlands
+111269 111259 1888 Netherlands
+112106 113889 1888 Netherlands
+7731 74729 1888 Netherlands
+58982 38228 1888 UnitedStates
+207841 38364 1888 UnitedStates
+67041 35094 1888 UnitedStates
+218940 169874 1888 UnitedStates
+7451 7452 1888 UnitedStates
+76440 76439 1888 France
+34260 76439 1888 France
+34181 37613 1888 Germany
+34181 37614 1888 Germany
+34189 43955 1888 Germany
+7487 43955 1888 Germany
+124661 50937 1888 Germany
+19496 52016 1888 Germany
+19496 52020 1888 Germany
+19496 52021 1888 Germany
+19496 52050 1888 Germany
+9721 52052 1888 Germany
+61848 62088 1888 Germany
+34180 37730 1888 Germany
+34180 37731 1888 Germany
+18336 73765 1888 Germany
+137066 137068 1888 Germany
+137067 137068 1888 Germany
+18589 59836 1888 Germany
+9712 59836 1888 Germany
+9712 61705 1888 Germany
+18589 61705 1888 Germany
+46065 62115 1888 Germany
+18235 62115 1888 Germany
+18589 169371 1888 Germany
+9712 169371 1888 Germany
+57545 173723 1888 Germany
+199852 199211 1888 Finland
+77898 18236 1889 Norway
+201548 218259 1889 UnitedStates
+209187 216675 1889 UnitedStates
+34254 12546 1889 France
+34266 12546 1889 France
+176022 176021 1889 Italy
+11370 106952 1889 Ukraine
+18599 52991 1889 Germany
+34181 37615 1889 Germany
+159000 158566 1889 Germany
+34189 103140 1889 Germany
+9721 52067 1889 Germany
+61850 52271 1889 Germany
+61850 62090 1889 Germany
+61848 62092 1889 Germany
+34180 37664 1889 Germany
+34180 37732 1889 Germany
+34180 37734 1889 Germany
+18336 18335 1889 Germany
+18336 90730 1889 Germany
+136714 47633 1889 Germany
+17982 45104 1889 Germany
+11370 45110 1889 Germany
+123973 51899 1889 Germany
+49057 72169 1889 Germany
+18235 46066 1889 Germany
+18589 46066 1889 Germany
+46065 59103 1889 Germany
+18589 59103 1889 Germany
+158570 169477 1889 Germany
+9712 169477 1889 Germany
+46065 172555 1889 Germany
+55642 172555 1889 Germany
+52924 101725 1889 Germany
+27258 65026 1890 Austria
+130991 65026 1890 Austria
+100574 100585 1890 Belgium
+98424 100585 1890 Belgium
+114664 143738 1890 Netherlands
+112106 113888 1890 Netherlands
+112106 113891 1890 Netherlands
+133814 152449 1890 Netherlands
+125585 125421 1890 UnitedStates
+209187 207783 1890 UnitedStates
+207733 207784 1890 UnitedStates
+207733 209615 1890 UnitedStates
+46930 51344 1890 Germany
+46966 69220 1890 Germany
+46966 102103 1890 Germany
+34181 37616 1890 Germany
+34181 37617 1890 Germany
+7401 7429 1890 Germany
+7401 7430 1890 Germany
+7487 76360 1890 Germany
+9721 52015 1890 Germany
+19496 52071 1890 Germany
+9721 52090 1890 Germany
+19496 52095 1890 Germany
+19496 52101 1890 Germany
+61848 62093 1890 Germany
+11370 18340 1890 Germany
+34180 37720 1890 Germany
+34180 37736 1890 Germany
+49057 84506 1890 Germany
+18235 19534 1890 Germany
+51429 53253 1890 Germany
+32858 53253 1890 Germany
+137132 138036 1890 Germany
+168822 138036 1890 Germany
+51429 169375 1890 Germany
+9712 169375 1890 Germany
+67546 58343 1890 Germany
+18598 169755 1890 Germany
+60555 60573 1891 Poland
+141831 13344 1891 Austria
+15176 13344 1891 Austria
+156009 100573 1891 Belgium
+99434 144137 1891 Netherlands
+124667 133545 1891 Netherlands
+209584 208347 1891 UnitedStates
+125585 126485 1891 UnitedStates
+207733 209614 1891 UnitedStates
+207733 211583 1891 UnitedStates
+209187 215964 1891 UnitedStates
+132578 168533 1891 UnitedStates
+168532 168533 1891 UnitedStates
+26323 66271 1891 Italy
+18925 66271 1891 Italy
+51693 219998 1891 Germany
+184041 53013 1891 Germany
+34181 37618 1891 Germany
+7401 7431 1891 Germany
+7401 7432 1891 Germany
+7401 7435 1891 Germany
+136936 209583 1891 Germany
+9721 52084 1891 Germany
+19496 52097 1891 Germany
+61848 62095 1891 Germany
+34180 37737 1891 Germany
+34180 37738 1891 Germany
+34180 37739 1891 Germany
+34180 37740 1891 Germany
+18336 49568 1891 Germany
+7404 31357 1891 Germany
+9712 46991 1891 Germany
+46061 46991 1891 Germany
+9712 51895 1891 Germany
+18589 51895 1891 Germany
+18235 60302 1891 Germany
+168823 61557 1891 Germany
+168824 61557 1891 Germany
+46060 129776 1891 Germany
+9712 172893 1891 Germany
+18589 172893 1891 Germany
+49177 72841 1891 Germany
+165817 165955 1891 Russia
+123973 187188 1891 Russia
+200007 187188 1891 Russia
+160105 194909 1892 
+99434 111292 1892 Netherlands
+20367 19965 1892 Sweden
+19770 20654 1892 Sweden
+7451 7470 1892 UnitedStates
+122449 122450 1892 UnitedStates
+122448 122450 1892 UnitedStates
+207733 207785 1892 UnitedStates
+34266 122554 1892 France
+34266 24555 1892 France
+34260 24555 1892 France
+51693 46993 1892 Germany
+184041 25165 1892 Germany
+34181 37619 1892 Germany
+34181 37620 1892 Germany
+7401 7433 1892 Germany
+7401 7434 1892 Germany
+136936 63407 1892 Germany
+9721 52013 1892 Germany
+9721 52077 1892 Germany
+61848 62094 1892 Germany
+34180 37707 1892 Germany
+34180 37742 1892 Germany
+128930 209675 1892 Germany
+128131 127040 1892 Germany
+11370 65942 1892 Germany
+19530 65942 1892 Germany
+137066 207737 1892 Germany
+46065 133027 1892 Germany
+51429 133027 1892 Germany
+27259 52212 1893 Austria
+27233 52212 1893 Austria
+114105 217430 1893 Austria
+123972 217430 1893 Austria
+98424 98432 1893 Belgium
+99434 110929 1893 Netherlands
+99434 144138 1893 Netherlands
+99434 144812 1893 Netherlands
+124667 133396 1893 Netherlands
+45621 133550 1893 Netherlands
+124667 133550 1893 Netherlands
+7731 144881 1893 Netherlands
+7451 7463 1893 UnitedStates
+7452 7463 1893 UnitedStates
+58982 38223 1893 UnitedStates
+36262 36221 1893 UnitedStates
+207733 209483 1893 UnitedStates
+144868 144869 1893 UnitedStates
+18235 182711 1893 France
+34254 39071 1893 France
+59068 59054 1893 Italy
+7401 7436 1893 Germany
+62532 39963 1893 Germany
+61850 57544 1893 Germany
+61850 84639 1893 Germany
+34180 37743 1893 Germany
+67546 129311 1893 Germany
+18339 40984 1893 Germany
+4642 40984 1893 Germany
+11370 48505 1893 Germany
+7487 48505 1893 Germany
+137066 211651 1893 Germany
+18235 216916 1893 Germany
+46061 216916 1893 Germany
+143865 782 1893 Finland
+49522 49498 1894 Austria
+27259 49498 1894 Austria
+27233 64957 1894 Austria
+27259 64957 1894 Austria
+114664 114688 1894 Netherlands
+99434 143731 1894 Netherlands
+113881 113962 1894 Netherlands
+7731 45622 1894 Netherlands
+7731 74735 1894 Netherlands
+58982 38271 1894 UnitedStates
+209187 207842 1894 UnitedStates
+138165 138166 1894 UnitedStates
+208733 208729 1894 UnitedStates
+32960 53473 1894 France
+34266 53473 1894 France
+34254 81192 1894 France
+18235 81192 1894 France
+218373 192508 1894 Germany
+34181 37641 1894 Germany
+7401 7437 1894 Germany
+7401 7438 1894 Germany
+144086 141049 1894 Germany
+9721 52073 1894 Germany
+7404 5119 1894 Germany
+61850 5119 1894 Germany
+128930 208690 1894 Germany
+11370 11369 1894 Germany
+7487 11369 1894 Germany
+11370 46828 1894 Germany
+7487 46828 1894 Germany
+11370 61670 1894 Germany
+7487 61670 1894 Germany
+49062 46874 1894 Germany
+18235 46067 1894 Germany
+19534 46067 1894 Germany
+18589 53413 1894 Germany
+46061 53413 1894 Germany
+158570 142146 1894 Germany
+16915 49179 1894 Germany
+49394 60295 1894 Germany
+199754 104854 1894 Russia
+60302 60305 1895 Poland
+218974 218952 1895 Austria
+49522 65048 1895 Austria
+65022 65048 1895 Austria
+19402 124567 1895 Austria
+114105 181491 1895 Austria
+17829 18571 1895 UnitedKingdom
+17467 18571 1895 UnitedKingdom
+99434 144139 1895 Netherlands
+45621 111312 1895 Netherlands
+133814 152451 1895 Netherlands
+7451 7454 1895 UnitedStates
+7451 7458 1895 UnitedStates
+7451 7459 1895 UnitedStates
+7451 7466 1895 UnitedStates
+148580 72167 1895 UnitedStates
+72170 72167 1895 UnitedStates
+58982 84549 1895 UnitedStates
+7431 7666 1895 UnitedStates
+7270 5657 1895 UnitedStates
+207733 211595 1895 UnitedStates
+207785 211595 1895 UnitedStates
+207783 211595 1895 UnitedStates
+177513 129287 1895 France
+139616 147127 1895 France
+138204 147127 1895 France
+34181 37625 1895 Germany
+34181 37640 1895 Germany
+7401 7439 1895 Germany
+7401 7441 1895 Germany
+7401 7442 1895 Germany
+7401 18555 1895 Germany
+4642 62589 1895 Germany
+11370 62589 1895 Germany
+136535 47633 1895 Germany
+136536 47633 1895 Germany
+61850 62099 1895 Germany
+7404 62099 1895 Germany
+136535 66530 1895 Germany
+34180 37745 1895 Germany
+18336 61590 1895 Germany
+7414 61731 1895 Germany
+45101 53268 1895 Germany
+172952 173221 1896 
+114105 83827 1896 Austria
+113011 113012 1896 Austria
+114105 181113 1896 Austria
+28416 144779 1896 Netherlands
+51358 112185 1896 Netherlands
+112261 112185 1896 Netherlands
+51358 113612 1896 Netherlands
+51358 113613 1896 Netherlands
+112106 113890 1896 Netherlands
+133447 133920 1896 Netherlands
+6965 6964 1896 UnitedStates
+6965 38218 1896 UnitedStates
+7451 7453 1896 UnitedStates
+806 5695 1896 UnitedStates
+5885 5696 1896 UnitedStates
+22726 3312 1896 UnitedStates
+207783 209534 1896 UnitedStates
+49498 38055 1896 UnitedStates
+139616 139556 1896 France
+138204 139556 1896 France
+43283 67554 1896 Italy
+7413 9699 1896 Switzerland
+7401 7443 1896 Germany
+19496 52057 1896 Germany
+9721 52063 1896 Germany
+22723 52083 1896 Germany
+19496 52083 1896 Germany
+133447 133310 1896 Germany
+61848 73594 1896 Germany
+18336 52925 1896 Germany
+7487 45099 1896 Germany
+4642 45099 1896 Germany
+4642 45105 1896 Germany
+12543 12544 1896 Russia
+55611 73323 1896 Russia
+100570 100572 1897 Belgium
+17467 9306 1897 UnitedKingdom
+105756 108130 1897 Netherlands
+105756 108131 1897 Netherlands
+105756 108132 1897 Netherlands
+99434 112303 1897 Netherlands
+112261 112549 1897 Netherlands
+84506 84657 1897 UnitedStates
+84010 84012 1897 UnitedStates
+84010 141824 1897 UnitedStates
+7431 8144 1897 UnitedStates
+7431 8145 1897 UnitedStates
+209182 211255 1897 UnitedStates
+37335 38306 1897 UnitedStates
+200949 207148 1897 UnitedStates
+133282 67735 1897 UnitedStates
+8138 7939 1897 UnitedStates
+207783 208348 1897 UnitedStates
+207785 211180 1897 UnitedStates
+207733 214268 1897 UnitedStates
+207785 214268 1897 UnitedStates
+49498 38060 1897 UnitedStates
+132578 141206 1897 UnitedStates
+125585 141206 1897 UnitedStates
+76358 76357 1897 France
+94428 94453 1897 Italy
+193252 129344 1897 CzechRepublic
+193253 129344 1897 CzechRepublic
+133586 133642 1897 Switzerland
+7413 9700 1897 Switzerland
+195298 63060 1897 Switzerland
+18599 49091 1897 Germany
+18599 149401 1897 Germany
+49176 149401 1897 Germany
+34181 37627 1897 Germany
+7401 7444 1897 Germany
+123973 73822 1897 Germany
+9721 52107 1897 Germany
+61848 52349 1897 Germany
+7404 62100 1897 Germany
+61850 62100 1897 Germany
+166465 166466 1897 Germany
+51622 166466 1897 Germany
+128930 211076 1897 Germany
+96164 73872 1897 Germany
+106920 73872 1897 Germany
+4642 18339 1897 Germany
+7487 18339 1897 Germany
+7487 18346 1897 Germany
+20750 52984 1897 Germany
+11370 103126 1897 Germany
+137066 170808 1897 Germany
+55642 61701 1897 Germany
+46065 61701 1897 Germany
+55642 222386 1897 Germany
+53479 222386 1897 Germany
+182619 21669 1897 Denmark
+27259 20359 1898 Austria
+207747 207748 1898 Austria
+200078 207748 1898 Austria
+133447 133531 1898 Netherlands
+99434 144140 1898 Netherlands
+51358 113614 1898 Netherlands
+113881 113964 1898 Netherlands
+7731 74723 1898 Netherlands
+133814 152444 1898 Netherlands
+7451 7455 1898 UnitedStates
+7452 7473 1898 UnitedStates
+7431 8146 1898 UnitedStates
+125585 169153 1898 UnitedStates
+806 5697 1898 UnitedStates
+200949 211241 1898 UnitedStates
+211240 211241 1898 UnitedStates
+207733 209535 1898 UnitedStates
+207783 209535 1898 UnitedStates
+207783 209537 1898 UnitedStates
+49498 38061 1898 UnitedStates
+49498 38068 1898 UnitedStates
+49498 38078 1898 UnitedStates
+34260 105159 1898 France
+24210 16966 1898 Italy
+184828 180759 1898 Italy
+22998 121521 1898 Switzerland
+127770 121521 1898 Switzerland
+51429 72179 1898 Germany
+34181 37628 1898 Germany
+7298 7299 1898 Germany
+7298 7300 1898 Germany
+7298 7301 1898 Germany
+43417 126038 1898 Germany
+19496 52053 1898 Germany
+19496 52066 1898 Germany
+61850 57836 1898 Germany
+7404 57836 1898 Germany
+96164 96160 1898 Germany
+18336 66156 1898 Germany
+18336 90731 1898 Germany
+19531 196302 1898 Germany
+46969 61749 1898 Germany
+18235 38516 1898 Germany
+46061 38516 1898 Germany
+46067 46068 1898 Germany
+46060 46068 1898 Germany
+18235 62745 1898 Germany
+46061 62745 1898 Germany
+18235 77959 1898 Germany
+46061 77959 1898 Germany
+32858 150803 1898 Germany
+46061 150803 1898 Germany
+18235 165541 1898 Germany
+46061 165541 1898 Germany
+53479 169775 1898 Germany
+55642 169775 1898 Germany
+49524 49499 1899 Austria
+49522 49499 1899 Austria
+141932 141936 1899 UnitedKingdom
+99434 116112 1899 Netherlands
+99434 144141 1899 Netherlands
+133447 133530 1899 Netherlands
+6965 6972 1899 UnitedStates
+6966 6972 1899 UnitedStates
+7451 7456 1899 UnitedStates
+7401 37342 1899 UnitedStates
+7298 37342 1899 UnitedStates
+169874 219111 1899 UnitedStates
+125585 144888 1899 UnitedStates
+7674 5698 1899 UnitedStates
+200949 199762 1899 UnitedStates
+207784 208954 1899 UnitedStates
+22726 3313 1899 UnitedStates
+8138 7940 1899 UnitedStates
+7454 7940 1899 UnitedStates
+207783 209536 1899 UnitedStates
+110301 38137 1899 UnitedStates
+110302 38137 1899 UnitedStates
+34266 105158 1899 France
+34254 145784 1899 France
+43272 97463 1899 Italy
+17807 64803 1899 CzechRepublic
+61734 64803 1899 CzechRepublic
+7298 7335 1899 Germany
+7298 7336 1899 Germany
+7298 7337 1899 Germany
+7298 7338 1899 Germany
+9721 52027 1899 Germany
+71565 51374 1899 Germany
+7404 62101 1899 Germany
+61850 62101 1899 Germany
+7404 62102 1899 Germany
+61850 62102 1899 Germany
+7404 62103 1899 Germany
+61850 62103 1899 Germany
+128930 211077 1899 Germany
+9722 15217 1899 Germany
+18336 90732 1899 Germany
+4642 7862 1899 Germany
+11370 7862 1899 Germany
+7487 45119 1899 Germany
+11370 45119 1899 Germany
+46067 46063 1899 Germany
+46061 46063 1899 Germany
+46060 66165 1899 Germany
+46061 66165 1899 Germany
+46065 170053 1899 Germany
+9712 170053 1899 Germany
+46065 170054 1899 Germany
+9712 170054 1899 Germany
