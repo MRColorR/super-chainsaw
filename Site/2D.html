@@ -15,7 +15,7 @@
     <script src="https://d3js.org/d3.v7.min.js"></script> <!--Caricamento Librerie per la visualizzazione grafo-->
     <script src="//unpkg.com/force-graph"></script>
 
-    <meta name="generator" content="Nicepage 3.30.2, nicepage.com">
+
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
 
     <script type="application/ld+json">        {
@@ -122,13 +122,13 @@
                     <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
                 </div>
             </nav>
-            <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="720">
+            <a href="Home.html" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="720">
                 <img src="images/679937ce1cb56e0bb03dfa3e58d1b354a622b2756096af69d559356980c8f9b173074db69623916ff544c133905c242c05c68e1eaa4984e2b555ed_1280.png" class="u-logo-image u-logo-image-1">
             </a>
         </div>
     </header>
 
-    <div id="graph"></div>
+    <div id="graph"></div> <!--Codice per la visualizazione 2D-->
 
     <script>
         fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
@@ -152,7 +152,7 @@
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
                 .onNodeClick((node, event) => {
-                    let url = `http://localhost:8080/WebPage/circle.html?id=${node.id}`;
+                    let url = `Circular.html?id=${node.id}`;
                     window.open(url);
 
                 })
