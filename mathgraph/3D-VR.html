@@ -140,7 +140,8 @@
             .jsonUrl('./Dataset/Output/graph.json')
             .nodeAutoColorBy('name')
             .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-            .onNodeClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+            .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
+            .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
             .nodeVal(d => { return linearScale(d.discendenti) })
     </script>
 

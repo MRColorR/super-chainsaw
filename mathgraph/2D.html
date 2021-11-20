@@ -151,11 +151,8 @@
                 .nodeId('id')
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
-                .onNodeClick((node, event) => {
-                    let url = `Circular.html?id=${node.id}`;
-                    window.open(url);
-
-                })
+                .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
+                .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
                 .linkSource('source')
                 .linkTarget('target');
 
