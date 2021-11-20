@@ -1,3 +1,6 @@
 #marker-png {
-    width:45vw;
+    width:25vw !important;
+}
+#markerDiv {
+    width: 25vw !important;
 }
