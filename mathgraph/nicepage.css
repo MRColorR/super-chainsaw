@@ -4,6 +4,8 @@
  * Copyright 2014-2020 Froala Labs
  */
 
+/*Le modifiche apportate sono commentate*/
+
 .fr-clearfix::after {
   clear: both;
   display: block;
@@ -32251,7 +32253,7 @@ a.u-button-style.u-button-style.u-text-palette-3-light-3.active,
 a.u-button-style.u-button-style.u-text-palette-3-light-3[class*="u-border-"].active {
   color: #fceeb7 !important;
 }
-a.u-button-style:hover > .u-text-hover-palette-3-light-3,
+a.u-button-style:hover > .u-text-hover-palette-3-light-3, /*Modifica on hover ai buttons in home*/
 a.u-button-style:hover > .u-text-hover-palette-3-light-3[class*="u-border-"],
 a.u-button-style.u-button-style.u-text-hover-palette-3-light-3:hover,
 a.u-button-style.u-button-style.u-text-hover-palette-3-light-3[class*="u-border-"]:hover,
@@ -32271,7 +32273,7 @@ a.u-button-style.u-button-style.active > .u-text-active-palette-3-light-3[class*
 :not(.level-2) > .u-nav > .u-nav-item > a.u-nav-link.u-nav-link.u-text-active-palette-3-light-3.active,
 .u-popupmenu-items.u-text-hover-palette-3-light-3 .u-nav-link:hover,
 .u-popupmenu-items.u-popupmenu-items.u-text-active-palette-3-light-3 .u-nav-link.active {
-  color: #fef9e6 !important;
+  color:black !important;
 }
 .u-text-palette-3-light-3 .u-svg-link,
 .u-text-hover-palette-3-light-3:hover .u-svg-link,
@@ -33636,10 +33638,10 @@ a.u-button-style.u-button-style.active > .u-text-active-body-color[class*="u-bor
 a.u-link.u-text-hover-body-color:hover {
   color: #111111 !important;
 }
-.u-text-body-alt-color,
+.u-text-body-alt-color, /*Modifica ai buttons in home*/
 a.u-button-style.u-text-body-alt-color,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"] {
-  color: #ffffff !important;
+    color: black !important;
 }
 a.u-button-style.u-text-body-alt-color:hover,
 a.u-button-style.u-text-body-alt-color[class*="u-border-"]:hover,
