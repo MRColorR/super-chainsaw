@@ -45,8 +45,8 @@ lines.forEach((row) => {
     }
 })
 
-//console.log(graph)
-
+/**
+ * Salvo il grafo ricavato in un file .json
+ */
 let jsonContent = JSON.stringify(graph);
-
 fs.writeFileSync('./Output/graph.json', jsonContent,'utf-8');
