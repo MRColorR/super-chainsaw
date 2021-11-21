@@ -1,6 +1,11 @@
-//carico il grafo in JSON
-//provo con indice 18331
 
+/**
+ * 
+ * @param {String} idRoot Id della radice da cui partire
+ * @param {Array} graph rappresentazione del grafo
+ * @returns lista inizializzata
+ * Inizializzo la lista partendo dalla radice
+ */
 function addRoot(idRoot, graph) {
     let root = addNode(idRoot, graph);
     const nodeList = {
@@ -11,6 +16,12 @@ function addRoot(idRoot, graph) {
     return nodeList;
 }
 
+/**
+ * 
+ * @param {String} id Id del nodo
+ * @param {Array} graph Rappresentazione del grafo
+ * @returns nodo corrispondente all' id.
+ */
 function addNode(id, graph) {
     for (let i = 0; i < graph.nodes.length; i++) {
         const element = graph.nodes[i];
@@ -28,11 +39,20 @@ function addNode(id, graph) {
         }
     }
 }
-
+/**
+ * 
+ * @param {String} name 
+ * Rimuovo parti del nome per renderlo più corto.
+ */
 function editName(name) {
     return name.replace(/\(([^()]+)\)/g, "");
 }
-
+/**
+ * 
+ * @param {String} id Id del nodo
+ * @param {Array} graph Rappresentazione del grafo
+ * @returns array contenente i vicini di un nodo.
+ */
 function getAllChildren(id, graph) {
     const arr = [];
     for (let i = 0; i < graph.links.length; i++) {
@@ -45,7 +65,13 @@ function getAllChildren(id, graph) {
     }
     return arr;
 }
-
+/**
+ * 
+ * @param {Array} nodo Radice dell'albero
+ * @param {*} graph rappresentazione del grafo
+ * @returns Lista di nodi partendo dalla radice
+ * Funzione ricorsiva che fa una DFS per cercare tutti i 'discendenti' della radice.
+ */
 function convertgraph(nodo, graph) {
     const nodiDaAggiungere = getAllChildren(nodo.name, graph);
     if (nodiDaAggiungere.length == 0)
@@ -57,7 +83,11 @@ function convertgraph(nodo, graph) {
         }
     }
 }
-
+/**
+ * 
+ * @param {Array} nodo 
+ * @returns vado a rimuovore il numero dei disceneti in tutta lista ma non nelle foglie.
+ */
 function removeValue(nodo) {
     if (nodo['children'].length == 0) {
         return;
@@ -69,6 +99,11 @@ function removeValue(nodo) {
     }
 }
 
+/**
+ * 
+ * @param {Array} graph Rappresentazione del grafo
+ * @returns Array contente id e grado uscente.
+ */
 export function findDegNodes(graph) {
     let degNodes = graph.links.reduce( (obj, edge) => {
         if (obj[edge.source] != undefined) {
@@ -82,7 +117,12 @@ export function findDegNodes(graph) {
     let sortedDegNodes = Object.entries(degNodes).sort( ([,a], [,b]) => b-a);
     return sortedDegNodes;
 }
-
+/**
+ * 
+ * @param {Array} graph Rappresentazione del grafo
+ * @param {String} idRoot Id radice
+ * @returns Lista contente il nodo radice e tutti i sui discendenti.
+ */
 export function createNodeList(graph, idRoot) {
     const nodeList = addRoot(idRoot, graph);
     convertgraph(nodeList, graph);

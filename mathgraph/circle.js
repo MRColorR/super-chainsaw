@@ -4,6 +4,7 @@ let nodesDeg, graph = undefined;
 
 window.onload = () => {
 
+    //recupero il parametro della richiesta GET
     let getParam = window.location.search.substr(1);
     let nodeIdClicked = undefined;
     if (getParam.length != 0) {
@@ -17,8 +18,10 @@ window.onload = () => {
 
     fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
         graph = data;
+        //trovo i nodi con il grado uscente maggiore
         nodesDeg = findDegNodes(data);
         const limit = 5;
+        //inserisco i primo 5 nodi con il grado maggiore nel menù
         for (let v in nodesDeg) {
             if (v >= limit)
                 break;
@@ -31,7 +34,8 @@ window.onload = () => {
             childList : true
         }
         let tooltip = document.getElementsByClassName('sunburst-tooltip')[0];
-
+        //Osservero il div con la classe 'sunburst-tooltip' e ogni volta che viene aggiunto un figlio al DOM
+        //lo vado a modificare per mettere in risalto il nome nel tooltip.
         const observer = new MutationObserver( event => {
             let target = event[0].target.children;
             const [title, size ,name] = target;
@@ -42,7 +46,7 @@ window.onload = () => {
     })
 
 }
-
+//disegno il grafo partendo da uno specifico id se specificato.
 function showGraph(id) {
     let idMaxDeg = nodesDeg[0]
     idMaxDeg = idMaxDeg[0]
@@ -63,7 +67,7 @@ function showGraph(id) {
 }
 
 
-
+//funzione che viene eseguita quando si attiva l'evento 'on-change' del menù a tendina.
 function changeGraph(event) {
       let index = event.target.value;
       showGraph(index);
