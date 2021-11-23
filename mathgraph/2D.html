@@ -131,11 +131,17 @@
     <div id="graph"></div> <!--Codice per la visualizazione 2D-->
 
     <script>
+
         fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
+
+            const minRadius = 4, maxRadius = 200;
+            const linkWidth = 2;
+            const forceStrength = -125;
+
 
             let linearScale = d3.scaleLinear()
                 .domain([0, 1200000])
-                .range([4, 200])
+                .range([minRadius, maxRadius])
 
             const Graph = ForceGraph()
                 (document.getElementById('graph'))
@@ -144,19 +150,25 @@
                 .graphData(data)
                 .nodeVal(d => { return linearScale(d.discendenti) })
                 .d3Force('charge', d3.forceManyBody()
-                    .strength(-125)
+                    .strength(forceStrength)
                 )
-                .d3Force('center', d3.forceCenter(0, 0)
-                )
+                .d3Force('center', d3.forceCenter(0, 0)) //da rivedere forse inutile
                 .nodeId('id')
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
                 .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
                 .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+                .linkLabel('country')
                 .linkSource('source')
-                .linkTarget('target');
-
+                .linkTarget('target')
+                .linkAutoColorBy('country')
+                .linkWidth(linkWidth);
+                
+                
+                //.linkDirectionalArrowLength(25); per vedere direzione degli archi il 25 è la grandezza della freccia.
         });
+
+
     </script>
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-02c4">
         <div class="u-clearfix u-sheet u-sheet-1">
