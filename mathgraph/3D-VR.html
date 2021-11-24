@@ -127,17 +127,24 @@
             </a>
         </div>
     </header>
-    <form action="/http://localhost:61665/3D-VR.html">
+    <form id="select-diameter" >
         <label for="diametro">Inserisci un diametro minimo: </label>
-        <input type="number"><br>
-        <input type="submit" value="Invio">
+        <input type="number" name="diametro" id='diametro'> <br>
+        <button type="button" onclick="event.preventDefault(); changeDiameter(this, event)"> Invio </button>
     </form>
     <div id="3d-graph"></div> <!--Codice per la visualizzazione 3D e VR del grafo-->
 
     <script>
-        const elem = document.getElementById('3d-graph');
+        let data = null, graph = null;
 
-        let linearScale = d3.scaleLinear()
+        window.onload = () => {
+            fetch('./Dataset/Output/graph.json').then(res => res.json()).then( res => {
+                data = res;
+                drawGraph(data);
+            });
+        }
+
+        const linearScale = d3.scaleLinear()
             .domain([0, 1200000])
             .range([10, 2000])
 
@@ -150,10 +157,9 @@
             .nodeVal(d => { return linearScale(d.discendenti) })
             .linkAutoColorBy('country')
             .linkLabel('country')
-            .linkWidth([3])
+            .linkWidth([5])
             .linkOpacity([0.7])
             .linkDirectionalParticles([3])
-            .linkDirectionalParticleWidth([5])
     </script>
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-02c4">
