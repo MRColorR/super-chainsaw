@@ -127,6 +127,11 @@
             </a>
         </div>
     </header>
+    <form action="/http://localhost:61665/3D-VR.html">
+        <label for="diametro">Inserisci un diametro minimo: </label>
+        <input type="number"><br>
+        <input type="submit" value="Invio">
+    </form>
     <div id="3d-graph"></div> <!--Codice per la visualizzazione 3D e VR del grafo-->
 
     <script>
@@ -143,6 +148,11 @@
             .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
             .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
             .nodeVal(d => { return linearScale(d.discendenti) })
+            .linkAutoColorBy('country')
+            .linkLabel('country')
+            .linkWidth([5])
+            .linkOpacity([0.7])
+            .linkDirectionalParticles([3])
     </script>
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-02c4">
