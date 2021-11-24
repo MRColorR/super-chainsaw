@@ -127,14 +127,22 @@
             </a>
         </div>
     </header>
-    <form action="/http://localhost:61665/3D-VR.html">
+    <form id="select-diameter" onsubmit="changeDiameter(this, event)">
         <label for="diametro">Inserisci un diametro minimo: </label>
-        <input type="number"><br>
-        <input type="submit" value="Invio">
+        <input type="number" name="diametro" id='diametro'> <br>
+        <button type="submit" > Invio </button>
     </form>
     <div id="3d-graph"></div> <!--Codice per la visualizzazione 3D e VR del grafo-->
 
     <script>
+
+        function changeDiameter(form, event) {
+            event.preventDefault();
+            const diametroMin = form.diametro.value;
+            console.log(diametroMin);
+        }
+
+
         const elem = document.getElementById('3d-graph');
 
         let linearScale = d3.scaleLinear()
