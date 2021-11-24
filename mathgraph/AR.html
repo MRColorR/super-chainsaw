@@ -19,7 +19,10 @@
             (document.getElementById('AR-graph')).jsonUrl('./Dataset/Output/graph.json')
             .nodeAutoColorBy('name')
             .linkAutoColorBy('country')
-            .linkDirectionalParticles(2)
+            .linkWidth([2])
+            .linkOpacity([0.7])
+            .linkDirectionalParticles([3])
+            .linkDirectionalParticleWidth([4])
 
     </script>
 </body>
