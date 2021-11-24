@@ -127,40 +127,82 @@
             </a>
         </div>
     </header>
-    <form id="select-diameter" onsubmit="changeDiameter(this, event)">
+    <form id="select-diameter" >
         <label for="diametro">Inserisci un diametro minimo: </label>
         <input type="number" name="diametro" id='diametro'> <br>
-        <button type="submit" > Invio </button>
+        <button type="button" onclick="event.preventDefault(); changeDiameter(this, event)"> Invio </button>
     </form>
     <div id="3d-graph"></div> <!--Codice per la visualizzazione 3D e VR del grafo-->
 
     <script>
+        let data = null, graph = null;
 
-        function changeDiameter(form, event) {
-            event.preventDefault();
-            const diametroMin = form.diametro.value;
-            console.log(diametroMin);
+        window.onload = () => {
+            fetch('./Dataset/Output/graph.json').then(res => res.json()).then( res => {
+                data = res;
+                drawGraph(data);
+            });
         }
 
-
-        const elem = document.getElementById('3d-graph');
-
-        let linearScale = d3.scaleLinear()
+        const linearScale = d3.scaleLinear()
             .domain([0, 1200000])
-            .range([10, 2000])
+            .range([10, 2000]);
+        
+        function drawGraph(graphToDraw, strenght = null) {
+            const elem = document.getElementById('3d-graph');
+            let i = 0;
+            while (elem.firstChild) {
+                ++i;
+                elem.removeChild(elem.firstChild);
+            }
+            console.log(`figli eliminati ${i}`);
+            graph = ForceGraph3D()(elem)
+                .graphData(graphToDraw)
+                .nodeAutoColorBy('name')
 
-        const Graph = ForceGraph3D()(elem)
-            .jsonUrl('./Dataset/Output/graph.json')
-            .nodeAutoColorBy('name')
-            .nodeLabel(node => `${node.name}: ${node.discendenti}`)
-            .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
-            .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
-            .nodeVal(d => { return linearScale(d.discendenti) })
-            .linkAutoColorBy('country')
-            .linkLabel('country')
-            .linkWidth([5])
-            .linkOpacity([0.7])
-            .linkDirectionalParticles([3])
+                .nodeLabel(node => `${node.name}: ${node.discendenti}`)
+                .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
+                .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+                .nodeVal(d => { return linearScale(d.discendenti) })
+                .linkAutoColorBy('country')
+                .linkLabel('country')
+                .linkWidth([5])
+                .linkOpacity([0.7])
+                .linkDirectionalParticles([3]);
+            if (strenght) 
+                graph.d3Force('charge', d3.forceManyBody()
+                    .strength(-strenght*8)
+                )
+                graph.d3Force('link', d3.forceLink().strenght(strenght* 5))
+        }
+        
+
+        function changeDiameter(button) {
+            const diametroMin = button.form.diametro.value;
+            let totalNodesDeleted = 0, totalEdgeDeleted = 0; idsRemoved = [];
+            newGraph = {
+                'nodes': [],
+                'links': []
+            }
+            
+            newGraph.nodes = data.nodes.map( node => {
+                if (linearScale(node.discendenti) >= diametroMin)
+                    return node;
+                totalNodesDeleted += 1;
+                idsRemoved.push(node.id);
+            }).filter (node =>  node !== undefined);
+            
+            newGraph.links = data.links.map( edge => {
+                if ( !(idsRemoved.includes(edge.source.id) || idsRemoved.includes(edge.target.id)) ) {
+                    return edge;
+                }
+                totalEdgeDeleted += 1;
+            }).filter (edge => edge !== undefined);
+
+            console.log(`Nodi Eliminati: ${totalNodesDeleted} Archi Eliminati: ${totalEdgeDeleted} `);
+            drawGraph(newGraph, diametroMin );
+        }
+  
     </script>
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-02c4">
