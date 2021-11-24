@@ -1,0 +1,33 @@
+<head>
+    <style>
+        body {
+            margin: 0;
+            overflow:visible;
+        }
+
+        .a-enter-vr-button {
+            display: inline-block;
+        }
+    </style>
+    <!--Caricamento Librerie per la visualizzazione grafo-->
+    <script src="//unpkg.com/aframe"></script>
+    <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
+
+    <script src="//unpkg.com/3d-force-graph-ar"></script>
+    <!--  <script src="../../dist/3d-force-graph-ar.js"></script>-->
+</head>
+
+<body>
+    <div id="AR-graph"></div>
+
+    <script>
+
+
+        const Graph = ForceGraphAR()
+            (document.getElementById('AR-graph')).jsonUrl('./Dataset/Output/graph.json')
+            .nodeAutoColorBy('name')
+            .linkAutoColorBy('country')
+            .linkDirectionalParticles(2)
+
+    </script>
+</body>
