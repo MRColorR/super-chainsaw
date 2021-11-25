@@ -4,7 +4,7 @@
     <!--Caricamento Librerie per la visualizzazione grafo-->
     <script src="//unpkg.com/aframe"></script>
     <script src="//unpkg.com/ar.js/aframe/build/aframe-ar.min.js"></script>
-
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="//unpkg.com/3d-force-graph-ar"></script>
     <!--  <script src="../../dist/3d-force-graph-ar.js"></script>-->
 </head>
@@ -13,16 +13,19 @@
     <div id="AR-graph"></div>
 
     <script>
-
+        const linearScale = d3.scaleLinear()
+            .domain([0, 1200000])
+            .range([10, 2000]);
 
         const Graph = ForceGraphAR()
-            (document.getElementById('AR-graph')).jsonUrl('./Dataset/Output/graph.json')
+            (document.getElementById('AR-graph')).jsonUrl('./Dataset/Output/graph.json').glScale(1000)
             .nodeAutoColorBy('name')
             .linkAutoColorBy('country')
             .linkWidth([1])
             .linkOpacity([0.7])
             .linkDirectionalParticles([2])
             .linkDirectionalParticleWidth([2])
+            .nodeVal(d => { return linearScale(d.discendenti) });
 
     </script>
 </body>

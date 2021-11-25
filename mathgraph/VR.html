@@ -3,6 +3,7 @@
     <link rel="stylesheet" href="VR.css" media="screen">
 
     <!--Caricamento Librerie per la visualizzazione grafo-->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="//unpkg.com/3d-force-graph-vr"></script>
 
 </head>
@@ -11,6 +12,9 @@
     <div id="VR-graph"></div>
 
     <script>
+        const linearScale = d3.scaleLinear()
+            .domain([0, 1200000])
+            .range([10, 2000]);
 
         const Graph = ForceGraphVR()
             (document.getElementById('VR-graph')).jsonUrl('./Dataset/Output/graph.json')
@@ -19,6 +23,7 @@
             .linkWidth([1])
             .linkOpacity([0.7])
             .linkDirectionalParticles([2])
-            .linkDirectionalParticleWidth([2]);
+            .linkDirectionalParticleWidth([2])
+            .nodeVal(d => { return linearScale(d.discendenti) });
     </script>
 </body>
