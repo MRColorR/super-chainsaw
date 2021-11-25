@@ -133,7 +133,7 @@
             </a>
         </div>
     </header>
-    <form id="select-diameter">
+    <form id="select-diameter" onsubmit="event.preventDefault(); changeDiameter2()">
         <label for="diametro">Inserisci un diametro minimo: </label>
         <input type="number" name="diametro" id='diametro'> <br>
         <button type="button" onclick="event.preventDefault(); changeDiameter(this, event)"> Invio </button>
@@ -188,6 +188,33 @@
 
         function changeDiameter(button) {
             const diametroMin = button.form.diametro.value;
+            let totalNodesDeleted = 0, totalEdgeDeleted = 0; idsRemoved = [];
+            newGraph = {
+                'nodes': [],
+                'links': []
+            }
+
+            newGraph.nodes = data.nodes.map(node => {
+                if (linearScale(node.discendenti) >= diametroMin)
+                    return node;
+                totalNodesDeleted += 1;
+                idsRemoved.push(node.id);
+            }).filter(node => node !== undefined);
+
+            newGraph.links = data.links.map(edge => {
+                if (!(idsRemoved.includes(edge.source.id) || idsRemoved.includes(edge.target.id))) {
+                    return edge;
+                }
+                totalEdgeDeleted += 1;
+            }).filter(edge => edge !== undefined);
+
+            console.log(`Nodi Eliminati: ${totalNodesDeleted} Archi Eliminati: ${totalEdgeDeleted} `);
+            drawGraph(newGraph, diametroMin);
+        }
+
+        function changeDiameter2() {
+            const diametroMin = document.getElementById("diametro").value;
+            console.log(diametroMin);
             let totalNodesDeleted = 0, totalEdgeDeleted = 0; idsRemoved = [];
             newGraph = {
                 'nodes': [],
