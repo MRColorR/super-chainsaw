@@ -142,7 +142,7 @@
         fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
 
             const minRadius = 4, maxRadius = 200;
-            const linkWidth = 2;
+            const linkWidth = 1;
             const forceStrength = -125;
 
 
@@ -170,9 +170,10 @@
                 .linkTarget('target')
                 .linkAutoColorBy('country')
                 .linkWidth(linkWidth)
-                .linkDirectionalParticles([3])
-                .linkDirectionalParticleWidth([5])
+                .linkDirectionalParticles([2])
+                .linkDirectionalParticleWidth([2])
                 .linkDirectionalParticleColor(["blue"])
+                .backgroundColor("black");
                 
                 
                 //.linkDirectionalArrowLength(25); per vedere direzione degli archi il 25 è la grandezza della freccia.
