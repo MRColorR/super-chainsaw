@@ -16,7 +16,9 @@
             (document.getElementById('VR-graph')).jsonUrl('./Dataset/Output/graph.json')
             .nodeAutoColorBy('name')
             .linkAutoColorBy('country')
-            .linkDirectionalParticles(2);
-        document.querySelector('.a-enter-vr-button').style.visible = 'block';
+            .linkWidth([1])
+            .linkOpacity([0.7])
+            .linkDirectionalParticles([2])
+            .linkDirectionalParticleWidth([2]);
     </script>
 </body>
