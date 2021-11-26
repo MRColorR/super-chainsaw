@@ -12,6 +12,24 @@
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
 
+    <style>
+        .menu-contestuale-wrapper {
+            position: absolute;
+            transform: translate(-50%, 25px);
+            font-family: sans-serif;
+            font-size: 16px;
+            padding: 5px;
+            border-radius: 3px;
+            color: #eee;
+            background: rgba(119, 117, 117, 0.726);
+        }
+        .menu-contestuale-button {
+            margin: 5px;
+            display: block;
+            color: black;
+        }
+    </style>
+
     <script src="https://d3js.org/d3.v7.min.js"></script> <!--Caricamento Librerie per la visualizzazione grafo-->
     <script src="//unpkg.com/force-graph"></script>
 
@@ -139,6 +157,11 @@
 
     <script>
 
+        const removeMenu = () => {
+            console.log('rimuovo il wrapper');
+            d3.select('.menu-contestuale-wrapper').remove();
+        }
+
         fetch('./Dataset/Output/graph.json').then(res => res.json()).then(data => {
 
             const minRadius = 4, maxRadius = 200;
@@ -163,8 +186,63 @@
                 .nodeId('id')
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
-                .onNodeClick(node => window.open(`Circular.html?id=${node.id}`, '_blank'))
-                .onNodeRightClick(node => window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank'))
+                .onNodeClick(node => {
+                    //window.open(`Circular.html?id=${node.id}`, '_blank')
+                    const div = d3.select('.graph-tooltip');
+                    const top = div.style('top');
+                    const left = div.style('left'); 
+
+                    const graphWrapper = d3.select('.force-graph-container');
+
+                    graphWrapper.append('div')
+                                .classed('menu-contestuale-wrapper',true)
+                                .attr('id',  'menu-contestuale')
+                                .style('top', top)
+                                .style('left', left)
+                                .on('mouseleave', removeMenu);
+
+                    const menuContestuale = d3.select('#menu-contestuale');
+
+                    menuContestuale.append('button')
+                                   .classed('menu-contestuale-button', true)
+                                   .text('Visualizzazione Circolare')
+                                   .attr('type', 'button')
+                                   .on('click', () => {
+                                        window.open(`Circular.html?id=${node.id}`, '_blank')
+                                   })
+
+                    menuContestuale.append('button')
+                                   .classed('menu-contestuale-button', true)         
+                                   .text('Cerca su Wikipedia    ')
+                                   .attr('type', 'button')
+                                   .on('click', () => {
+                                        console.log("ciaone")
+                                        window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank')
+                    })
+
+
+                    // const div = document.getElementsByClassName('graph-tooltip')[0];
+                    // const top = div.style.top, left = div.style.left;
+                    // const parentDiv = div.parentNode;
+                    // const newDiv = document.createElement('div');
+                    // newDiv.id='menu-contestuale'
+                    // console.log(newDiv)
+                    // newDiv.className = 'graph-tooltip';
+                    // newDiv.style.top = top;
+                    // newDiv.style.left = left;
+                    // const linkCircle = document.createElement('a');
+                    // linkCircle.setAttribute('href', `Circular.html?id=${node.id}`);
+                    // linkCircle.text = 'Rappresentazione Circolare';
+                    // const linkWiki = document.createElement('a');
+                    // linkWiki.setAttribute('href', `https://it.wikipedia.org/w/index.php?search=${node.name}`);
+                    // linkWiki.text = 'Cerca in Wikipedia';
+                    // console.log(linkCircle, linkWiki)
+                    // newDiv.appendChild(linkCircle);
+                    // newDiv.appendChild(linkWiki);
+                    // newDiv.style.visibility = 'visible';
+                    // parentDiv.appendChild(newDiv);
+                    // console.log(newDiv);
+                })
                 .linkLabel('country')
                 .linkSource('source')
                 .linkTarget('target')
