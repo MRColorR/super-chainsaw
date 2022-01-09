@@ -46,6 +46,19 @@ lines.forEach((row) => {
 })
 
 /**
+ * Aggiorno i discendenti dei nodi con il grado di questa partizione
+ */
+ let deg = {}
+ for (let x of graph.links) {
+    if (deg[x.source])
+         deg[x.source] += 1
+     else 
+         deg[x.source] = 1
+ }
+ for (let y of graph.nodes) {
+     y.discendenti = (deg[y.id] !== undefined) ? deg[y.id] : 0
+ }
+/**
  * Salvo il grafo ricavato in un file .json
  */
 let jsonContent = JSON.stringify(graph);

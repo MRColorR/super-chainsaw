@@ -150,7 +150,7 @@
             </a>
         </div>
     </header>
-    <form id="select-diameter" onsubmit="event.preventDefault(); changeDiameter2()">
+    <form id="select-diameter" onsubmit="event.preventDefault(); changeDiameter()">
         <label for="diametro">Inserisci un diametro minimo: </label>
         <input type="number" name="diametro" id='diametro'>
         <button type="button" onclick="event.preventDefault(); changeDiameter(this, event)"> Invio </button>
@@ -159,7 +159,7 @@
 
     <script>
         let data = null, graph = null;
-
+        //scarico il dataset
         window.onload = () => {
             fetch('./Dataset/Output/graph.json').then(res => res.json()).then(res => {
                 data = res;
@@ -171,10 +171,10 @@
             d3.select('.menu-contestuale-wrapper').remove();
         }
 
-        const linearScale = d3.scaleLinear()
-            .domain([0, 1200000])
-            .range([10, 2000]);
-
+        /**
+         * Elimina la visualizzazione precedente e ne crea una aggiornata
+         * 
+         */
         function drawGraph(graphToDraw, strenght = null) {
             const elem = document.getElementById('3d-graph');
             let i = 0;
@@ -189,39 +189,41 @@
 
                 .nodeLabel(node => `${node.name}: ${node.discendenti}`)
                 .onNodeClick(node => {
-                    //window.open(`Circular.html?id=${node.id}`, '_blank')
-                    const div = d3.select('.scene-tooltip');
-                    const top = div.style('top');
-                    const left = div.style('left'); 
+                    //controllo se il menù è gia stato creato
+                    if (!document.getElementById("menu-contestuale")) {
+                        const div = d3.select('.scene-tooltip');
+                        const top = div.style('top');
+                        const left = div.style('left'); 
 
-                    const graphWrapper = d3.select('.scene-container');
-                    //creo un menu-wrapper (div)
-                    graphWrapper.append('div')
-                                .classed('menu-contestuale-wrapper',true)
-                                .attr('id',  'menu-contestuale')
-                                .style('top', top)
-                                .style('left', left)
-                                .on('mouseleave', removeMenu);
+                        const graphWrapper = d3.select('.scene-container');
+                        //creo un menu-wrapper (div)
+                        graphWrapper.append('div')
+                                    .classed('menu-contestuale-wrapper',true)
+                                    .attr('id',  'menu-contestuale')
+                                    .style('top', top)
+                                    .style('left', left)
+                                    .on('mouseleave', removeMenu);
 
-                    const menuContestuale = d3.select('#menu-contestuale');
-                    //appendo nel documento i bottoni del menu contestuale
-                    menuContestuale.append('button')
-                                   .classed('menu-contestuale-button', true)
-                                   .text('Visualizzazione Circolare')
-                                   .attr('type', 'button')
-                                   .on('click', () => {
-                                        window.open(`Circular.html?id=${node.id}`, '_blank')
-                                   })
+                        const menuContestuale = d3.select('#menu-contestuale');
+                        //appendo nel documento i bottoni del menu contestuale
+                        menuContestuale.append('button')
+                                    .classed('menu-contestuale-button', true)
+                                    .text('Visualizzazione Circolare')
+                                    .attr('type', 'button')
+                                    .on('click', () => {
+                                            window.open(`Circular.html?id=${node.id}`, '_blank')
+                                    })
 
-                    menuContestuale.append('button')
-                                   .classed('menu-contestuale-button', true)         
-                                   .text('Cerca su Wikipedia    ')
-                                   .attr('type', 'button')
-                                   .on('click', () => {
-                                        window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank')
-                    })
+                        menuContestuale.append('button')
+                                    .classed('menu-contestuale-button', true)         
+                                    .text('Cerca su Wikipedia    ')
+                                    .attr('type', 'button')
+                                    .on('click', () => {
+                                            window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank')
+                        })
+                    }
                 })
-                .nodeVal(d => { return linearScale(d.discendenti) })
+                .nodeVal(d => { return d.discendenti * 0.5 + 1.3 })
                 .linkAutoColorBy('country')
                 .linkLabel('country')
                 .linkWidth([1])
@@ -232,14 +234,22 @@
                 graph.d3Force('charge', d3.forceManyBody()
                     .strength(-strenght * 8)
                 );
-                //graph.d3Force('link', d3.forceLink().strenght(strenght * 5)); 
             }
             
         }
 
-
+        /** 
+         * Aggiorno il grafo prendendo solo i nodi con il grado specificato
+         * (Il diametro di un nodo dipende dal suo grado)
+        */
         function changeDiameter(button) {
-            const diametroMin = button.form.diametro.value;
+            console.log("changeDiameter")
+            let diametroMin = 0;
+            if (button) 
+                diametroMin = button.form.diametro.value;
+            else
+                diametroMin = document.getElementById("diametro").value;
+            console.log(diametroMin)
             let totalNodesDeleted = 0, totalEdgeDeleted = 0; idsRemoved = [];
             newGraph = {
                 'nodes': [],
@@ -247,7 +257,7 @@
             }
 
             newGraph.nodes = data.nodes.map(node => {
-                if (linearScale(node.discendenti) >= diametroMin)
+                if (node.discendenti >= diametroMin)
                     return node;
                 totalNodesDeleted += 1;
                 idsRemoved.push(node.id);
@@ -263,34 +273,6 @@
             //console.log(`Nodi Eliminati: ${totalNodesDeleted} Archi Eliminati: ${totalEdgeDeleted} `);
             drawGraph(newGraph, diametroMin);
         }
-
-        function changeDiameter2() {
-            const diametroMin = document.getElementById("diametro").value;
-            console.log(diametroMin);
-            let totalNodesDeleted = 0, totalEdgeDeleted = 0; idsRemoved = [];
-            newGraph = {
-                'nodes': [],
-                'links': []
-            }
-
-            newGraph.nodes = data.nodes.map(node => {
-                if (linearScale(node.discendenti) >= diametroMin)
-                    return node;
-                totalNodesDeleted += 1;
-                idsRemoved.push(node.id);
-            }).filter(node => node !== undefined);
-
-            newGraph.links = data.links.map(edge => {
-                if (!(idsRemoved.includes(edge.source.id) || idsRemoved.includes(edge.target.id))) {
-                    return edge;
-                }
-                totalEdgeDeleted += 1;
-            }).filter(edge => edge !== undefined);
-
-            console.log(`Nodi Eliminati: ${totalNodesDeleted} Archi Eliminati: ${totalEdgeDeleted} `);
-            drawGraph(newGraph, diametroMin);
-        }
-
     </script>
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-02c4">
