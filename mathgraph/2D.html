@@ -8,7 +8,6 @@
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>2D</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="2D.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
 
@@ -187,37 +186,40 @@
                 .nodeLabel('name')
                 .nodeAutoColorBy('name')
                 .onNodeClick(node => {
-                    //Recupero le coordinate del mouse dal div che ha class .graph.tooltip
-                    const div = d3.select('.graph-tooltip');
-                    const top = div.style('top');
-                    const left = div.style('left'); 
+                    //controllo se il menù è gia stato creato
+                    if (!d3.select('#menu-contestuale')) {
+                        //Recupero le coordinate del mouse dal div che ha class .graph.tooltip
+                        const div = d3.select('.graph-tooltip');
+                        const top = div.style('top');
+                        const left = div.style('left');
 
-                    const graphWrapper = d3.select('.force-graph-container');
-                    //creo un menu-wrapper (div)
-                    graphWrapper.append('div')
-                                .classed('menu-contestuale-wrapper',true)
-                                .attr('id',  'menu-contestuale')
-                                .style('top', top)
-                                .style('left', left)
-                                .on('mouseleave', removeMenu);
+                        const graphWrapper = d3.select('.force-graph-container');
+                        //creo un menu-wrapper (div)
+                        graphWrapper.append('div')
+                            .classed('menu-contestuale-wrapper', true)
+                            .attr('id', 'menu-contestuale')
+                            .style('top', top)
+                            .style('left', left)
+                            .on('mouseleave', removeMenu);
 
-                    const menuContestuale = d3.select('#menu-contestuale');
-                    //appendo nel documento i bottoni del menu contestuale
-                    menuContestuale.append('button')
-                                   .classed('menu-contestuale-button', true)
-                                   .text('Visualizzazione Circolare')
-                                   .attr('type', 'button')
-                                   .on('click', () => {
-                                        window.open(`Circular.html?id=${node.id}`, '_blank')
-                                   })
+                        const menuContestuale = d3.select('#menu-contestuale');
+                        //appendo nel documento i bottoni del menu contestuale
+                        menuContestuale.append('button')
+                            .classed('menu-contestuale-button', true)
+                            .text('Visualizzazione Circolare')
+                            .attr('type', 'button')
+                            .on('click', () => {
+                                window.open(`Circular.html?id=${node.id}`, '_blank')
+                            })
 
-                    menuContestuale.append('button')
-                                   .classed('menu-contestuale-button', true)         
-                                   .text('Cerca su Wikipedia    ')
-                                   .attr('type', 'button')
-                                   .on('click', () => {
-                                        window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank')
-                    })
+                        menuContestuale.append('button')
+                            .classed('menu-contestuale-button', true)
+                            .text('Cerca su Wikipedia    ')
+                            .attr('type', 'button')
+                            .on('click', () => {
+                                window.open(`https://it.wikipedia.org/w/index.php?search=${node.name}`, '_blank')
+                            })
+                    }
                 })
                 .linkLabel('country')
                 .linkSource('source')
