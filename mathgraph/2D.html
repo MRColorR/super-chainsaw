@@ -219,7 +219,7 @@
                 )
                 .d3Force('link', d3.forceLink())
                 .nodeId('id')
-                .nodeLabel('name')
+                .nodeLabel(node => `${node.name}: ${node.discendenti}`)
                 .nodeAutoColorBy('name')
                 .onNodeClick(node => {
                     console.log(node)
