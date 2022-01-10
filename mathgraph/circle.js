@@ -60,6 +60,7 @@ function showGraph(id) {
         .color(d => color(d.name))
         .label( d => d.id )
         .showLabels(true)
+        .size(d => d.value)
         .tooltipContent( (d, node)=> {     
             return `Size: <i>${node.value}</i> <div class="tooltip-name">${d.id}</div> `;
         })

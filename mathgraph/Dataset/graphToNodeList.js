@@ -11,6 +11,7 @@ function addRoot(idRoot, graph) {
     const nodeList = {
         'name' : root.name,
         'id' : root.id, 
+        'value': root.value,
         'children' : []
     }
     return nodeList;
@@ -27,14 +28,12 @@ function addNode(id, graph) {
         const element = graph.nodes[i];
         let newNode = undefined;
         if (element.id == id) {
-            if (element.discendenti != 0) {
                 newNode = {
-                    name: id,
-                    id: editName(element.name),
-                    value: element.discendenti,
-                    children: []
+                    "name": id,
+                    "id": editName(element.name),
+                    "value": (element.discendenti == 0) ? 1 : element.discendenti+1,
+                    "children": []
                 }
-            }
             return newNode;
         }
     }
@@ -126,6 +125,7 @@ export function findDegNodes(graph) {
 export function createNodeList(graph, idRoot) {
     const nodeList = addRoot(idRoot, graph);
     convertgraph(nodeList, graph);
+    console.log(nodeList)
     removeValue(nodeList);
     return nodeList;
 }
