@@ -2,13 +2,16 @@
 
 <!-- Project README scaffold: https://github.com/MRColorR/project-template -->
 
-[Overview](#overview) | [Getting started](#getting-started) | [Documentation](#documentation) | [Contributing](#contributing) | [Support](#support) | [License](#license)
+**Explore mathematical genealogy through interactive visualizations in 2D, 3D, AR, and VR.**
+
+[**Explore the visualizations**](#getting-started) · [Documentation](#documentation) · [Support](#support)
+
+**Leave a star ⭐ if you like this project 🙂 Thank you!**
 
 ## Overview
 
 BigData Visualization project / Information visualization project: A site has been created in wich is possible to view and interact with data provided by the mathematical genealogy project. Navigable interactive displays have been created in 2D, 3D, AR and VR. With animations and sizes of the displayed data that explain the relationships between the data in a simple and intuitive way.
 
-- [x] Leave a star ⭐ if you like this project 🙂 thank you.
 
 <a name="main-functions"></a>
 
@@ -53,13 +56,9 @@ Please include enough context to reproduce a problem or review a change.
 
 ## Support
 
-Ko-fi supports Mattia / MrColorRain's work across projects.
+Help fund ongoing development, testing, and documentation with a one-time contribution or monthly membership on [Ko-fi](https://ko-fi.com/mrcolorrain). Technical decisions remain independent.
 
-Support ongoing development, testing and documentation through [Ko-fi](https://ko-fi.com/mrcolorrain). One-time contributions and monthly memberships are welcome, and you can pledge above a tier's minimum.
-
-Your contribution helps me keep building, testing and sharing useful work. Explore the membership benefits on Ko-fi and choose the way you would like to support. Technical decisions remain independent.
-
-See the [supporters and sponsors directory](https://github.com/MRColorR/MRColorR/blob/main/SPONSORS.md) for acknowledgments.
+Thank you to the people who support MrColorRain’s work. See the [supporters and sponsors directory](https://github.com/MRColorR/MRColorR/blob/main/SPONSORS.md).
 
 ## License
 
